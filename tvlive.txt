@@ -164,10 +164,7 @@ CCTV17,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv17HD/__op/default/__
 金鹰纪实,http://39.135.138.58:18890/PLTV/88888888/224/3221226198/index.m3u8
 金鹰纪实,http://39.135.138.58:18890/ysten-businessmobile/live/SD-4000k-576P-jinyingjs/1.m3u8
 湖南公共,http://124.232.233.17:6610/000000001001/201600020007/1400.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-湖南教育,http://pull.hnedutv.com/live/hnedutv1206.m3u8?zhund
 湖南电视剧,http://124.232.233.17:6610/000000001001/201600020006/1400.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-湖南公共,http://124.232.231.246:6610/000000001001/201600010007/index.m3u8?A=&IASHttpSessionId=OTT?zhund
-湖南公共,http://124.232.231.246:6610/000000001001/201600020007/index.m3u8?A=&IASHttpSessionId=OTT?zhund
 长沙影视,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_350.flv?auth_key=1936694127-0-0-f081dadf4de8780d84d51755eb65e516
 长沙政法,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_348.flv?auth_key=1936693647-0-0-09a2ab1e7112296d76b1c37999a5cf32
 湖南公共,http://124.232.231.246:6610/000000001001/201600010007/index.m3u8?A=&IASHttpSessionId=OTT
@@ -178,7 +175,6 @@ CCTV17,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv17HD/__op/default/__
 湖南国际,http://124.232.233.17:6610/000000001001/201600020001/1400.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 湖南都市,http://124.232.233.15:6610/000000001001/201600020003/1400.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 湖南都市,http://124.232.233.17:6610/000000001001/201600020003/1400.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-湖南教育,http://pull.hnedutv.com/live/hnedutv1206.m3u8
 永州公共,http://stream.21ytv.com/gg/8twnQW67/live.m3u8
 永州公共,http://stream.21ytv.com/gg/playlist.m3u8
 永州新闻,http://stream.21ytv.com/xw/playlist.m3u8
@@ -224,8 +220,8 @@ CCTV17,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv17HD/__op/default/__
 TVB翡翠台,https://cdn.hklive.tv/xxxx/81/index.m3u8
 TVB翡翠台,https://cdn.hklive.tv:443/xxxx/81/index.m3u8
 TVB影视,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221231733/1.m3u8 
-星空卫视,http://120.84.96.63:808/hls/79/index.m3u8$标清576P
-星空卫视,http://120.84.96.71:808/hls/79/index.m3u8$标清576P
+星空卫视,http://120.84.96.63:808/hls/79/index.m3u8
+星空卫视,http://120.84.96.71:808/hls/79/index.m3u8
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
