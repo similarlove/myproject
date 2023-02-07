@@ -370,7 +370,8 @@ CCTV8K,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233413/index.m3u8
 央视台球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
 
 湖南地方,#genre#
-湖南,http://39.135.32.24:6610/000000001000/1000000001000009115/1.m3u8?xtkg?zhund
+金鹰卡通,http://iptv.tvfix.org/hls/jykttv.m3u8
+金鹰卡通,http://39.134.115.163:8080/PLTV/88888910/224/3221225721/index.m3u8
 金鹰纪实,http://39.135.32.24:6610/000000001000/1000000002000011724/1.m3u8?xtkg?zhund
 金鹰纪实,http://124.232.231.246:6610/000000001001/201600020008/index.m3u8?A=&IASHttpSessionId=OTT?zhund
 湖南国际,http://124.232.231.246:6610/000000001001/201600010001/index.m3u8?A=&IASHttpSessionId=OTT?zhund
@@ -862,12 +863,10 @@ HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8$高清1080P
 优漫卡通,http://183.207.249.15:80/PLTV/4/224/3221225933/index.m3u8?
 动漫秀场,http://140.207.241.2:8080/live/program/live/dmxchd/4000000/mnf.m3u8
 哈哈炫动,http://iptv.tvfix.org/hls/hhxdhd.m3u8
-金鹰卡通,http://iptv.tvfix.org/hls/jykttv.m3u8
 卡酷少兒,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8
 卡酷少兒,http://ott.js.chinamobile.com/PLTV/4/224/3221226305/index.m3u8
 卡酷少兒,http://183.207.248.71/gitv/live1/G_KAKU/G_KAKU
 卡酷少兒,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226558/1.m3u8
-金鹰卡通,http://39.134.115.163:8080/PLTV/88888910/224/3221225721/index.m3u8
 南京少兒,http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
 浙江少兒,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
 福州少儿,http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
