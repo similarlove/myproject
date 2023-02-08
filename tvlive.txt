@@ -240,7 +240,7 @@ TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 斗鱼doinb,https://akm-tct.douyucdn.cn/live/252140rqCz3hTpJi.m3u8
 斗鱼余小C,https://akm-tct.douyucdn.cn/live/1126960rPXROLJ7f.m3u8
 斗鱼苗大冬,https://akm-tct.douyucdn.cn/live/8067328rdAJiC4AD.m3u8
-虎牙THYSHT,https://al.flv.huya.com/src/1199536199401-1199536199401-5327150230464888832-2399072522258-10057-A-0-1-imgplus.flv?wsSecret=57c84a1da25db5d9eca50e90204e5535&wsTime=63e4a2f9&u=0&seqid=16758419293349486&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&exsphd=264_500,264_2000,264_4000,&t=103
+
 
 
 动物纪录,#genre#
