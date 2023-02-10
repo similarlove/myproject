@@ -172,9 +172,7 @@ CCTV17,http://39.136.172.2/hlsztemgsplive.miguvideo.com/migu/kailu/20200324/cctv
 
 咪咕体育,http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/virtuallive/tysy201903/75/index.m3u8?ProgramID=&encrypt=
 
-
-CGTN,
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/envivo_x/2018/SD/cctvnews/1000/index.m3u8?ProgramID=&encrypt=
+CGTN,http://39.136.172.2/hlsztemgsplive.miguvideo.com/envivo_x/2018/SD/cctvnews/1000/index.m3u8?ProgramID=&encrypt=
 
 CGTN纪录,
 http://39.136.172.2/hlsztemgsplive.miguvideo.com/envivo_v/2018/SD/cctv/doc/1000/index.m3u8?ProgramID=&encrypt=
