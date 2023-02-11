@@ -807,7 +807,7 @@ CCTV央视台球,http://bytedance.live.cqccn.com/__cl/cg:live/__c/ystqHD/__op/de
 CCTV女性时尚,http://bytedance.live.cqccn.com/__cl/cg:live/__c/nvxing/__op/default/__f//index.m3u8
 
 
-湖南地方频道,#genre#
+湖南地方,#genre#
 湖南卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225704/index.m3u8
 金鹰卡通,http://bytedance.live.cqccn.com/__cl/cg:live/__c/jinyingSD/__op/default/__f//index.m3u8
 金鹰卡通,http://124.232.233.17:6610/000000001001/201600020009/1400.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
