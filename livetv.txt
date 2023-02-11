@@ -598,6 +598,7 @@ CCTV10,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212261
 
 
 湖南卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/hunanHD/__op/default/__f//index.m3u8
+湖南卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225704/index.m3u8
 湖南卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225704/index.m3u8
 湖南卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225745/index.m3u8
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
@@ -808,7 +809,6 @@ CCTV女性时尚,http://bytedance.live.cqccn.com/__cl/cg:live/__c/nvxing/__op/de
 
 
 💖｜湖南地方,#genre#
-湖南卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225704/index.m3u8
 金鹰卡通,http://bytedance.live.cqccn.com/__cl/cg:live/__c/jinyingSD/__op/default/__f//index.m3u8
 金鹰卡通,http://124.232.233.17:6610/000000001001/201600020009/1400.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 金鹰卡通,http://39.134.115.163:8080/PLTV/88888910/224/3221225721/index.m3u8
