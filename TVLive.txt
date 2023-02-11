@@ -1,4 +1,4 @@
-央视卫视频道1,#genre#
+💖｜央视卫视频道1,#genre#
 
 CCTV1,https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000/mnf.m3u8
 
@@ -125,7 +125,7 @@ CCTV4k,https://live.v1.mk/api/bestv.php?id=cctv4k/15000000/mnf.m3u8
 炫动卡通,https://live.v1.mk/api/bestv.php?id=hhxd8m/8000000/mnf.m3u8
 
 
-咪咕央视卫视,#genre#
+💖｜咪咕央视卫视,#genre#
 
 CCTV1,http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/2500/index.m3u8?ProgramID=&encrypt=
 
@@ -279,7 +279,7 @@ CGTN俄语,http://39.136.172.2/hlsztemgsplive.miguvideo.com/envivo_v/2018/SD/cct
 
 
 
-央视卫视频道2,#genre#
+💖｜央视卫视频道2,#genre#
 
 
 CCTV1,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240127_1/playlist.m3u8?CONTENTID=00000110240127_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
@@ -393,7 +393,7 @@ GTV网络棋牌,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240319_1/pl
 
 
 
-央视卫视频道3,#genre#
+💖｜央视卫视频道3,#genre#
 CCTV1,https://live.v1.mk/api/ghyx.php?id=CCTV1HD_6000
 
 CCTV2,https://live.v1.mk/api/ghyx.php?id=CCTV2HD_6000
@@ -557,7 +557,7 @@ CHC动作电影 标清,https://live.v1.mk/api/ghyx.php?id=MotionHD_2000
 足球频道,https://live.v1.mk/api/ghyx.php?id=ZuQiuHD_6000
 
 
-央视卫视频道4,#genre#
+💖｜央视卫视频道4,#genre#
 
 CCTV1,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv1HD/__op/default/__f//index.m3u8
 CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
@@ -666,7 +666,7 @@ CCTV10,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212261
 
 
 
-央视卫视频道5,#genre#
+💖｜央视卫视频道5,#genre#
 CCTV1,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv1HD/__op/default/__f//index.m3u8
 CCTV2,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv2HD/__op/default/__f//index.m3u8
 CCTV3,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv3HD/__op/default/__f//index.m3u8
@@ -807,7 +807,7 @@ CCTV央视台球,http://bytedance.live.cqccn.com/__cl/cg:live/__c/ystqHD/__op/de
 CCTV女性时尚,http://bytedance.live.cqccn.com/__cl/cg:live/__c/nvxing/__op/default/__f//index.m3u8
 
 
-湖南地方频道,#genre#
+💟｜湖南地方频道,#genre#
 湖南卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225704/index.m3u8
 金鹰卡通,http://bytedance.live.cqccn.com/__cl/cg:live/__c/jinyingSD/__op/default/__f//index.m3u8
 金鹰卡通,http://124.232.233.17:6610/000000001001/201600020009/1400.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
@@ -835,7 +835,7 @@ CCTV女性时尚,http://bytedance.live.cqccn.com/__cl/cg:live/__c/nvxing/__op/de
 永州公共,http://stream.21ytv.com/gg/playlist.m3u8
 永州公共,http://stream.21ytv.com/gg/8twnQW67/live.m3u8
 
-少儿动画,#genre#
+👶｜少儿动画,#genre#
 金鹰卡通,http://bytedance.live.cqccn.com/__cl/cg:live/__c/jinyingSD/__op/default/__f//index.m3u8
 金鹰卡通,http://124.232.233.17:6610/000000001001/201600020009/1400.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 金鹰卡通,http://39.134.115.163:8080/PLTV/88888910/224/3221225721/index.m3u8
@@ -868,7 +868,7 @@ CCTV女性时尚,http://bytedance.live.cqccn.com/__cl/cg:live/__c/nvxing/__op/de
 
 
 
-港澳台,#genre#
+🇨🇳｜港澳台,#genre#
 
 凤凰卫视,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰卫视,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
@@ -909,7 +909,7 @@ TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 
 
 
-影院直播,#genre#
+📽️｜影院直播,#genre#
 
 欢笑剧场4K,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
 黑莓电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8
@@ -933,7 +933,7 @@ TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 
 
 
-动物纪录,#genre#
+🌳｜动物纪录,#genre#
 动物世界,http://hls.cntv.myhwcdn.cn/asp/hls/1200/0303000a/3/default/2eba7ee3659b4caf86b40d51a1752d6c/1200.m3u8
 人与自然,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1425e1d505654cb48ba82b807b221193/1200.m3u8
 自然传奇,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/81a1ad3a661748bfb8560c92d38204ca/1200.m3u8
@@ -1306,111 +1306,7 @@ TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 
 
 
-
-
-
-重庆有线,#genre#
-CCTV1,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv1HD/__op/default/__f//index.m3u8
-CCTV2,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv2HD/__op/default/__f//index.m3u8
-CCTV3,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv3HD/__op/default/__f//index.m3u8
-CCTV4,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv4HD/__op/default/__f//index.m3u8
-CCTV5,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv5HD/__op/default/__f//index.m3u8
-CCTV5+,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv5sportHD/__op/default/__f//index.m3u8
-CCTV6,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv6HD/__op/default/__f//index.m3u8
-CCTV7,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv7HD/__op/default/__f//index.m3u8
-CCTV8,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv8HD/__op/default/__f//index.m3u8
-CCTV9,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv9HD/__op/default/__f//index.m3u8
-CCTV10,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv10HD/__op/default/__f//index.m3u8
-CCTV11,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv11HD/__op/default/__f//index.m3u8
-CCTV12,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv12HD/__op/default/__f//index.m3u8
-CCTV13,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctvnewsHD/__op/default/__f//index.m3u8
-CCTV14,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctvseHD /__op/default/__f//index.m3u8
-CCTV15,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv15HD/__op/default/__f//index.m3u8
-CCTV16,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv16HD/__op/default/__f//index.m3u8
-CCTV17,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv17HD/__op/default/__f//index.m3u8
-纯享4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
-欢笑剧场4k,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
-苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-SiTV欢笑剧场 4K,http://bytedance.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f//index.m3u8
-重庆新闻高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cqtvnewsHD/__op/default/__f//index.m3u8
-重庆科教高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cqtvkejiaoHD/__op/default/__f//index.m3u8
-重庆影视高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cqyingshiHD/__op/default/__f//index.m3u8
-重庆文体娱乐高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cqwtylHD/__op/default/__f//index.m3u8
-重庆少儿高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cqseHD/__op/default/__f//index.m3u8
-重庆新农村高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cqggncHD /__op/default/__f//index.m3u8
-重庆时尚生活高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cqssgwHD/__op/default/__f//index.m3u8
-重庆汽摩高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cqcarSD/__op/default/__f//index.m3u8
-重庆社会与法HD,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cqtvtrendyHD/__op/default/__f//index.m3u8
-重庆移动高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/mryyHD/__op/default/__f//index.m3u8
-重广融媒,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cqrongmei/__op/default/__f//index.m3u8
-爱看导视,http://bytedance.live.cqccn.com/__cl/cg:live/__c/aikanHD/__op/default/__f//index.m3u8
-合川综合,http://bytedance.live.cqccn.com/__cl/cg:live/__c/hechuan/__op/default/__f//index.m3u8
-长寿综合,http://bytedance.live.cqccn.com/__cl/cg:live/__c/changshou/__op/default/__f//index.m3u8
-酉阳综合,http://bytedance.live.cqccn.com/__cl/cg:live/__c/youyang/__op/default/__f//index.m3u8
-秀山综合,http://bytedance.live.cqccn.com/__cl/cg:live/__c/xiushan/__op/default/__f//index.m3u8
-黔江综合,http://bytedance.live.cqccn.com/__cl/cg:live/__c/qianjiang/__op/default/__f//index.m3u8
-巫山综合,http://bytedance.live.cqccn.com/__cl/cg:live/__c/wushanzhSD/__op/default/__f//index.m3u8
-涪陵综合,http://bytedance.live.cqccn.com/__cl/cg:live/__c/fulingzh/__op/default/__f//index.m3u8
-江津综合,http://bytedance.live.cqccn.com/__cl/cg:live/__c/jiangjinHD/__op/default/__f//index.m3u8
-铜梁综合,http://bytedance.live.cqccn.com/__cl/cg:live/__c/tongliangzongheHD/__op/default/__f//index.m3u8
-荣昌综合,http://bytedance.live.cqccn.com/__cl/cg:live/__c/rongchangHD/__op/default/__f//index.m3u8
-巫溪综合,http://bytedance.live.cqccn.com/__cl/cg:live/__c/wlzh/__op/default/__f//index.m3u8
-CETV-1,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cetv-1SD/__op/default/__f//index.m3u8
-CETV-4,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cetv-4SD/__op/default/__f//index.m3u8
-中学生,http://bytedance.live.cqccn.com/__cl/cg:live/__c/qicai/__op/default/__f//index.m3u8
-发现之旅,http://bytedance.live.cqccn.com/__cl/cg:live/__c/faxian/__op/default/__f//index.m3u8
-老故事,http://bytedance.live.cqccn.com/__cl/cg:live/__c/gushi/__op/default/__f//index.m3u8
-书画,http://bytedance.live.cqccn.com/__cl/cg:live/__c/shuhua/__op/default/__f//index.m3u8
-摄影,http://bytedance.live.cqccn.com/__cl/cg:live/__c/sheying/__op/default/__f//index.m3u8
-国学,http://bytedance.live.cqccn.com/__cl/cg:live/__c/guoxue/__op/default/__f//index.m3u8
-靓妆,http://bytedance.live.cqccn.com/__cl/cg:live/__c/liang/__op/default/__f//index.m3u8
-网络棋牌,http://bytedance.live.cqccn.com/__cl/cg:live/__c/qipai/__op/default/__f//index.m3u8
-新动漫,http://bytedance.live.cqccn.com/__cl/cg:live/__c/dongman/__op/default/__f//index.m3u8
-游戏竞技,http://bytedance.live.cqccn.com/__cl/cg:live/__c/youxi/__op/default/__f//index.m3u8
-中华特产,http://bytedance.live.cqccn.com/__cl/cg:live/__c/techan/__op/default/__f//index.m3u8
-极速汽车,http://bytedance.live.cqccn.com/__cl/cg:live/__c/car/__op/default/__f//index.m3u8
-生态环境,http://bytedance.live.cqccn.com/__cl/cg:live/__c/shengtai/__op/default/__f//index.m3u8
-四海钓鱼,http://bytedance.live.cqccn.com/__cl/cg:live/__c/diaoyu/__op/default/__f//index.m3u8
-中国气象,http://bytedance.live.cqccn.com/__cl/cg:live/__c/tianqiSD/__op/default/__f//index.m3u8
-车迷频道,http://bytedance.live.cqccn.com/__cl/cg:live/__c/doxtv/__op/default/__f//index.m3u8
-CGTN,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cgtnSD/__op/default/__f//index.m3u8
-求索纪录高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/qsjlHD/__op/default/__f//index.m3u8
-百姓健康,http://bytedance.live.cqccn.com/__cl/cg:live/__c/jiankangSD/__op/default/__f//index.m3u8
-快乐垂钓高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/klcdHD/__op/default/__f//index.m3u8
-早期教育,http://bytedance.live.cqccn.com/__cl/cg:live/__c/zaojiaoHD/__op/default/__f//index.m3u8
-东方财*,http://bytedance.live.cqccn.com/__cl/cg:live/__c/dfcj/__op/default/__f//index.m3u8
-证券服务,http://bytedance.live.cqccn.com/__cl/cg:live/__c/jiazheng/__op/default/__f//index.m3u8
-收藏天下,http://bytedance.live.cqccn.com/__cl/cg:live/__c/soucang/__op/default/__f//index.m3u8
-财富天下,http://bytedance.live.cqccn.com/__cl/cg:live/__c/caifu/__op/default/__f//index.m3u8
-天元围棋,http://bytedance.live.cqccn.com/__cl/cg:live/__c/weiqi/__op/default/__f//index.m3u8
-先锋乒羽,http://bytedance.live.cqccn.com/__cl/cg:live/__c/xianfeng/__op/default/__f//index.m3u8
-环球旅游,http://bytedance.live.cqccn.com/__cl/cg:live/__c/huanqiulvyou/__op/default/__f//index.m3u8
-纪实科教高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/bjayjsSD/__op/default/__f//index.m3u8
-SiTV都市剧场高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/dsjcHD/__op/default/__f//index.m3u8
-SiTV魅力足球高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/mlzqHD/__op/default/__f//index.m3u8
-SiTV动漫秀场高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/dmxcHD/__op/default/__f//index.m3u8
-SiTV游戏风云高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/yxfyHD/__op/default/__f//index.m3u8
-SiTV生活时尚,http://bytedance.live.cqccn.com/__cl/cg:live/__c/shenghuo/__op/default/__f//index.m3u8
-SiTV法治天地,http://bytedance.live.cqccn.com/__cl/cg:live/__c/fazhi/__op/default/__f//index.m3u8
-SiTV金色学堂,http://bytedance.live.cqccn.com/__cl/cg:live/__c/jinse/__op/default/__f//index.m3u8
-CHC高清电影,http://bytedance.live.cqccn.com/__cl/cg:live/__c/chcgqdyHD/__op/default/__f//index.m3u8
-CHC动作电影,http://bytedance.live.cqccn.com/__cl/cg:live/__c/chcdzdyHD/__op/default/__f//index.m3u8
-CHC家庭影院,http://bytedance.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/default/__f//index.m3u8
-CCTV风云剧场,http://bytedance.live.cqccn.com/__cl/cg:live/__c/shandongHD/__op/default/__f//index.m3u8
-CCTV风云剧场高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/fyjcHD/__op/default/__f//index.m3u8
-CCTV风云音乐高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/fyyyHD/__op/default/__f//index.m3u8
-CCTV风云足球高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/fyzqHD/__op/default/__f//index.m3u8
-CCTV怀旧剧场高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/hjjcHD/__op/default/__f//index.m3u8
-CCTV第一剧场高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/diyijuchangHD/__op/default/__f//index.m3u8
-CCTV兵器科技高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/bqkjHD/__op/default/__f//index.m3u8
-CCTV央视文化精品,http://bytedance.live.cqccn.com/__cl/cg:live/__c/yswhHD/__op/default/__f//index.m3u8
-CCTV高尔夫网球,http://bytedance.live.cqccn.com/__cl/cg:live/__c/golfHD/__op/default/__f//index.m3u8
-CCTV央视台球,http://bytedance.live.cqccn.com/__cl/cg:live/__c/ystqHD/__op/default/__f//index.m3u8
-CCTV女性时尚,http://bytedance.live.cqccn.com/__cl/cg:live/__c/nvxing/__op/default/__f//index.m3u8
-
-
-
-直播中国,#genre#
+☘️｜直播中国,#genre#
 
 直播中国精编直播,http://gcksc.v.kcdnvip.com/gc/wgw05_1/index.m3u8
 直播中国精编直播,http://gcbsc.v.live.baishancdnx.cn/gc/wgw05_1/index.m3u8
