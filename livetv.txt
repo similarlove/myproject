@@ -838,7 +838,6 @@ CCTV女性时尚,http://bytedance.live.cqccn.com/__cl/cg:live/__c/nvxing/__op/de
 
 📽️｜影院直播,#genre#
 
-欢笑剧场4K,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
 黑莓电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8
 峨眉电影,http://112.19.214.90:8883/tsfile/live/1004_1.m3u8
 斗鱼新三国,http://tvmvip110.club/douyu.php?id=276200
@@ -853,6 +852,10 @@ CCTV女性时尚,http://bytedance.live.cqccn.com/__cl/cg:live/__c/nvxing/__op/de
 斗鱼鬼片3,http://tvmvip110.club/douyu.php?id=6906628
 虎牙鬼片,http://epg.112114.xyz/huya/11342421
 虎牙纪晓岚,http://epg.112114.xyz/huya/11342396
+虎牙小石榴,http://epg.112114.xyz/huya/17091681
+虎牙音乐台,http://epg.112114.xyz/huya/880201
+斗鱼李子柒,http://tvmvip110.club/douyu.php?id=2901080
+斗鱼苗大冬,http://tvmvip110.club/douyu.php?id=8067328
 斗鱼LOL直播1,http://tvmvip110.club/douyu.php?id=288016
 斗鱼LOL直播2,http://tvmvip110.club/douyu.php?id=424559
 斗鱼pdd,http://tvmvip110.club/douyu.php?id=101
@@ -862,10 +865,7 @@ CCTV女性时尚,http://bytedance.live.cqccn.com/__cl/cg:live/__c/nvxing/__op/de
 虎牙AmazingJ,http://epg.112114.xyz/huya/991108
 虎牙霸哥,http://epg.112114.xyz/huya/bagea
 虎牙kRYST4L,http://epg.112114.xyz/huya/222523
-虎牙小石榴,http://epg.112114.xyz/huya/17091681
-虎牙音乐台,http://epg.112114.xyz/huya/880201
-斗鱼李子柒,http://tvmvip110.club/douyu.php?id=2901080
-斗鱼苗大冬,http://tvmvip110.club/douyu.php?id=8067328
+
 
 
 
