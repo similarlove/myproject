@@ -42,7 +42,9 @@ CCTV17,http://39.136.172.2/hlsztemgsplive.miguvideo.com/migu/kailu/20200324/cctv
 
 
 咪咕体育,http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/virtuallive/tysy201903/75/index.m3u8?ProgramID=&encrypt=
+
 纯享4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
+
 CCTV风云剧场,http://bytedance.live.cqccn.com/__cl/cg:live/__c/shandongHD/__op/default/__f//index.m3u8
 CCTV风云剧场高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/fyjcHD/__op/default/__f//index.m3u8
 CCTV风云音乐高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/fyyyHD/__op/default/__f//index.m3u8
@@ -86,7 +88,9 @@ CGTN俄语,http://39.136.172.2/hlsztemgsplive.miguvideo.com/envivo_v/2018/SD/cct
 吉林卫视,http://39.136.172.2/hlsztemgsplive.miguvideo.com/envivo_v/2018/SD/jilin/1000/index.m3u8?ProgramID=&encrypt=
 
 辽宁卫视HD,http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/2018/ocn/liaoningwshd/2000/index.m3u8?ProgramID=&encrypt=
+
 内蒙古卫视,http://39.136.172.2/hlsztemgsplive.miguvideo.com/envivo_w/2018/SD/neimeng/1000/index.m3u8?ProgramID=&encrypt=
+
 甘肃卫视,http://39.136.172.2/hlsztemgsplive.miguvideo.com/envivo_v/2018/SD/gansu/1000/index.m3u8?ProgramID=&encrypt=
 
 青海卫视,http://39.136.172.2/hlsztemgsplive.miguvideo.com/envivo_w/2018/SD/qinghai/1000/index.m3u8?ProgramID=&encrypt=
@@ -166,7 +170,7 @@ CGTN俄语,http://39.136.172.2/hlsztemgsplive.miguvideo.com/envivo_v/2018/SD/cct
 中国教育4台,http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r3/cnr/cetv4/600/index.m3u8?ProgramID=&encrypt=
 
 
-💖｜湖南地方,#genre#
+💟｜湖南地方,#genre#
 金鹰卡通,http://tvmvip110.club/bst.php?id=141
 金鹰卡通,http://bytedance.live.cqccn.com/__cl/cg:live/__c/jinyingSD/__op/default/__f//index.m3u8
 金鹰卡通,http://124.232.233.17:6610/000000001001/201600020009/1400.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
