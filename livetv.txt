@@ -917,22 +917,23 @@ TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 欢笑剧场4K,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
 黑莓电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8
 峨眉电影,http://112.19.214.90:8883/tsfile/live/1004_1.m3u8
-斗鱼新三国,https://akm-tct.douyucdn.cn/live/276200r9W4WpgDPT.m3u8
-斗鱼老三国,https://akm-tct.douyucdn.cn/live/7459925rQpKJxuDg.m3u8
-斗鱼西游记,https://akm-tct.douyucdn.cn/live/5472438rlGixoACe.m3u8
-斗鱼华语1,https://akm-tct.douyucdn.cn/live/85894rmovieChow.m3u8
-斗鱼华语2,https://akm-tct.douyucdn.cn/live/122402rK7MO9bXSq.m3u8
-斗鱼风云,https://akm-tct.douyucdn.cn/live/9290755rVcw2CQ0t.m3u8
+斗鱼新三国,http://tvmvip110.club/douyu.php?id=276200
+斗鱼老三国,http://tvmvip110.club/douyu.php?id=7459925
+斗鱼西游记,http://tvmvip110.club/douyu.php?id=5472438
+斗鱼华语1,http://tvmvip110.club/douyu.php?id=85894
+斗鱼华语2,http://tvmvip110.club/douyu.php?id=122402
+斗鱼风云,http://tvmvip110.club/douyu.php?id=9290755
 虎牙周星驰,http://121.51.249.6/tx.hls.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8
-斗鱼鬼片1,https://akm-tct.douyucdn.cn/live/218859r0eLlsueyh.m3u8
-斗鱼鬼片2,https://akm-tct.douyucdn.cn/live/310926rf2W0FYIAk.m3u8
-斗鱼鬼片3,https://akm-tct.douyucdn.cn/live/6906628rZiR5N6mE.m3u8
-斗鱼LOL直播,https://akm-tct.douyucdn.cn/live/288016rlols5.m3u8
-斗鱼pdd,https://akm-tct.douyucdn.cn/live/101rCGoY6h5mfvMG.m3u8
-斗鱼大司马,https://akm-tct.douyucdn.cn/live/606118r6n9kQ9krJ.m3u8
-斗鱼doinb,https://akm-tct.douyucdn.cn/live/252140rqCz3hTpJi.m3u8
-斗鱼余小C,https://akm-tct.douyucdn.cn/live/1126960rPXROLJ7f.m3u8
-斗鱼苗大冬,https://akm-tct.douyucdn.cn/live/8067328rdAJiC4AD.m3u8
+斗鱼鬼片1,http://tvmvip110.club/douyu.php?id=218859
+斗鱼鬼片2,http://tvmvip110.club/douyu.php?id=310926
+斗鱼鬼片3,http://tvmvip110.club/douyu.php?id=6906628
+斗鱼LOL直播,http://tvmvip110.club/douyu.php?id=288016
+斗鱼pdd,http://tvmvip110.club/douyu.php?id=101
+斗鱼大司马,http://tvmvip110.club/douyu.php?id=606118
+斗鱼doinb,http://tvmvip110.club/douyu.php?id=252140
+斗鱼余小C,http://tvmvip110.club/douyu.php?id=1126960r
+斗鱼李子柒,http://tvmvip110.club/douyu.php?id=2901080
+斗鱼苗大冬,http://tvmvip110.club/douyu.php?id=8067328
 
 
 
