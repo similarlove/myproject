@@ -174,6 +174,11 @@ CGTN俄语,http://39.136.172.2/hlsztemgsplive.miguvideo.com/envivo_v/2018/SD/cct
 
 
 💟｜湖南地方,#genre#
+
+湖南电影,http://124.232.233.15:6610/000000001001/201600020005/1400.m3u8?m3u8_level=2
+湖南电影,http://124.232.233.17:6610/000000001001/201600020005/1400.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+湖南电视剧,http://124.232.233.15:6610/000000001001/201600020006/1400.m3u8?m3u8_level=2
+湖南电视剧,http://124.232.233.17:6610/000000001001/201600020006/1400.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 金鹰卡通,http://tvmvip110.club/bst.php?id=141
 金鹰卡通,http://bytedance.live.cqccn.com/__cl/cg:live/__c/jinyingSD/__op/default/__f//index.m3u8
 金鹰卡通,http://124.232.233.17:6610/000000001001/201600020009/1400.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
@@ -183,20 +188,16 @@ CGTN俄语,http://39.136.172.2/hlsztemgsplive.miguvideo.com/envivo_v/2018/SD/cct
 金鹰纪实,http://39.135.138.58:18890/PLTV/88888888/224/3221226198/index.m3u8
 湖南公共,http://124.232.233.15:6610/000000001001/201600020007/1400.m3u8?m3u8_level=2
 湖南公共,http://124.232.233.17:6610/000000001001/201600020007/1400.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-湖南电视剧,http://124.232.233.15:6610/000000001001/201600020006/1400.m3u8?m3u8_level=2
-湖南电视剧,http://124.232.233.17:6610/000000001001/201600020006/1400.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-长沙影视,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_350.flv?auth_key=1936694127-0-0-f081dadf4de8780d84d51755eb65e516
-长沙政法,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_348.flv?auth_key=1936693647-0-0-09a2ab1e7112296d76b1c37999a5cf32
 湖南娱乐,http://124.232.233.15:6610/000000001001/201600020004/1400.m3u8?m3u8_level=2
 湖南娱乐,http://124.232.233.17:6610/000000001001/201600020004/1400.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 湖南经视,http://124.232.233.15:6610/000000001001/201600020002/1400.m3u8?m3u8_level=2
 湖南经视,http://124.232.233.17:6610/000000001001/201600020002/1400.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-湖南电影,http://124.232.233.15:6610/000000001001/201600020005/1400.m3u8?m3u8_level=2
-湖南电影,http://124.232.233.17:6610/000000001001/201600020005/1400.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 湖南国际,http://124.232.233.15:6610/000000001001/201600020001/1400.m3u8?m3u8_level=2
 湖南国际,http://124.232.233.17:6610/000000001001/201600020001/1400.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 湖南都市,http://124.232.233.15:6610/000000001001/201600020003/1400.m3u8?m3u8_level=2
 湖南都市,http://124.232.233.17:6610/000000001001/201600020003/1400.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+长沙影视,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_350.flv?auth_key=1936694127-0-0-f081dadf4de8780d84d51755eb65e516
+长沙政法,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_348.flv?auth_key=1936693647-0-0-09a2ab1e7112296d76b1c37999a5cf32
 永州新闻,http://stream.21ytv.com/xw/playlist.m3u8
 永州公共,http://stream.21ytv.com/gg/playlist.m3u8
 永州公共,http://stream.21ytv.com/gg/8twnQW67/live.m3u8
@@ -249,6 +250,9 @@ CCTV6,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv6HD/__op/default/__f/
 黑莓电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8
 黑莓电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8
 峨眉电影,http://112.19.214.90:8883/tsfile/live/1004_1.m3u8
+东方影视,http://tvmvip110.club/bst.php?id=41
+东方影视,http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r4/dfl/dianshijuhd/3000/index.m3u8?ProgramID=&encrypt=
+东方影视,https://live.v1.mk/api/bestv.php?id=dfyshd8m/8000000/mnf.m3u8
 CHC家庭影院,https://live.v1.mk/api/ghyx.php?id=CHCHD_2000
 CHC高清电影,https://live.v1.mk/api/ghyx.php?id=CHCHD2_6000
 CHC动作电影,https://live.v1.mk/api/ghyx.php?id=MotionHD_2000
@@ -259,9 +263,6 @@ CHC家庭影院,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240323_1/pl
 CHC高清电影,http://bytedance.live.cqccn.com/__cl/cg:live/__c/chcgqdyHD/__op/default/__f//index.m3u8
 CHC动作电影,http://bytedance.live.cqccn.com/__cl/cg:live/__c/chcdzdyHD/__op/default/__f//index.m3u8
 CHC家庭影院,http://bytedance.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/default/__f//index.m3u8
-东方影视,http://tvmvip110.club/bst.php?id=41
-东方影视,http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r4/dfl/dianshijuhd/3000/index.m3u8?ProgramID=&encrypt=
-东方影视,https://live.v1.mk/api/bestv.php?id=dfyshd8m/8000000/mnf.m3u8
 斗鱼新三国,http://tvmvip110.club/douyu.php?id=276200
 斗鱼老三国,http://tvmvip110.club/douyu.php?id=7459925
 斗鱼西游记,http://tvmvip110.club/douyu.php?id=5472438
@@ -269,6 +270,7 @@ CHC家庭影院,http://bytedance.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/
 斗鱼华语2,http://tvmvip110.club/douyu.php?id=122402
 斗鱼风云,http://tvmvip110.club/douyu.php?id=9290755
 虎牙周星驰,http://121.51.249.6/tx.hls.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8
+虎牙周星驰,http://epg.112114.xyz/huya/11342412
 斗鱼鬼片1,http://tvmvip110.club/douyu.php?id=218859
 斗鱼鬼片2,http://tvmvip110.club/douyu.php?id=310926
 斗鱼鬼片3,http://tvmvip110.club/douyu.php?id=6906628
