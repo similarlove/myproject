@@ -1162,7 +1162,7 @@ TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 
 
 
-📡｜央视频道1,#genre#
+📡｜央视备用1,#genre#
 
 CCTV1,https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000/mnf.m3u8
 
@@ -1217,7 +1217,7 @@ CCTV央视台球,http://bytedance.live.cqccn.com/__cl/cg:live/__c/ystqHD/__op/de
 CCTV女性时尚,http://bytedance.live.cqccn.com/__cl/cg:live/__c/nvxing/__op/default/__f//index.m3u8
 
 
-💖｜卫视频道1,#genre#
+💖｜卫视备用1,#genre#
 
 湖南卫视,https://live.v1.mk/api/bestv.php?id=hunanwshd8m/8000000/mnf.m3u8
 
@@ -1305,7 +1305,7 @@ CCTV女性时尚,http://bytedance.live.cqccn.com/__cl/cg:live/__c/nvxing/__op/de
 
 
 
-📡｜央视频道2,#genre#
+📡｜央视备用2,#genre#
 
 
 CCTV1,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240127_1/playlist.m3u8?CONTENTID=00000110240127_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
@@ -1356,7 +1356,7 @@ CCTV17,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240326_1/playlist.m3
 
 
 
-💖｜卫视频道2,#genre#
+💖｜卫视备用2,#genre#
 
 
 湖南卫视,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240130_1/playlist.m3u8?CONTENTID=00000110240130_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
@@ -1425,7 +1425,7 @@ CHC家庭影院,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240323_1/pl
 GTV网络棋牌,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240319_1/playlist.m3u8?CONTENTID=00000110240319_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 
 
-📡｜央视频道3,#genre#
+📡｜央视备用3,#genre#
 CCTV1,https://live.v1.mk/api/ghyx.php?id=CCTV1HD_6000
 
 CCTV2,https://live.v1.mk/api/ghyx.php?id=CCTV2HD_6000
@@ -1474,7 +1474,7 @@ CCTV高尔夫网球,http://bytedance.live.cqccn.com/__cl/cg:live/__c/golfHD/__op
 CCTV央视台球,http://bytedance.live.cqccn.com/__cl/cg:live/__c/ystqHD/__op/default/__f//index.m3u8
 CCTV女性时尚,http://bytedance.live.cqccn.com/__cl/cg:live/__c/nvxing/__op/default/__f//index.m3u8
 
-💖｜卫视频道3,#genre#
+💖｜卫视备用3,#genre#
 
 
 湖南卫视,https://live.v1.mk/api/ghyx.php?id=HuNanHD_6000
@@ -1606,7 +1606,7 @@ CHC动作电影 标清,https://live.v1.mk/api/ghyx.php?id=MotionHD_2000
 足球频道,https://live.v1.mk/api/ghyx.php?id=ZuQiuHD_6000
 
 
-📡｜央视频道4,#genre#
+📡｜央视备用4,#genre#
 
 CCTV1,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv1HD/__op/default/__f//index.m3u8
 CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
@@ -1657,7 +1657,7 @@ CCTV高尔夫网球,http://bytedance.live.cqccn.com/__cl/cg:live/__c/golfHD/__op
 CCTV央视台球,http://bytedance.live.cqccn.com/__cl/cg:live/__c/ystqHD/__op/default/__f//index.m3u8
 CCTV女性时尚,http://bytedance.live.cqccn.com/__cl/cg:live/__c/nvxing/__op/default/__f//index.m3u8
 
-💖｜卫视频道4,#genre#
+💖｜卫视备用4,#genre#
 
 湖南卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/hunanHD/__op/default/__f//index.m3u8
 湖南卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225704/index.m3u8
@@ -1727,7 +1727,7 @@ CCTV女性时尚,http://bytedance.live.cqccn.com/__cl/cg:live/__c/nvxing/__op/de
 
 
 
-📡｜央视频道5,#genre#
+📡｜央视备用5,#genre#
 CCTV1,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv1HD/__op/default/__f//index.m3u8
 CCTV2,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv2HD/__op/default/__f//index.m3u8
 CCTV3,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv3HD/__op/default/__f//index.m3u8
@@ -1759,7 +1759,7 @@ CCTV高尔夫网球,http://bytedance.live.cqccn.com/__cl/cg:live/__c/golfHD/__op
 CCTV央视台球,http://bytedance.live.cqccn.com/__cl/cg:live/__c/ystqHD/__op/default/__f//index.m3u8
 CCTV女性时尚,http://bytedance.live.cqccn.com/__cl/cg:live/__c/nvxing/__op/default/__f//index.m3u8
 
-💖｜卫视频道5,#genre#
+💖｜卫视备用5,#genre#
 
 湖南卫视,http://bytedance.live.cqccn.com/__cl/cg:live/__c/hunanHD/__op/default/__f//index.m3u8
 东方卫视,http://39.184.224.99:9080/newlive/live/hls/19/live.m3u8
@@ -1870,7 +1870,7 @@ CHC高清电影,http://bytedance.live.cqccn.com/__cl/cg:live/__c/chcgqdyHD/__op/
 CHC动作电影,http://bytedance.live.cqccn.com/__cl/cg:live/__c/chcdzdyHD/__op/default/__f//index.m3u8
 CHC家庭影院,http://bytedance.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/default/__f//index.m3u8
 
-📡｜央视频道6,#genre#
+📡｜央视备用6,#genre#
 
 CCTV1,http://tvmvip110.club/bst.php?id=94
 
@@ -1906,7 +1906,7 @@ CCTV16,https://live.v1.mk/api/bestv.php?id=cctv16hd4k/15000000/mnf.m3u8
 
 CCTV17,http://tvmvip110.club/bst.php?id=109
 
-💖｜卫视频道6,#genre#
+💖｜卫视备用6,#genre#
 
 湖南卫视,http://tvmvip110.club/bst.php?id=110
 
