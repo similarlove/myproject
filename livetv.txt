@@ -385,6 +385,8 @@ TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8?zgangd
+人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+南方卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221226203/1653149724-1-1651284940.m3u8
 
 
 
@@ -947,8 +949,7 @@ CCTV女性时尚,http://bytedance.live.cqccn.com/__cl/cg:live/__c/nvxing/__op/de
 上海纪实,http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
 安多卫视,http://111.40.196.28/PLTV/88888888/224/3221225666/index.m3u8
 安多卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226195/index.m3u8
-人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
-南方卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221226203/1653149724-1-1651284940.m3u8
+
 
 
 
