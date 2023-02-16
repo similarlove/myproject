@@ -82,6 +82,8 @@ CGTN俄语,http://39.136.172.2/hlsztemgsplive.miguvideo.com/envivo_v/2018/SD/cct
 
 东方卫视HD,http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r4/dfl/dongfangwshd/3000/index.m3u8?ProgramID=&encrypt=
 
+上海都市剧场,http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8
+
 天津卫视HD,http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd-tianjinhd-1200/index.m3u8?ProgramID=&encrypt=
 
 重庆卫视,http://39.136.172.2/hlsztemgsplive.miguvideo.com/envivo_x/2018/SD/chongqing/1000/index.m3u8?ProgramID=&encrypt=
