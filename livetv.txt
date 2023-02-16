@@ -324,11 +324,12 @@ CCTV14,https://live.v1.mk/api/bestv.php?id=cctvsehd8m/8000000/mnf.m3u8
 卡酷少儿,https://live.v1.mk/api/bestv.php?id=kkse8m/8000000/mnf.m3u8
 卡酷少儿,http://221.2.36.34:8888/newlive/live/hls/54/live.m3u8
 卡酷少儿,http://39.135.138.60:18890/PLTV/88888888/224/3221225677/index.m3u8
-动漫秀场,https://live.v1.mk/api/ghyx.php?id=DongManXiuChangHD_6000
-动漫秀场,http://baidu.live.cqccn.com/__cl/cg:live/__c/dmxcHD/__op/default/__f//index.m3u8
+重庆少儿http://baidu.live.cqccn.com/__cl/cg:live/__c/cqseHD/__op/default/__f//index.m3u8?
 南京少儿,http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
 南京少儿,http://live.nbs.cn/channels/njtv/sepd/500k.m3u8
 南京少儿,http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
+动漫秀场,https://live.v1.mk/api/ghyx.php?id=DongManXiuChangHD_6000
+动漫秀场,http://baidu.live.cqccn.com/__cl/cg:live/__c/dmxcHD/__op/default/__f//index.m3u8
 儿童乐园,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_215_600_t10/c57_lb_215_600_t10.m3u8?key=0b292c335e5837e943410c2bfa7a7387e
 嘉佳卡通,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226193/index.m3u8
 动画小天地,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c55_lb_139_600_t10/c55_lb_139_600_t10.m3u8?key=0f2a06793124310bc475d77d809f3ab51
