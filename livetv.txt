@@ -182,7 +182,7 @@ CGTN俄语,http://39.136.172.2/hlsztemgsplive.miguvideo.com/envivo_v/2018/SD/cct
 中国教育4台,http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r3/cnr/cetv4/600/index.m3u8?ProgramID=&encrypt=
 
 
-💟｜湖南地方,#genre#
+❣｜湖南地方,#genre#
 
 湖南电影,http://124.232.233.15:6610/000000001001/201600020005/1400.m3u8?m3u8_level=2
 湖南电影,http://124.232.233.17:6610/000000001001/201600020005/1400.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
@@ -248,7 +248,7 @@ CGTN俄语,http://39.136.172.2/hlsztemgsplive.miguvideo.com/envivo_v/2018/SD/cct
 
 
 
-🎥｜电影直播,#genre#
+📽｜电影直播,#genre#
 CCTV6,http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/2018/ocn/cctv6hd/2000/index.m3u8?ProgramID=&encrypt=
 CCTV6,https://live.v1.mk/api/bestv.php?id=cctv6hd8m/8000000/mnf.m3u8
 CCTV6,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240247_1/playlist.m3u8?CONTENTID=00000110240247_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
