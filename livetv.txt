@@ -215,6 +215,7 @@ CGTN俄语,http://39.136.172.2/hlsztemgsplive.miguvideo.com/envivo_v/2018/SD/cct
 💘｜iHOT频道,#genre#
 
 爱影院,http://39.135.7.132:6610/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
+爱影院,http://39.184.224.99:9080/newlive/live/hls/57/live.m3u8
 爱科幻,http://39.135.7.132:6610/000000001000/6000000006000020630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=3
 爱科幻,http://39.184.224.99:9080/newlive/live/hls/56/live.m3u8
 爱动漫,http://39.135.7.132:6610/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
@@ -293,6 +294,7 @@ CHC动作电影,https://live.v1.mk/api/ghyx.php?id=MotionHD_2000
 斗鱼鬼片3,http://tvmvip110.club/douyu.php?id=6906628
 虎牙鬼片,http://epg.112114.xyz/huya/11342421
 虎牙纪晓岚,http://epg.112114.xyz/huya/11342396
+百视TV独家直播,http://tvmvip110.club/bs.php?id=146
 虎牙音乐小石榴,http://epg.112114.xyz/huya/17091681
 虎牙音悦台,http://epg.112114.xyz/huya/880201
 斗鱼李子柒,http://tvmvip110.club/douyu.php?id=2901080
@@ -1293,6 +1295,8 @@ CCTV怀旧剧场,http://baidu.live.cqccn.com/__cl/cg:live/__c/hjjcHD/__op/defaul
 卡酷少儿,http://tvmvip110.club/bst.php?id=140
 
 金鹰卡通,http://tvmvip110.club/bst.php?id=141
+
+百视TV独家直播,http://tvmvip110.club/bs.php?id=146
 
 CETV1,http://tvmvip110.club/bst.php?id=143
 
