@@ -323,6 +323,7 @@ CHC动作电影,https://live.v1.mk/api/ghyx.php?id=MotionHD_2000
 斗鱼鬼片2,http://tvmvip110.club/douyu.php?id=310926
 斗鱼鬼片3,http://tvmvip110.club/douyu.php?id=6906628
 虎牙鬼片,http://epg.112114.xyz/huya/11342421
+哔哩哔哩鬼片,http://tvmvip110.club/bili.php?id=3091485
 虎牙纪晓岚,http://epg.112114.xyz/huya/11342396
 虎牙音悦台,http://epg.112114.xyz/huya/880201
 斗鱼李子柒,http://tvmvip110.club/douyu.php?id=2901080
@@ -336,6 +337,9 @@ CHC动作电影,https://live.v1.mk/api/ghyx.php?id=MotionHD_2000
 哔哩哔哩笑笑,http://tvmvip110.club/bili.php?id=7777
 哔哩哔哩笑笑,https://cn-hbyc-ct-02-14.bilivideo.com/live-bvc/120295/live_8739477_3713195_bluray/index.m3u8
 哔哩哔哩笑笑,https://cn-hbyc-ct-02-29.bilivideo.com/live-bvc/304657/live_8739477_3713195_bluray/index.m3u8
+哔哩哔哩解说mage,http://tvmvip110.club/bili.php?id=22508985
+哔哩哔哩解说赵俊日,http://tvmvip110.club/bili.php?id=22174141
+哔哩哔哩Langx,http://tvmvip110.club/bili.php?id=24022841
 斗鱼pdd,http://tvmvip110.club/douyu.php?id=101
 斗鱼大司马,http://tvmvip110.club/douyu.php?id=606118
 斗鱼doinb,http://tvmvip110.club/douyu.php?id=252140
