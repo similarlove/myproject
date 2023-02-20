@@ -247,6 +247,7 @@ CCTV怀旧剧场,http://baidu.live.cqccn.com/__cl/cg:live/__c/hjjcHD/__op/defaul
 东方影视,http://tvmvip110.club/bst.php?id=41
 东方影视,http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r4/dfl/dianshijuhd/3000/index.m3u8?ProgramID=&encrypt=
 东方影视,https://live.v1.mk/api/bestv.php?id=dfyshd8m/8000000/mnf.m3u8
+北京影视,https://live.v1.mk/api/ghyx.php?id=BTV4HD_6000
 西安影视,http://stream2.xiancity.cn/xatv4/sd/live.m3u8
 黑龙江影视,https://idclive.hljtv.com:4430/live/hljys_hd.m3u8?zheild
 河北影视剧,https://event.pull.hebtv.com/jishi/yingshijupindao.m3u8
