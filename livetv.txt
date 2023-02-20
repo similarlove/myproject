@@ -260,6 +260,8 @@ CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122639
 
 📽｜电影直播,#genre#
 
+百视TV独家直播,http://tvmvip110.club/bs.php?id=146
+虎牙音乐小石榴,http://epg.112114.xyz/huya/17091681
 CCTV6,https://live.v1.mk/api/ghyx.php?id=CCTV6HD_6000
 CCTV6,http://tvmvip110.club/bst.php?id=99
 CCTV6,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240247_1/playlist.m3u8?CONTENTID=00000110240247_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
@@ -288,6 +290,7 @@ CCTV怀旧剧场,http://baidu.live.cqccn.com/__cl/cg:live/__c/hjjcHD/__op/defaul
 东方影视,http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r4/dfl/dianshijuhd/3000/index.m3u8?ProgramID=&encrypt=
 东方影视,https://live.v1.mk/api/bestv.php?id=dfyshd8m/8000000/mnf.m3u8
 北京影视,https://live.v1.mk/api/ghyx.php?id=BTV4HD_6000
+重庆影视高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cqyingshiHD/__op/default/__f//index.m3u8
 西安影视,http://stream2.xiancity.cn/xatv4/sd/live.m3u8
 黑龙江影视,https://idclive.hljtv.com:4430/live/hljys_hd.m3u8?zheild
 河北影视剧,https://event.pull.hebtv.com/jishi/yingshijupindao.m3u8
@@ -322,8 +325,6 @@ CHC动作电影,https://live.v1.mk/api/ghyx.php?id=MotionHD_2000
 明星剧场,http://39.134.115.163:8080/PLTV/88888910/224/3221225716/index.m3u8
 明星剧场,http://117.169.121.162:6610/PLTV/88888910/224/3221225716/index.m3u8
 精品大剧,http://117.169.121.162:6610/PLTV/88888910/224/3221225714/index.m3u8
-百视TV独家直播,http://tvmvip110.club/bs.php?id=146
-虎牙音乐小石榴,http://epg.112114.xyz/huya/17091681
 斗鱼新三国,http://tvmvip110.club/douyu.php?id=276200
 斗鱼老三国,http://tvmvip110.club/douyu.php?id=7459925
 斗鱼西游记,http://tvmvip110.club/douyu.php?id=5472438
@@ -371,6 +372,7 @@ CHC动作电影,https://live.v1.mk/api/ghyx.php?id=MotionHD_2000
 
 
 🌙｜少儿动画,#genre#
+-------------------------------------
 CCTV14,http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/2018/ocn/cctv14hd/2000/index.m3u8?ProgramID=&encrypt=
 CCTV14,https://live.v1.mk/api/bestv.php?id=cctvsehd8m/8000000/mnf.m3u8
 爱动漫,http://39.135.7.132:6610/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
