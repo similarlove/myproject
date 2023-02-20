@@ -181,8 +181,48 @@ CHC动作电影 标清,https://live.v1.mk/api/ghyx.php?id=MotionHD_2000
 足球频道,https://live.v1.mk/api/ghyx.php?id=ZuQiuHD_6000
 
 
+🏀｜体育频道,#genre#
+CCTV5,https://live.v1.mk/api/ghyx.php?id=CCTV5HD_6000
 
+CCTV5+,https://live.v1.mk/api/ghyx.php?id=CCTV5plusHD_6000
 
+CCTV风云足球,http://bytedance.live.cqccn.com/__cl/cg:live/__c/fyzqHD/__op/default/__f//index.m3u8
+
+CCTV高尔夫网球,http://bytedance.live.cqccn.com/__cl/cg:live/__c/golfHD/__op/default/__f//index.m3u8
+
+CCTV央视台球,http://bytedance.live.cqccn.com/__cl/cg:live/__c/ystqHD/__op/default/__f//index.m3u8
+CCTV5,http://tvmvip110.club/bst.php?id=98
+CCTV16,https://live.v1.mk/api/ghyx.php?id=CCTV16HD_6000
+CCTV5,https://live.v1.mk/api/bestv.php?id=cctv58m/8000000/mnf.m3u8
+
+CCTV5+,https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000/mnf.m3u8
+
+CCTV16,https://live.v1.mk/api/bestv.php?id=cctv16hd8m/8000000/mnf.m3u8
+
+CCTV16,https://live.v1.mk/api/bestv.php?id=cctv16hd4k/15000000/mnf.m3u8
+CCTV5,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv5HD/__op/default/__f//index.m3u8
+CCTV5+,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv5sportHD/__op/default/__f//index.m3u8
+
+CCTV16,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv16HD/__op/default/__f//index.m3u8
+CCTV5,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv5HD/__op/default/__f//index.m3u8
+CCTV5+,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv5SportHD/__op/default/__f//index.m3u8
+
+CCTV16,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv16HD/__op/default/__f//index.m3u8
+
+CCTV16,http://117.169.124.149:8080/live/HD-8000k-1080P-cctv16/1.m3u8
+
+CCTV5,http://223.95.111.98:5555/newlive/live/hls/5/live.m3u8
+
+CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+北京体育休闲,https://live.v1.mk/api/ghyx.php?id=BTVjishiHD_6000
+劲爆体育,https://live.v1.mk/api/ghyx.php?id=JinBaoTiYuHD_6000
+劲爆体育,https://live.v1.mk/api/bestv.php?id=jbtyhd8m/8000000/mnf.m3u8
+五星体育,http://tvmvip110.club/bst.php?id=43
+五星体育,https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000/mnf.m3u8
+足球频道,https://live.v1.mk/api/ghyx.php?id=ZuQiuHD_6000
+足球频道,https://live.v1.mk/api/bestv.php?id=zqpd8m/8000000/mnf.m3u8
+魅力足球,http://bytedance.live.cqccn.com/__cl/cg:live/__c/mlzqHD/__op/default/__f//index.m3u8
+天元围棋,http://bytedance.live.cqccn.com/__cl/cg:live/__c/weiqi/__op/default/__f//index.m3u8
 
 
 👣｜湖南地方,#genre#
@@ -346,12 +386,13 @@ CCTV14,https://live.v1.mk/api/bestv.php?id=cctvsehd8m/8000000/mnf.m3u8
 卡酷少儿,https://live.v1.mk/api/bestv.php?id=kkse8m/8000000/mnf.m3u8
 卡酷少儿,http://221.2.36.34:8888/newlive/live/hls/54/live.m3u8
 卡酷少儿,http://39.135.138.60:18890/PLTV/88888888/224/3221225677/index.m3u8
+动漫秀场,http://bytedance.live.cqccn.com/__cl/cg:live/__c/dmxcHD/__op/default/__f//index.m3u8
+动漫秀场,https://live.v1.mk/api/ghyx.php?id=DongManXiuChangHD_6000
+动漫秀场,http://baidu.live.cqccn.com/__cl/cg:live/__c/dmxcHD/__op/default/__f//index.m3u8
 重庆少儿http://baidu.live.cqccn.com/__cl/cg:live/__c/cqseHD/__op/default/__f//index.m3u8?
 南京少儿,http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
 南京少儿,http://live.nbs.cn/channels/njtv/sepd/500k.m3u8
 南京少儿,http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
-动漫秀场,https://live.v1.mk/api/ghyx.php?id=DongManXiuChangHD_6000
-动漫秀场,http://baidu.live.cqccn.com/__cl/cg:live/__c/dmxcHD/__op/default/__f//index.m3u8
 儿童乐园,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_215_600_t10/c57_lb_215_600_t10.m3u8?key=0b292c335e5837e943410c2bfa7a7387e
 嘉佳卡通,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226193/index.m3u8
 动画小天地,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c55_lb_139_600_t10/c55_lb_139_600_t10.m3u8?key=0f2a06793124310bc475d77d809f3ab51
