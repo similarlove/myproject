@@ -1,58 +1,5 @@
 📡｜中央电视台,#genre#
-CCTV1,https://live.v1.mk/api/ghyx.php?id=CCTV1HD_6000
 
-CCTV2,https://live.v1.mk/api/ghyx.php?id=CCTV2HD_6000
-
-CCTV3,https://live.v1.mk/api/ghyx.php?id=CCTV3HD_6000
-
-CCTV4,https://live.v1.mk/api/ghyx.php?id=CCTV4HD_6000
-
-CCTV5,https://live.v1.mk/api/ghyx.php?id=CCTV5HD_6000
-
-CCTV5+,https://live.v1.mk/api/ghyx.php?id=CCTV5plusHD_6000
-
-CCTV6,https://live.v1.mk/api/ghyx.php?id=CCTV6HD_6000
-
-CCTV7,https://live.v1.mk/api/ghyx.php?id=CCTV7HD_6000
-
-CCTV8,https://live.v1.mk/api/ghyx.php?id=CCTV8HD_6000
-
-CCTV9,https://live.v1.mk/api/ghyx.php?id=CCTV9HD_6000
-
-CCTV10,https://live.v1.mk/api/ghyx.php?id=CCTV10HD_6000
-
-CCTV11,https://live.v1.mk/api/ghyx.php?id=CCTV11HD_2000
-
-CCTV12,https://live.v1.mk/api/ghyx.php?id=CCTV12HD_6000
-
-CCTV13,https://live.v1.mk/api/ghyx.php?id=CCTV13HD_2000
-
-CCTV14,https://live.v1.mk/api/ghyx.php?id=CCTV14HD_6000
-
-CCTV15,https://live.v1.mk/api/ghyx.php?id=CCTV15HD_6000
-
-CCTV16,https://live.v1.mk/api/ghyx.php?id=CCTV16HD_6000
-
-CCTV17,https://live.v1.mk/api/ghyx.php?id=CCTV17HD_6000
-纯享4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
-CCTV风云足球,http://bytedance.live.cqccn.com/__cl/cg:live/__c/fyzqHD/__op/default/__f//index.m3u8
-
-CCTV高尔夫网球,http://bytedance.live.cqccn.com/__cl/cg:live/__c/golfHD/__op/default/__f//index.m3u8
-
-CCTV央视台球,http://bytedance.live.cqccn.com/__cl/cg:live/__c/ystqHD/__op/default/__f//index.m3u8
-
-CCTV风云剧场,http://bytedance.live.cqccn.com/__cl/cg:live/__c/shandongHD/__op/default/__f//index.m3u8
-CCTV风云剧场,http://bytedance.live.cqccn.com/__cl/cg:live/__c/fyjcHD/__op/default/__f//index.m3u8
-CCTV风云音乐,http://bytedance.live.cqccn.com/__cl/cg:live/__c/fyyyHD/__op/default/__f//index.m3u8
-CCTV怀旧剧场,http://bytedance.live.cqccn.com/__cl/cg:live/__c/hjjcHD/__op/default/__f//index.m3u8
-CCTV第一剧场,http://bytedance.live.cqccn.com/__cl/cg:live/__c/diyijuchangHD/__op/default/__f//index.m3u8
-CCTV兵器科技,http://bytedance.live.cqccn.com/__cl/cg:live/__c/bqkjHD/__op/default/__f//index.m3u8
-CCTV央视文化精品,http://bytedance.live.cqccn.com/__cl/cg:live/__c/yswhHD/__op/default/__f//index.m3u8
-CCTV女性时尚,http://bytedance.live.cqccn.com/__cl/cg:live/__c/nvxing/__op/default/__f//index.m3u8
-CCTV第一剧场,http://baidu.live.cqccn.com/__cl/cg:live/__c/diyijuchangHD/__op/default/__f//index.m3u8
-CCTV风云剧场,http://bytedance.live.cqccn.com/__cl/cg:live/__c/shandongHD/__op/default/__f//index.m3u8
-CCTV怀旧剧场,http://baidu.live.cqccn.com/__cl/cg:live/__c/hjjcHD/__op/default/__f//index.m3u8
-------------------------------------------------------------------------------------------------------------------
 CCTV1,https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000/mnf.m3u8
 
 CCTV2,https://live.v1.mk/api/bestv.php?id=cctv2hd8m/8000000/mnf.m3u8
@@ -92,6 +39,27 @@ CCTV16,https://live.v1.mk/api/bestv.php?id=cctv16hd4k/15000000/mnf.m3u8
 CCTV17,https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000/mnf.m3u8
 
 CCTV4k,https://live.v1.mk/api/bestv.php?id=cctv4k/15000000/mnf.m3u8
+
+纯享4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
+CCTV风云足球,http://bytedance.live.cqccn.com/__cl/cg:live/__c/fyzqHD/__op/default/__f//index.m3u8
+
+CCTV高尔夫网球,http://bytedance.live.cqccn.com/__cl/cg:live/__c/golfHD/__op/default/__f//index.m3u8
+
+CCTV央视台球,http://bytedance.live.cqccn.com/__cl/cg:live/__c/ystqHD/__op/default/__f//index.m3u8
+
+CCTV风云剧场,http://bytedance.live.cqccn.com/__cl/cg:live/__c/shandongHD/__op/default/__f//index.m3u8
+CCTV风云剧场,http://bytedance.live.cqccn.com/__cl/cg:live/__c/fyjcHD/__op/default/__f//index.m3u8
+CCTV风云音乐,http://bytedance.live.cqccn.com/__cl/cg:live/__c/fyyyHD/__op/default/__f//index.m3u8
+CCTV怀旧剧场,http://bytedance.live.cqccn.com/__cl/cg:live/__c/hjjcHD/__op/default/__f//index.m3u8
+CCTV第一剧场,http://bytedance.live.cqccn.com/__cl/cg:live/__c/diyijuchangHD/__op/default/__f//index.m3u8
+CCTV兵器科技,http://bytedance.live.cqccn.com/__cl/cg:live/__c/bqkjHD/__op/default/__f//index.m3u8
+CCTV央视文化精品,http://bytedance.live.cqccn.com/__cl/cg:live/__c/yswhHD/__op/default/__f//index.m3u8
+CCTV女性时尚,http://bytedance.live.cqccn.com/__cl/cg:live/__c/nvxing/__op/default/__f//index.m3u8
+CCTV第一剧场,http://baidu.live.cqccn.com/__cl/cg:live/__c/diyijuchangHD/__op/default/__f//index.m3u8
+CCTV风云剧场,http://bytedance.live.cqccn.com/__cl/cg:live/__c/shandongHD/__op/default/__f//index.m3u8
+CCTV怀旧剧场,http://baidu.live.cqccn.com/__cl/cg:live/__c/hjjcHD/__op/default/__f//index.m3u8
+------------------------------------------------------------------------------------------------------------------
+
 ---------------------------------------------------------------------------------------------------------
 CCTV1,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240127_1/playlist.m3u8?CONTENTID=00000110240127_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 
@@ -242,132 +210,44 @@ CCTV15,http://tvmvip110.club/bst.php?id=108
 
 CCTV17,http://tvmvip110.club/bst.php?id=109
 
+-----------------------------------------------
+CCTV1,https://live.v1.mk/api/ghyx.php?id=CCTV1HD_6000
+
+CCTV2,https://live.v1.mk/api/ghyx.php?id=CCTV2HD_6000
+
+CCTV3,https://live.v1.mk/api/ghyx.php?id=CCTV3HD_6000
+
+CCTV4,https://live.v1.mk/api/ghyx.php?id=CCTV4HD_6000
+
+CCTV5,https://live.v1.mk/api/ghyx.php?id=CCTV5HD_6000
+
+CCTV5+,https://live.v1.mk/api/ghyx.php?id=CCTV5plusHD_6000
+
+CCTV6,https://live.v1.mk/api/ghyx.php?id=CCTV6HD_6000
+
+CCTV7,https://live.v1.mk/api/ghyx.php?id=CCTV7HD_6000
+
+CCTV8,https://live.v1.mk/api/ghyx.php?id=CCTV8HD_6000
+
+CCTV9,https://live.v1.mk/api/ghyx.php?id=CCTV9HD_6000
+
+CCTV10,https://live.v1.mk/api/ghyx.php?id=CCTV10HD_6000
+
+CCTV11,https://live.v1.mk/api/ghyx.php?id=CCTV11HD_2000
+
+CCTV12,https://live.v1.mk/api/ghyx.php?id=CCTV12HD_6000
+
+CCTV13,https://live.v1.mk/api/ghyx.php?id=CCTV13HD_2000
+
+CCTV14,https://live.v1.mk/api/ghyx.php?id=CCTV14HD_6000
+
+CCTV15,https://live.v1.mk/api/ghyx.php?id=CCTV15HD_6000
+
+CCTV16,https://live.v1.mk/api/ghyx.php?id=CCTV16HD_6000
+
+CCTV17,https://live.v1.mk/api/ghyx.php?id=CCTV17HD_6000
+
 📺｜卫视频道,#genre#
-
-
-湖南卫视,https://live.v1.mk/api/ghyx.php?id=HuNanHD_6000
-
-浙江卫视,https://live.v1.mk/api/ghyx.php?id=ZheJiangHD_6000
-
-北京卫视,https://live.v1.mk/api/ghyx.php?id=BTV1HD_6000
-
-广西卫视,https://live.v1.mk/api/ghyx.php?id=GuangXiHD_6000
-
-辽宁卫视,https://live.v1.mk/api/ghyx.php?id=LiaoNingHD_6000
-
-安徽卫视,https://live.v1.mk/api/ghyx.php?id=AnHuiHD_6000
-
-江苏卫视,https://live.v1.mk/api/ghyx.php?id=JiangSuHD_6000
-
-东方卫视,https://live.v1.mk/api/ghyx.php?id=DongFangHD_6000
-
-东南卫视,https://live.v1.mk/api/ghyx.php?id=FuJianHD_6000
-
-湖北卫视,https://live.v1.mk/api/ghyx.php?id=HuBeiHD_6000
-
-广东卫视,https://live.v1.mk/api/ghyx.php?id=GuangDongHD_6000
-
-广西卫视,https://live.v1.mk/api/ghyx.php?id=GuangXiHD_6000
-
-深圳卫视,https://live.v1.mk/api/ghyx.php?id=ShenZhenHD_6000
-
-四川卫视,https://live.v1.mk/api/ghyx.php?id=SiChuanHD_6000
-
-山东卫视,https://live.v1.mk/api/ghyx.php?id=ShanDongHD_6000
-
-河南卫视,https://live.v1.mk/api/ghyx.php?id=HeNanHD_6000
-
-河北卫视,https://live.v1.mk/api/ghyx.php?id=HeBeiHD_6000
-
-江西卫视,https://live.v1.mk/api/ghyx.php?id=JiangXiHD_6000
-
-天津卫视,https://live.v1.mk/api/ghyx.php?id=TianJinHD_6000
-
-重庆卫视,https://live.v1.mk/api/ghyx.php?id=ChongQingHD_6000
-
-黑龙江卫视,https://live.v1.mk/api/ghyx.php?id=HeiLongJiangHD_6000
-
-吉林卫视,https://live.v1.mk/api/ghyx.php?id=JiLinWeiShiHD_6000
-
-海南卫视,https://live.v1.mk/api/ghyx.php?id=LvYouWeiShiHD_6000
-
-内蒙古卫视 标清,https://live.v1.mk/api/ghyx.php?id=NeiMengGuHD_2000
-
-山西卫视 标清,https://live.v1.mk/api/ghyx.php?id=ShanXiHD_2000
-
-陕西卫视 标清,https://live.v1.mk/api/ghyx.php?id=ShannXiHD_2000
-
-云南卫视 标清,https://live.v1.mk/api/ghyx.php?id=YunNanHD_2000
-
-兵团卫视 标清,https://live.v1.mk/api/ghyx.php?id=BTTVHD_2000
-
-贵州卫视 标清,https://live.v1.mk/api/ghyx.php?id=GuiZhouHD_2000
-
-青海卫视 标清,https://live.v1.mk/api/ghyx.php?id=QingHaiHD_2000
-
-西藏卫视 标清,https://live.v1.mk/api/ghyx.php?id=XiZangHD_2000
-
-新疆卫视 标清,https://live.v1.mk/api/ghyx.php?id=XinJiangHD_2000
-
-甘肃卫视 标清,https://live.v1.mk/api/ghyx.php?id=GanSuHD_2000
-
-厦门卫视 标清,https://live.v1.mk/api/ghyx.php?id=XiaMenHD_2000
-
-宁夏卫视 标清,https://live.v1.mk/api/ghyx.php?id=NingXiaHD_2000
-
-北京卫视BTV-1,https://live.v1.mk/api/ghyx.php?id=BTV1HD_6000
-
-北京文艺BTV-2,https://live.v1.mk/api/ghyx.php?id=BTVwenyiHD_6000
-
-北京科教BTV-3,https://live.v1.mk/api/ghyx.php?id=BTVKeJiaoHD_6000
-
-北京影视BTV-4,https://live.v1.mk/api/ghyx.php?id=BTV4HD_6000
-
-北京财经BTV-5,https://live.v1.mk/api/ghyx.php?id=BTVCaiJingHD_6000
-
-北京体育休闲BTV-6,https://live.v1.mk/api/ghyx.php?id=BTVjishiHD_6000
-
-北京生活BTV-7,https://live.v1.mk/api/ghyx.php?id=BTVShengHuoHD_6000
-
-北京青年BTV-8,https://live.v1.mk/api/ghyx.php?id=BTVQingNianHD_6000
-
-北京新闻BTV-9,https://live.v1.mk/api/ghyx.php?id=BTV9HD_6000
-
-北京卡酷BTV-10 标清,https://live.v1.mk/api/ghyx.php?id=BTV10HD_2000
-
-欢笑剧场4K,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
-
-乐游,https://live.v1.mk/api/ghyx.php?id=QuanJiShiHD_6000
-
-歌华导视,https://live.v1.mk/api/ghyx.php?id=GeHuadaoshiHD_6000
-
-CHC家庭影院 标清,https://live.v1.mk/api/ghyx.php?id=CHCHD_2000
-
-CHC高清电影,https://live.v1.mk/api/ghyx.php?id=CHCHD2_6000
-
-CHC动作电影 标清,https://live.v1.mk/api/ghyx.php?id=MotionHD_2000
-
-SiTV都市剧场,http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8
-SiTV都市剧场,http://baidu.live.cqccn.com/__cl/cg:live/__c/dsjcHD/__op/default/__f//index.m3u8
-SiTV都市剧场,http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8
-SiTV都市剧场,https://live.v1.mk/api/ghyx.php?id=DuShiJuChangHD_6000
-
-劲爆体育,https://live.v1.mk/api/ghyx.php?id=JinBaoTiYuHD_6000
-
-中国教育1,https://live.v1.mk/api/ghyx.php?id=CETV1HD_6000
-
-中国教育3,https://live.v1.mk/api/ghyx.php?id=CETV3HD_2000
-
-中国教育4,https://live.v1.mk/api/ghyx.php?id=CETV4HD_2000
-
-动漫秀场,https://live.v1.mk/api/ghyx.php?id=DongManXiuChangHD_6000
-
-游戏风云,https://live.v1.mk/api/ghyx.php?id=YouXiFengYunHD_6000
-
-东方财经,https://live.v1.mk/api/ghyx.php?id=DongFangCaiJingHD_6000
-
-足球频道,https://live.v1.mk/api/ghyx.php?id=ZuQiuHD_6000
-----------------------------------------------------------------------------------------------------------------
 湖南卫视,https://live.v1.mk/api/bestv.php?id=hunanwshd8m/8000000/mnf.m3u8
 
 江苏卫视,https://live.v1.mk/api/bestv.php?id=jswshd8m/8000000/mnf.m3u8
@@ -451,6 +331,7 @@ SiTV都市剧场,https://live.v1.mk/api/ghyx.php?id=DuShiJuChangHD_6000
 足球频道,https://live.v1.mk/api/bestv.php?id=zqpd8m/8000000/mnf.m3u8
 
 炫动卡通,https://live.v1.mk/api/bestv.php?id=hhxd8m/8000000/mnf.m3u8
+
 ---------------------------------------------------------------------------------------------------------------------
 湖南卫视,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240130_1/playlist.m3u8?CONTENTID=00000110240130_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 
@@ -764,7 +645,130 @@ CETV1,http://tvmvip110.club/bst.php?id=143
 五星体育,http://tvmvip110.club/bst.php?id=43
 
 生活时尚,http://tvmvip110.club/bst.php?id=49
+----------------------------------------------------------------------------------------------------------
 
+湖南卫视,https://live.v1.mk/api/ghyx.php?id=HuNanHD_6000
+
+浙江卫视,https://live.v1.mk/api/ghyx.php?id=ZheJiangHD_6000
+
+北京卫视,https://live.v1.mk/api/ghyx.php?id=BTV1HD_6000
+
+广西卫视,https://live.v1.mk/api/ghyx.php?id=GuangXiHD_6000
+
+辽宁卫视,https://live.v1.mk/api/ghyx.php?id=LiaoNingHD_6000
+
+安徽卫视,https://live.v1.mk/api/ghyx.php?id=AnHuiHD_6000
+
+江苏卫视,https://live.v1.mk/api/ghyx.php?id=JiangSuHD_6000
+
+东方卫视,https://live.v1.mk/api/ghyx.php?id=DongFangHD_6000
+
+东南卫视,https://live.v1.mk/api/ghyx.php?id=FuJianHD_6000
+
+湖北卫视,https://live.v1.mk/api/ghyx.php?id=HuBeiHD_6000
+
+广东卫视,https://live.v1.mk/api/ghyx.php?id=GuangDongHD_6000
+
+广西卫视,https://live.v1.mk/api/ghyx.php?id=GuangXiHD_6000
+
+深圳卫视,https://live.v1.mk/api/ghyx.php?id=ShenZhenHD_6000
+
+四川卫视,https://live.v1.mk/api/ghyx.php?id=SiChuanHD_6000
+
+山东卫视,https://live.v1.mk/api/ghyx.php?id=ShanDongHD_6000
+
+河南卫视,https://live.v1.mk/api/ghyx.php?id=HeNanHD_6000
+
+河北卫视,https://live.v1.mk/api/ghyx.php?id=HeBeiHD_6000
+
+江西卫视,https://live.v1.mk/api/ghyx.php?id=JiangXiHD_6000
+
+天津卫视,https://live.v1.mk/api/ghyx.php?id=TianJinHD_6000
+
+重庆卫视,https://live.v1.mk/api/ghyx.php?id=ChongQingHD_6000
+
+黑龙江卫视,https://live.v1.mk/api/ghyx.php?id=HeiLongJiangHD_6000
+
+吉林卫视,https://live.v1.mk/api/ghyx.php?id=JiLinWeiShiHD_6000
+
+海南卫视,https://live.v1.mk/api/ghyx.php?id=LvYouWeiShiHD_6000
+
+内蒙古卫视 标清,https://live.v1.mk/api/ghyx.php?id=NeiMengGuHD_2000
+
+山西卫视 标清,https://live.v1.mk/api/ghyx.php?id=ShanXiHD_2000
+
+陕西卫视 标清,https://live.v1.mk/api/ghyx.php?id=ShannXiHD_2000
+
+云南卫视 标清,https://live.v1.mk/api/ghyx.php?id=YunNanHD_2000
+
+兵团卫视 标清,https://live.v1.mk/api/ghyx.php?id=BTTVHD_2000
+
+贵州卫视 标清,https://live.v1.mk/api/ghyx.php?id=GuiZhouHD_2000
+
+青海卫视 标清,https://live.v1.mk/api/ghyx.php?id=QingHaiHD_2000
+
+西藏卫视 标清,https://live.v1.mk/api/ghyx.php?id=XiZangHD_2000
+
+新疆卫视 标清,https://live.v1.mk/api/ghyx.php?id=XinJiangHD_2000
+
+甘肃卫视 标清,https://live.v1.mk/api/ghyx.php?id=GanSuHD_2000
+
+厦门卫视 标清,https://live.v1.mk/api/ghyx.php?id=XiaMenHD_2000
+
+宁夏卫视 标清,https://live.v1.mk/api/ghyx.php?id=NingXiaHD_2000
+
+北京卫视BTV-1,https://live.v1.mk/api/ghyx.php?id=BTV1HD_6000
+
+北京文艺BTV-2,https://live.v1.mk/api/ghyx.php?id=BTVwenyiHD_6000
+
+北京科教BTV-3,https://live.v1.mk/api/ghyx.php?id=BTVKeJiaoHD_6000
+
+北京影视BTV-4,https://live.v1.mk/api/ghyx.php?id=BTV4HD_6000
+
+北京财经BTV-5,https://live.v1.mk/api/ghyx.php?id=BTVCaiJingHD_6000
+
+北京体育休闲BTV-6,https://live.v1.mk/api/ghyx.php?id=BTVjishiHD_6000
+
+北京生活BTV-7,https://live.v1.mk/api/ghyx.php?id=BTVShengHuoHD_6000
+
+北京青年BTV-8,https://live.v1.mk/api/ghyx.php?id=BTVQingNianHD_6000
+
+北京新闻BTV-9,https://live.v1.mk/api/ghyx.php?id=BTV9HD_6000
+
+北京卡酷BTV-10 标清,https://live.v1.mk/api/ghyx.php?id=BTV10HD_2000
+
+欢笑剧场4K,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
+
+乐游,https://live.v1.mk/api/ghyx.php?id=QuanJiShiHD_6000
+
+歌华导视,https://live.v1.mk/api/ghyx.php?id=GeHuadaoshiHD_6000
+
+CHC家庭影院 标清,https://live.v1.mk/api/ghyx.php?id=CHCHD_2000
+
+CHC高清电影,https://live.v1.mk/api/ghyx.php?id=CHCHD2_6000
+
+CHC动作电影 标清,https://live.v1.mk/api/ghyx.php?id=MotionHD_2000
+
+SiTV都市剧场,http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8
+SiTV都市剧场,http://baidu.live.cqccn.com/__cl/cg:live/__c/dsjcHD/__op/default/__f//index.m3u8
+SiTV都市剧场,http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8
+SiTV都市剧场,https://live.v1.mk/api/ghyx.php?id=DuShiJuChangHD_6000
+
+劲爆体育,https://live.v1.mk/api/ghyx.php?id=JinBaoTiYuHD_6000
+
+中国教育1,https://live.v1.mk/api/ghyx.php?id=CETV1HD_6000
+
+中国教育3,https://live.v1.mk/api/ghyx.php?id=CETV3HD_2000
+
+中国教育4,https://live.v1.mk/api/ghyx.php?id=CETV4HD_2000
+
+动漫秀场,https://live.v1.mk/api/ghyx.php?id=DongManXiuChangHD_6000
+
+游戏风云,https://live.v1.mk/api/ghyx.php?id=YouXiFengYunHD_6000
+
+东方财经,https://live.v1.mk/api/ghyx.php?id=DongFangCaiJingHD_6000
+
+足球频道,https://live.v1.mk/api/ghyx.php?id=ZuQiuHD_6000
 
 🏀｜体育频道,#genre#
 CCTV5,https://live.v1.mk/api/ghyx.php?id=CCTV5HD_6000
