@@ -811,20 +811,24 @@ CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122639
 精品体育,http://117.169.121.162:6610/PLTV/88888910/224/3221225709/index.m3u8
 劲爆体育,https://live.v1.mk/api/ghyx.php?id=JinBaoTiYuHD_6000
 劲爆体育,https://live.v1.mk/api/bestv.php?id=jbtyhd8m/8000000/mnf.m3u8
+魅力足球,http://bytedance.live.cqccn.com/__cl/cg:live/__c/mlzqHD/__op/default/__f//index.m3u8
 五星体育,http://tvmvip110.club/bst.php?id=43
 五星体育,https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000/mnf.m3u8
+哒啵赛事,http://117.169.121.162:6610/PLTV/88888910/224/3221225653/index.m3u8
+新视觉HD,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
+武博世界,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225656/index.m3u8
+武博世界,http://39.134.115.163:8080/PLTV/88888910/224/3221225656/index.m3u8
+足球频道,https://live.v1.mk/api/ghyx.php?id=ZuQiuHD_6000
+足球频道,https://live.v1.mk/api/bestv.php?id=zqpd8m/8000000/mnf.m3u8
 北京体育休闲,https://live.v1.mk/api/ghyx.php?id=BTVjishiHD_6000
 广东体育,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
 广东体育,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/1300.m3u8
 广东体育,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/index.m3u8
-足球频道,https://live.v1.mk/api/ghyx.php?id=ZuQiuHD_6000
-足球频道,https://live.v1.mk/api/bestv.php?id=zqpd8m/8000000/mnf.m3u8
-魅力足球,http://bytedance.live.cqccn.com/__cl/cg:live/__c/mlzqHD/__op/default/__f//index.m3u8
 天元围棋,http://bytedance.live.cqccn.com/__cl/cg:live/__c/weiqi/__op/default/__f//index.m3u8
 
 
 👣｜湖南地方,#genre#
-
+求索记录,http://baidu.live.cqccn.com/__cl/cg:live/__c/qsjlHD/__op/default/__f//index.m3u8
 湖南电影,http://124.232.233.15:6610/000000001001/201600020005/1400.m3u8?m3u8_level=2
 湖南电影,http://124.232.233.17:6610/000000001001/201600020005/1400.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 湖南电视剧,http://124.232.233.15:6610/000000001001/201600020006/1400.m3u8?m3u8_level=2
@@ -910,6 +914,7 @@ CHC动作电影,https://live.v1.mk/api/ghyx.php?id=MotionHD_2000
 SiTV都市剧场,http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8
 SiTV都市剧场,http://baidu.live.cqccn.com/__cl/cg:live/__c/dsjcHD/__op/default/__f//index.m3u8
 SiTV都市剧场,http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8
+惊悚悬疑,http://117.169.124.149:8080/live/jingsongxy/index.m3u8
 古装剧场,http://117.169.124.149:8080/live/guzhuangjc/index.m3u8
 家庭剧场,http://117.169.124.149:8080/live/jiatingjc/index.m3u8
 军旅剧场,http://117.169.124.149:8080/live/junlvjc/index.m3u8
@@ -991,6 +996,7 @@ CCTV14,http://tvmvip110.club/bst.php?id=107
 卡酷少儿,https://live.v1.mk/api/bestv.php?id=kkse8m/8000000/mnf.m3u8
 卡酷少儿,http://221.2.36.34:8888/newlive/live/hls/54/live.m3u8
 卡酷少儿,http://39.135.138.60:18890/PLTV/88888888/224/3221225677/index.m3u8
+动漫秀场,http://183.207.255.188/live/program/live/dmxchd/4000000/mnf.m3u8
 动漫秀场,http://bytedance.live.cqccn.com/__cl/cg:live/__c/dmxcHD/__op/default/__f//index.m3u8
 动漫秀场,https://live.v1.mk/api/ghyx.php?id=DongManXiuChangHD_6000
 动漫秀场,http://baidu.live.cqccn.com/__cl/cg:live/__c/dmxcHD/__op/default/__f//index.m3u8
