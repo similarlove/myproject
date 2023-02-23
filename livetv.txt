@@ -871,7 +871,7 @@ NewTV武博世界,http://39.134.115.163:8080/PLTV/88888910/224/3221225656/index.
 永州公共,http://stream.21ytv.com/gg/playlist.m3u8
 永州公共,http://stream.21ytv.com/gg/8twnQW67/live.m3u8
 
-👀｜电视剧频道,#genre#
+👀｜剧场频道,#genre#
 CCTV第一剧场,http://bytedance.live.cqccn.com/__cl/cg:live/__c/diyijuchangHD/__op/default/__f//index.m3u8
 CCTV第一剧场,http://baidu.live.cqccn.com/__cl/cg:live/__c/diyijuchangHD/__op/default/__f//index.m3u8
 CCTV风云剧场,http://bytedance.live.cqccn.com/__cl/cg:live/__c/shandongHD/__op/default/__f//index.m3u8
@@ -882,6 +882,8 @@ CCTV怀旧剧场,http://baidu.live.cqccn.com/__cl/cg:live/__c/hjjcHD/__op/defaul
 SiTV都市剧场,http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8
 SiTV都市剧场,http://baidu.live.cqccn.com/__cl/cg:live/__c/dsjcHD/__op/default/__f//index.m3u8
 SiTV都市剧场,http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8
+NewTV军事评论,http://39.135.138.58:18890/PLTV/88888888/224/3221225757/index.m3u8
+NewTV军事评论,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225757/index.m3u8
 NewTV精品萌宠,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226245/index.m3u8
 NewTV惊悚悬疑,http://117.169.124.149:8080/live/jingsongxy/index.m3u8
 NewTV古装剧场,http://117.169.124.149:8080/live/guzhuangjc/index.m3u8
@@ -910,8 +912,6 @@ NewTV潮妈辣婆,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/32212257
 NewTV金牌综艺,http://39.135.138.60:18890/PLTV/88888910/224/3221225711/index.m3u8
 NewTV金牌综艺,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225711/index.m3u8
 NewTV农业致富,http://39.135.138.60:18890/PLTV/88888910/224/3221225670/index.m3u8
-NewTV军事评论,http://39.135.138.58:18890/PLTV/88888888/224/3221225757/index.m3u8
-NewTV军事评论,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225757/index.m3u8
 iHOT爱喜剧,http://39.184.224.99:9080/newlive/live/hls/55/live.m3u8
 
 📽｜电影直播,#genre#
@@ -973,6 +973,9 @@ iHOT爱科幻,http://39.184.224.99:9080/newlive/live/hls/56/live.m3u8
 虎牙音悦台,http://epg.112114.xyz/huya/880201
 斗鱼李子柒,http://tvmvip110.club/douyu.php?id=2901080
 斗鱼苗大冬,http://tvmvip110.club/douyu.php?id=8067328
+斗鱼郭杰瑞,http://tvmvip110.club/douyu.php?id=7357786
+斗鱼滇西小哥,http://tvmvip110.club/douyu.php?id=3243427
+斗鱼绵羊料理,http://tvmvip110.club/douyu.php?id=2090684
 斗鱼LOL直播1,http://tvmvip110.club/douyu.php?id=288016
 斗鱼LOL直播2,http://tvmvip110.club/douyu.php?id=424559
 斗鱼成果,http://tvmvip110.club/douyu.php?id=8090190
@@ -982,8 +985,8 @@ iHOT爱科幻,http://39.184.224.99:9080/newlive/live/hls/56/live.m3u8
 哔哩哔哩笑笑,http://tvmvip110.club/bili.php?id=7777
 哔哩哔哩笑笑,https://cn-hbyc-ct-02-14.bilivideo.com/live-bvc/120295/live_8739477_3713195_bluray/index.m3u8
 哔哩哔哩笑笑,https://cn-hbyc-ct-02-29.bilivideo.com/live-bvc/304657/live_8739477_3713195_bluray/index.m3u8
-哔哩哔哩解说mage,http://tvmvip110.club/bili.php?id=22508985
-哔哩哔哩解说赵俊日,http://tvmvip110.club/bili.php?id=22174141
+哔哩哔哩mage,http://tvmvip110.club/bili.php?id=22508985
+哔哩哔哩赵俊日,http://tvmvip110.club/bili.php?id=22174141
 哔哩哔哩Langx,http://tvmvip110.club/bili.php?id=24022841
 斗鱼pdd,http://tvmvip110.club/douyu.php?id=101
 斗鱼大司马,http://tvmvip110.club/douyu.php?id=606118
