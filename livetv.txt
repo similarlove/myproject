@@ -876,10 +876,10 @@ CCTV14,http://117.169.124.149:8080/live/HD-8000k-1080P-cctv14/index.m3u8
 黑莓动画,http://117.169.121.162:6610/PLTV/88888910/224/3221225672/index.m3u8
 黑莓动画,http://111.40.196.9/PLTV/88888888/224/3221225628/index.m3u8
 金鹰卡通,http://bytedance.live.cqccn.com/__cl/cg:live/__c/jinyingSD/__op/default/__f//index.m3u8
-金鹰卡通,https://live.v1.mk/aishang/jykt
 金鹰卡通,http://117.169.124.149:8080/live/jinyingkaton/index.m3u8
 金鹰卡通,http://124.232.233.17:6610/000000001001/201600020009/1400.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 金鹰卡通,http://39.134.115.163:8080/PLTV/88888910/224/3221225721/index.m3u8
+金鹰卡通,https://live.v1.mk/aishang/jykt
 炫动卡通,https://live.v1.mk/api/bestv.php?id=hhxd8m/8000000/mnf.m3u8
 炫动卡通,http://tvmvip110.club/bs1.php?id=19
 炫动卡通,http://117.169.124.149:8080/live/xuandongkaton/index.m3u8
