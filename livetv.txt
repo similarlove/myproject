@@ -813,8 +813,8 @@ iHOT爱科幻,http://39.184.224.99:9080/newlive/live/hls/56/live.m3u8
 斗鱼新三国,http://tvmvip110.club/douyu.php?id=276200
 斗鱼老三国,http://tvmvip110.club/douyu.php?id=7459925
 斗鱼西游记,http://tvmvip110.club/douyu.php?id=5472438
-斗鱼华语1,http://tvmvip110.club/douyu.php?id=85894
-斗鱼华语2,http://tvmvip110.club/douyu.php?id=122402
+斗鱼电影1,http://tvmvip110.club/douyu.php?id=85894
+斗鱼电影2,http://tvmvip110.club/douyu.php?id=122402
 斗鱼风云,http://tvmvip110.club/douyu.php?id=9290755
 虎牙周星驰,http://epg.112114.xyz/huya/11342412
 斗鱼鬼片1,http://tvmvip110.club/douyu.php?id=218859
