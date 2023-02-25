@@ -755,8 +755,8 @@ NewTV健康有约,http://117.169.124.149:8080/live/ljiankangyouyue/index.m3u8
 iHOT爱喜剧,http://39.184.224.99:9080/newlive/live/hls/55/live.m3u8
 besTV童年神剧,http://tvmvip110.club/bs1.php?id=186
 besTV自制美食,http://tvmvip110.club/bs1.php?id=144
-besTV音乐,http://tvmvip110.club/bs1.php?id=96
-besTV**,https://bp-caster.bestv.com.cn/941/3/video.m3u8
+besTV,http://tvmvip110.club/bs1.php?id=96
+besTV,https://bp-caster.bestv.com.cn/941/3/video.m3u8
 besTV独家直播,http://tvmvip110.club/bs.php?id=146
 besTV两个人的世界,http://tvmvip110.club/bs1.php?id=124
 besTV最好的舞台,http://tvmvip110.club/bs1.php?id=128
@@ -777,6 +777,8 @@ besTV带娃小妙招,http://tvmvip110.club/bs1.php?id=52
 CCTV6,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240247_1/playlist.m3u8?CONTENTID=00000110240247_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV6,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv6HD/__op/default/__f//index.m3u8
 CCTV6,https://live.v1.mk/api/bestv.php?id=cctv6hd8m/8000000/mnf.m3u8
+CCTV6,https://live.v1.mk/aishang/cctv6hd
+CCTV6,http://117.169.124.149:8080/live/HD-8000k-1080P-cctv6/index.m3u8
 湖南电影,http://124.232.233.15:6610/000000001001/201600020005/1400.m3u8?m3u8_level=2
 湖南电影,http://124.232.233.17:6610/000000001001/201600020005/1400.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 CHC家庭影院,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240323_1/encoder/0/playlist.m3u8?CONTENTID=00000110240323_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
@@ -804,7 +806,6 @@ iHOT爱科幻,http://39.184.224.99:9080/newlive/live/hls/56/live.m3u8
 东方影视,http://tvmvip110.club/bst.php?id=41
 东方影视,http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r4/dfl/dianshijuhd/3000/index.m3u8?ProgramID=&encrypt=
 东方影视,https://live.v1.mk/api/bestv.php?id=dfyshd8m/8000000/mnf.m3u8
-北京影视,https://live.v1.mk/api/ghyx.php?id=BTV4HD_6000
 重庆影视,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cqyingshiHD/__op/default/__f//index.m3u8
 西安影视,http://stream2.xiancity.cn/xatv4/sd/live.m3u8
 黑龙江影视,https://idclive.hljtv.com:4430/live/hljys_hd.m3u8?zheild
@@ -819,7 +820,6 @@ iHOT爱科幻,http://39.184.224.99:9080/newlive/live/hls/56/live.m3u8
 斗鱼华语1,http://tvmvip110.club/douyu.php?id=85894
 斗鱼华语2,http://tvmvip110.club/douyu.php?id=122402
 斗鱼风云,http://tvmvip110.club/douyu.php?id=9290755
-虎牙周星驰,http://121.51.249.6/tx.hls.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8
 虎牙周星驰,http://epg.112114.xyz/huya/11342412
 斗鱼鬼片1,http://tvmvip110.club/douyu.php?id=218859
 斗鱼鬼片2,http://tvmvip110.club/douyu.php?id=310926
