@@ -1384,8 +1384,10 @@ YY周星驰,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353881242
 YY周星驰,http://106.53.212.251/daili/yy.php?id=1353881242
 YY成龙,http://106.53.212.251/daili/yy.php?id=1354888751
 YY成龙,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354888751
-刘德华,http://aldirect.corp-hls.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.m3u8?wsiphost=ipdbme
-甄子丹,http://aldirect.corp-hls.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1.m3u8?wsiphost=ipdbme
+虎牙刘德华,http://aldirect.corp-hls.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.m3u8?wsiphost=ipdbme
+虎牙刘德华,http://epg.112114.xyz/huya/11342424
+虎牙甄子丹,http://aldirect.corp-hls.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1.m3u8?wsiphost=ipdbme
+虎牙甄子丹,http://epg.112114.xyz/huya/11352935
 斗鱼新三国,http://tvmvip110.club/douyu.php?id=276200
 斗鱼新三国,http://epg.112114.xyz/douyu/276200
 斗鱼老三国,http://tvmvip110.club/douyu.php?id=7459925
