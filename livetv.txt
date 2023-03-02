@@ -1387,6 +1387,7 @@ besTV全球大片,https://live.v1.mk/api/bestv.php?id=qqdp8m/8000000
 甄子丹,http://aldirect.corp-hls.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1.m3u8?wsiphost=ipdbme
 斗鱼新三国,http://tvmvip110.club/douyu.php?id=276200
 斗鱼新三国,http://epg.112114.xyz/douyu/276200
+斗鱼新三国,http://vplay1a.douyucdn.cn/live/276200r8BuXLoShZ.flv?uuid=
 斗鱼老三国,http://tvmvip110.club/douyu.php?id=7459925
 斗鱼老三国,http://epg.112114.xyz/douyu/7459925
 斗鱼西游记,http://tvmvip110.club/douyu.php?id=5472438
