@@ -1432,7 +1432,6 @@ CHC动作电影,http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
 CHC动作电影,http://223.151.51.27:85/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC动作电影,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC动作电影,http://111.20.41.248/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8?from=everydaytv4.2
-西部电影,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226364/index.m3u8
 NewTV动作电影,http://117.169.124.149:8080/live/dongzuody/index.m3u8
 NewTV超级电影,http://39.135.138.59:18890/PLTV/88888910/224/3221225623/index.m3u8
 NewTV超级电影,http://39.134.115.163:8080/PLTV/88888910/224/3221225623/index.m3u8
@@ -1441,6 +1440,7 @@ NewTV超级电影,http://117.169.121.162:6610/PLTV/88888910/224/3221225623/index
 东方影视,http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r4/dfl/dianshijuhd/3000/index.m3u8?ProgramID=&encrypt=
 东方影视,https://live.v1.mk/api/bestv.php?id=dfyshd8m/8000000
 安徽影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
+西部电影,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226364/index.m3u8
 陕西影视,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226360/index.m3u8
 重庆影视,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cqyingshiHD/__op/default/__f/index.m3u8
 西安影视,http://stream2.xiancity.cn/xatv4/sd/live.m3u8
