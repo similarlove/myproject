@@ -1098,6 +1098,10 @@ CCTV16,http://tvmvip110.club/as.php?id=cctv16hd
 CCTV16,http://125.210.152.19:9120/live/hzgq-cctv16gq-h264.m3u8
 CCTV5,http://125.210.152.19:9120/live/hzgq-cctv5gq-h264.m3u8
 CCTV5+,http://125.210.152.19:9120/live/hzgq-cctvzhgq-h264.m3u8
+CCTV16,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
+CCTV5,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+CCTV5+,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
+CCTV5+,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
 
 CCTV5,http://223.95.111.98:5555/newlive/live/hls/5/live.m3u8
 
@@ -1285,6 +1289,7 @@ CCTV8,http://iptv.cooltv.top/tv/aishang.php?id=cctv8hd
 CCTV8,http://117.169.124.149:8080/live/HD-8000k-1080P-cctv8/index.m3u8
 CCTV8,http://tvmvip110.club/as.php?id=cctv8hd
 CCTV8,http://125.210.152.19:9120/live/hzgq-cctv8gq-h264.m3u8
+CCTV8,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
 
 CCTV风云剧场,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/shandongHD/__op/default/__f/index.m3u8
 CCTV风云剧场,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/fyjcHD/__op/default/__f/index.m3u8
@@ -1371,7 +1376,10 @@ CCTV6,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv6HD/__op/defau
 CCTV6,http://117.169.124.149:8080/live/HD-8000k-1080P-cctv6/index.m3u8
 CCTV6,http://iptv.cooltv.top/tv/aishang.php?id=cctv6hd
 CCTV6,https://live.v1.mk/api/bestv.php?id=cctv6hd8m/8000000
+CCTV6,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
+CCTV6,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
 湖南电影,http://124.232.233.15:6610/000000001001/201600020005/1400.m3u8?m3u8_level=2
+湖南电影,http://223.151.51.27:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南电影,http://124.232.233.17:6610/000000001001/201600020005/1400.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 黑莓电影,http://39.135.138.58:18890/PLTV/88888888/224/3221225764/index.m3u8
 黑莓电影,http://39.134.115.163:8080/PLTV/88888910/224/3221225769/index.m3u8
