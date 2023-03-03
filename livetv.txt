@@ -1098,11 +1098,11 @@ CCTV16,http://tvmvip110.club/as.php?id=cctv16hd
 CCTV16,http://125.210.152.19:9120/live/hzgq-cctv16gq-h264.m3u8
 CCTV5,http://125.210.152.19:9120/live/hzgq-cctv5gq-h264.m3u8
 CCTV5+,http://125.210.152.19:9120/live/hzgq-cctvzhgq-h264.m3u8
-CCTV16,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
+
 CCTV5,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 CCTV5+,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
 CCTV5+,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
-
+CCTV16,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 CCTV5,http://223.95.111.98:5555/newlive/live/hls/5/live.m3u8
 
 CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
