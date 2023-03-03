@@ -1369,21 +1369,8 @@ NewTV海外剧场,http://117.169.124.149:8080/live/xiqumd/index.m3u8
 NewTV健康有约,http://117.169.124.149:8080/live/ljiankangyouyue/index.m3u8
 besTV谍战剧场,https://live.v1.mk/api/bestv.php?id=dzjc8m/8000000
 besTV热门剧场,https://live.v1.mk/api/bestv.php?id=rmjc8m/8000000
-besTV童年神剧,http://tvmvip110.club/bs1.php?id=186
-besTV自制美食,http://tvmvip110.club/bs1.php?id=144
-besTV,http://tvmvip110.club/bs1.php?id=96
 besTV,https://bp-caster.bestv.com.cn/941/3/video.m3u8
-besTV独家直播,http://tvmvip110.club/bs.php?id=146
-besTV两个人的世界,http://tvmvip110.club/bs1.php?id=124
-besTV最好的舞台,http://tvmvip110.club/bs1.php?id=128
-besTV粤语好声音,http://tvmvip110.club/bs1.php?id=229
-besTV美好生活家,http://tvmvip110.club/bs1.php?id=228
-besTV奔跑吧兄弟,http://tvmvip110.club/bs1.php?id=201
-besTV城市真英雄,http://tvmvip110.club/bs1.php?id=119
-besTV整容级妆教,http://tvmvip110.club/bs1.php?id=216
-besTV宅家瘦全身,http://tvmvip110.club/bs1.php?id=40
-besTV居家云打卡,http://tvmvip110.club/bs1.php?id=120
-besTV带娃小妙招,http://tvmvip110.club/bs1.php?id=52
+
 
 🎬｜影视频道,#genre#
 
