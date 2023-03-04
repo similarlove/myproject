@@ -1068,6 +1068,7 @@ CGTN,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240370_1/playlist.m3u8
 西藏卫视,https://tv.vtibet.cn:443/live/EfgSmE4jCTBtvchannel3.m3u8
 西藏影视文化,https://tv.vtibet.cn/live/FYeIdVzzCTBtvchannel2.m3u8
 西藏藏语,https://tv.vtibet.cn/live/de3mrRaaCTBtvchannel1.m3u8
+江西卫视,http://hls-ott-zhibo.wasu.tv/live/181/index.m3u8
 🏀｜体育频道,#genre#
 
 
@@ -1314,7 +1315,8 @@ SiTV都市剧场,https://live.v1.mk/api/bestv.php?id=dsjc8m/8000000
 SiTV都市剧场,http://111.20.40.170/PLTV/88888893/224/3221226581/index.m3u8
 SiTV都市剧场,http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8
 SiTV都市剧场,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226581/index.m3u8
-连续剧4K,http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
+华数TV,http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
+华数连续剧4K,http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
 欢笑剧场4k,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
 欢笑剧场4k,http://111.20.40.170/PLTV/88888893/224/3221226582/index.m3u8
 欢笑剧场4k,https://live.v1.mk/api/bestv.php?id=hxjc4k/15000000
@@ -1473,6 +1475,7 @@ NewTV超级电影,http://117.169.121.162:6610/PLTV/88888910/224/3221225623/index
 斗鱼西游记,http://epg.112114.xyz/douyu/5472438
 虎牙83版射雕,http://epg.112114.xyz/huya/23728674
 虎牙97版天龙,http://epg.112114.xyz/huya/23903123
+虎牙纪晓岚,http://epg.112114.xyz/huya/11342396
 虎牙周星驰,http://epg.112114.xyz/huya/11342412
 YY周星驰,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353881242
 YY周星驰,http://106.53.212.251/daili/yy.php?id=1353881242
@@ -1484,7 +1487,6 @@ YY成龙,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354888751
 虎牙甄子丹,http://epg.112114.xyz/huya/11352935
 斗鱼风云,http://tvmvip110.club/douyu.php?id=9290755
 斗鱼风云,http://epg.112114.xyz/douyu/9290755
-虎牙纪晓岚,http://epg.112114.xyz/huya/11342396
 虎牙爱情公寓,http://epg.112114.xyz/huya/11336726
 斗鱼电影轮播1,http://tvmvip110.club/douyu.php?id=85894
 斗鱼电影轮播1,http://epg.112114.xyz/douyu/85894
