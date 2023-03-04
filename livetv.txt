@@ -1,5 +1,33 @@
 📡｜中央电视台,#genre#
 
+CCTV1,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cctv1HD/__op/default/__f//index.m3u8?blog.ntnas.top
+CCTV2,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cctv2HD/__op/default/__f//index.m3u8?blog.ntnas.top
+CCTV3,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cctv3HD/__op/default/__f//index.m3u8?blog.ntnas.top
+CCTV4,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cctv4HD/__op/default/__f//index.m3u8?blog.ntnas.top
+CCTV5,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cctv5HD/__op/default/__f//index.m3u8?blog.ntnas.top
+CCTV5+,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cctv5SportHD/__op/default/__f//index.m3u8?blog.ntnas.top
+CCTV6,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cctv6HD/__op/default/__f//index.m3u8?blog.ntnas.top
+CCTV7,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cctv7HD/__op/default/__f//index.m3u8?blog.ntnas.top
+CCTV8,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cctv8HD/__op/default/__f//index.m3u8?blog.ntnas.top
+CCTV9,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cctv9HD/__op/default/__f//index.m3u8
+CCTV10,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cctv10HD/__op/default/__f//index.m3u8?blog.ntnas.top
+CCTV11,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cctv11HD/__op/default/__f//index.m3u8?blog.ntnas.top
+CCTV12,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cctv12HD/__op/default/__f//index.m3u8?blog.ntnas.top
+CCTV13,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f//index.m3u8?blog.ntnas.top
+CCTV14,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cctvseHD/__op/default/__f//index.m3u8?blog.ntnas.top
+CCTV15,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cctv15HD/__op/default/__f//index.m3u8?blog.ntnas.top
+CCTV16,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cctv16HD/__op/default/__f//index.m3u8?blog.ntnas.top
+CCTV17,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cctv17HD/__op/default/__f//index.m3u8?blog.ntnas.top
+CCTV风云剧场,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/shandongHD/__op/default/__f//index.m3u8?blog.ntnas.top
+CCTV风云剧场,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/fyjcHD/__op/default/__f//index.m3u8?blog.ntnas.top
+CCTV风云音乐,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/fyyyHD/__op/default/__f//index.m3u8?blog.ntnas.top
+CCTV风云足球,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/fyzqHD/__op/default/__f//index.m3u8?blog.ntnas.top
+CCTV怀旧剧场,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/hjjcHD/__op/default/__f//index.m3u8?blog.ntnas.top
+CCTV第一剧场,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/diyijuchangHD/__op/default/__f//index.m3u8?blog.ntnas.top
+CCTV兵器科技,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/bqkjHD/__op/default/__f//index.m3u8?blog.ntnas.top
+CCTV4K,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/CCTV4K/__op/default/__f//index.m3u8?blog.ntnas.top
+CCTV16-4K,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/CCTV16_4K/__op/default/__f//index.m3u8?blog.ntnas.top
+----------------------------------------------------------------------------------------------------------
 CCTV1,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
 CCTV2,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv2HD/__op/default/__f/index.m3u8
 CCTV3,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv3HD/__op/default/__f/index.m3u8
@@ -440,8 +468,48 @@ CETV3,http://txycetvbl.centv.cn/cetv3/bjdm.m3u8
 CETV4,http://txycetvbl.centv.cn/cetv4/zjpd.m3u8
 
 📺｜卫视频道,#genre#
-
-
+湖南卫视,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/hunanHD/__op/default/__f//index.m3u8?blog.ntnas.top
+江苏卫视,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/jiangsuHD/__op/default/__f//index.m3u8?blog.ntnas.top
+浙江卫视,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/zhejiangHD/__op/default/__f//index.m3u8?blog.ntnas.top
+东南卫视,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/dongnanHD/__op/default/__f//index.m3u8?blog.ntnas.top
+东方卫视,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/shanghaiHD/__op/default/__f//index.m3u8?blog.ntnas.top
+云南卫视,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/yunnanSD/__op/default/__f//index.m3u8?blog.ntnas.top
+北京卫视,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/beijingHD/__op/default/__f//index.m3u8?blog.ntnas.top
+吉林卫视,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/jilinHD/__op/default/__f//index.m3u8?blog.ntnas.top
+四川卫视,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/sichuanHD/__op/default/__f//index.m3u8?blog.ntnas.top
+天津卫视,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/tianjinHD/__op/default/__f//index.m3u8?blog.ntnas.top
+宁夏卫视,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/ningxia/__op/default/__f//index.m3u8?blog.ntnas.top
+安徽卫视,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/anhuiSD/__op/default/__f//index.m3u8?blog.ntnas.top
+山西卫视,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/shanxiSD/__op/default/__f//index.m3u8?blog.ntnas.top
+广东卫视,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/guangdongHD/__op/default/__f//index.m3u8?blog.ntnas.top
+广西卫视,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/guangxiHD/__op/default/__f//index.m3u8?blog.ntnas.top
+新疆卫视,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/xinjiangSD/__op/default/__f//index.m3u8?blog.ntnas.top
+江西卫视,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/jiangxiHD/__op/default/__f//index.m3u8?blog.ntnas.top
+河北卫视,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/hebeiSD/__op/default/__f//index.m3u8?blog.ntnas.top
+河南卫视,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/henanHD/__op/default/__f//index.m3u8?blog.ntnas.top
+海南卫视,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/hainanSD/__op/default/__f//index.m3u8?blog.ntnas.top
+深圳卫视,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/shenzhenHD/__op/default/__f//index.m3u8?blog.ntnas.top
+湖北卫视,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/hubeiSD/__op/default/__f//index.m3u8?blog.ntnas.top
+西藏卫视http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/xizangSD/__op/default/__f//index.m3u8?blog.ntnas.top
+贵州卫视,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/guizhouHD/__op/default/__f//index.m3u8?blog.ntnas.top
+辽宁卫视,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/liaoningHD/__op/default/__f//index.m3u8?blog.ntnas.top
+重庆卫视,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/chongqingHD/__op/default/__f//index.m3u8?blog.ntnas.top
+青海卫视,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/qinghaiSD/__op/default/__f//index.m3u8?blog.ntnas.top
+黑龙江卫视,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/heilongjiangHD/__op/default/__f//index.m3u8?blog.ntnas.top
+三沙卫视,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/sanshaSD/__op/default/__f//index.m3u8?blog.ntnas.top
+教育卫视,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/sdjiaoyuSD/__op/default/__f//index.m3u8?blog.ntnas.top
+兵团卫视,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/bingtuanSD/__op/default/__f//index.m3u8?blog.ntnas.top
+重庆新闻,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/CQTVNewsHD/__op/default/__f//index.m3u8?blog.ntnas.top
+重庆科教,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/CQTVkejiaoHD/__op/default/__f//index.m3u8?blog.ntnas.top
+重庆文体娱乐,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cqwtylHD/__op/default/__f//index.m3u8?blog.ntnas.top
+重庆时尚生活,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cqssgwHD/__op/default/__f//index.m3u8?blog.ntnas.top
+重庆新农村,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cqggncHD/__op/default/__f//index.m3u8?blog.ntnas.top
+家有购物,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/jygw/__op/default/__f//index.m3u8?blog.ntnas.top
+书画,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/shuhua/__op/default/__f//index.m3u8?blog.ntnas.top
+摄影,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/sheying/__op/default/__f//index.m3u8?blog.ntnas.top
+车迷频道,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/doxtv/__op/default/__f//index.m3u8?blog.ntnas.top
+求索纪录,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/qsjlHD/__op/default/__f//index.m3u8?blog.ntnas.top
+-----------------------------------------------------------------------------------------------------
 湖南卫视,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/hunanHD/__op/default/__f/index.m3u8
 东南卫视,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/dongnanHD/__op/default/__f/index.m3u8
 东方卫视,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/shanghaiHD/__op/default/__f/index.m3u8
@@ -1080,6 +1148,10 @@ CCTV16,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240389_1/playlist.m3
 
 CCTV16,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240388_1/playlist.m3u8?CONTENTID=00000110240388_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 
+CCTV5,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cctv5HD/__op/default/__f//index.m3u8?blog.ntnas.top
+CCTV5+,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cctv5SportHD/__op/default/__f//index.m3u8?blog.ntnas.top
+CCTV16,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cctv16HD/__op/default/__f//index.m3u8?blog.ntnas.top
+
 CCTV16,https://live.v1.mk/aishang/cctv164k
 CCTV5,https://live.v1.mk/aishang/cctv5hd
 CCTV5+,https://live.v1.mk/aishang/cctv5p
@@ -1126,6 +1198,7 @@ NewTV精品体育,http://39.135.138.60:18890/PLTV/88888910/224/3221225709/index.
 NewTV精品体育,http://117.169.121.162:6610/PLTV/88888910/224/3221225709/index.m3u8
 NewTV精品体育,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225709/index.m3u8
 SiTV劲爆体育,https://live.v1.mk/api/bestv.php?id=jbtyhd8m/8000000
+SiTV魅力足球,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/mlzqHD/__op/default/__f//index.m3u8?blog.ntnas.top
 SiTV魅力足球,https://live.v1.mk/api/bestv.php?id=mlyyhd8m/8000000
 SiTV魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
 SiTV魅力足球,http://bytedance.live.cqccn.com/__cl/cg:live/__c/mlzqHD/__op/default/__f//index.m3u8
@@ -1138,10 +1211,11 @@ NewTV武博世界,http://39.134.115.163:8080/PLTV/88888910/224/3221225656/index.
 NewTV武博世界,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225656/index.m3u8
 五星体育,https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
 五星体育greatsport,http://tvmvip110.club/bs1.php?id=40
-游戏风云,http://111.20.40.170/PLTV/88888893/224/3221226579/index.m3u8
-游戏风云,http://111.20.40.170/PLTV/88888893/224/3221226803/index.m3u8
-游戏风云,http://183.207.255.188/live/program/live/yxfyhd/4000000/mnf.m3u8
-游戏风云,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226579/index.m3u8
+SiTV游戏风云,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/yxfyHD/__op/default/__f//index.m3u8?blog.ntnas.top
+SiTV游戏风云,http://111.20.40.170/PLTV/88888893/224/3221226579/index.m3u8
+SiTV游戏风云,http://111.20.40.170/PLTV/88888893/224/3221226803/index.m3u8
+SiTV游戏风云,http://183.207.255.188/live/program/live/yxfyhd/4000000/mnf.m3u8
+SiTV游戏风云,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226579/index.m3u8
 besTV电竞天堂,https://live.v1.mk/api/bestv.php?id=djtt8m/8000000
 哒啵电竞,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226265/index.m3u8
 哒啵赛事,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225653/index.m3u8
@@ -1155,6 +1229,7 @@ besTV电竞天堂,https://live.v1.mk/api/bestv.php?id=djtt8m/8000000
 
 CCTV14,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240253_1/playlist.m3u8?CONTENTID=00000110240253_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV14,https://live.v1.mk/aishang/cctv14hd
+CCTV14,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cctvseHD/__op/default/__f//index.m3u8?blog.ntnas.top
 CCTV14,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctvseHD/__op/default/__f/index.m3u8
 CCTV14,http://iptv.cooltv.top/tv/aishang.php?id=cctv14hd
 CCTV14,https://live.v1.mk/api/bestv.php?id=cctvsehd8m/8000000
@@ -1185,9 +1260,11 @@ CCTV14,http://125.210.152.19:9120/live/hzgq-cctvsegq-h264.m3u8
 卡酷动画,http://117.169.124.149:8080/live/kakukaton/index.m3u8
 卡酷动画,http://221.2.36.34:8888/newlive/live/hls/54/live.m3u8
 卡酷动画,http://39.135.138.60:18890/PLTV/88888888/224/3221225677/index.m3u8
+动漫秀场,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/dmxcHD/__op/default/__f//index.m3u8?blog.ntnas.top
 动漫秀场,https://live.v1.mk/api/bestv.php?id=dmxc8m/8000000
 动漫秀场,http://183.207.255.188/live/program/live/dmxchd/4000000/mnf.m3u8
 重庆少儿,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cqseHD/__op/default/__f/index.m3u8
+重庆少儿,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cqseHD/__op/default/__f//index.m3u8?blog.ntnas.top
 南京少儿,http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
 南京少儿,http://live.nbs.cn/channels/njtv/sepd/500k.m3u8
 南京少儿,http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
@@ -1223,6 +1300,7 @@ besTV宝宝动画,https://live.v1.mk/api/bestv.php?id=bbdh8m/8000000
 亲子启蒙,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_213_600_t10/c57_lb_213_600_t10.m3u8?key=0f2a06793124310bc21adebc9f02a9735
 
 🏠｜湖南频道,#genre#
+湖南卫视,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/hunanHD/__op/default/__f//index.m3u8?blog.ntnas.top
 湖南卫视,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/hunanHD/__op/default/__f/index.m3u8
 湖南卫视,http://iptv.cooltv.top/tv/aishang.php?id=hunwshd
 湖南卫视,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240130_1/playlist.m3u8?CONTENTID=00000110240130_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
@@ -1291,13 +1369,19 @@ besTV宝宝动画,https://live.v1.mk/api/bestv.php?id=bbdh8m/8000000
 CCTV8,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240249_1/playlist.m3u8?CONTENTID=00000110240249_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV8,https://live.v1.mk/aishang/cctv8hd
 CCTV8,https://live.v1.mk/api/bestv.php?id=cctv8hd8m/8000000
+CCTV8,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cctv8HD/__op/default/__f//index.m3u8?blog.ntnas.top
 CCTV8,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv8HD/__op/default/__f/index.m3u8
 CCTV8,http://iptv.cooltv.top/tv/aishang.php?id=cctv8hd
 CCTV8,http://117.169.124.149:8080/live/HD-8000k-1080P-cctv8/index.m3u8
 CCTV8,http://tvmvip110.club/as.php?id=cctv8hd
 CCTV8,http://125.210.152.19:9120/live/hzgq-cctv8gq-h264.m3u8
 CCTV8,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
-
+CCTV风云剧场,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/shandongHD/__op/default/__f//index.m3u8blog.ntnas.top
+CCTV风云剧场,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/fyjcHD/__op/default/__f//index.m3u8?blog.ntnas.top
+CCTV风云足球,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/fyzqHD/__op/default/__f//index.m3u8?blog.ntnas.top
+CCTV怀旧剧场,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/hjjcHD/__op/default/__f//index.m3u8?blog.ntnas.top
+CCTV第一剧场,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/diyijuchangHD/__op/default/__f//index.m3u8?blog.ntnas.top
+CCTV兵器科技,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/bqkjHD/__op/default/__f//index.m3u8?blog.ntnas.top
 CCTV风云剧场,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/shandongHD/__op/default/__f/index.m3u8
 CCTV风云剧场,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/fyjcHD/__op/default/__f/index.m3u8
 CCTV怀旧剧场,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/hjjcHD/__op/default/__f/index.m3u8
@@ -1311,12 +1395,14 @@ CCTV女性时尚,http://111.20.40.170/PLTV/88888893/224/3221226969/index.m3u8
 CCTV怀旧剧场,http://111.20.40.170/PLTV/88888893/224/3221226972/index.m3u8
 CCTV兵器科技http://111.20.40.170/PLTV/88888893/224/3221226975/index.m3u8
 
+SiTV都市剧场,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/dsjcHD/__op/default/__f//index.m3u8?blog.ntnas.top
 SiTV都市剧场,https://live.v1.mk/api/bestv.php?id=dsjc8m/8000000
 SiTV都市剧场,http://111.20.40.170/PLTV/88888893/224/3221226581/index.m3u8
 SiTV都市剧场,http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8
 SiTV都市剧场,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226581/index.m3u8
 华数TV,http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
 华数连续剧4K,http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
+欢笑剧场4K，http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f//index.m3u8?blog.ntnas.top
 欢笑剧场4k,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
 欢笑剧场4k,http://111.20.40.170/PLTV/88888893/224/3221226582/index.m3u8
 欢笑剧场4k,https://live.v1.mk/api/bestv.php?id=hxjc4k/15000000
@@ -1400,6 +1486,7 @@ besTV,https://bp-caster.bestv.com.cn/941/3/video.m3u8
 
 CCTV6,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240247_1/playlist.m3u8?CONTENTID=00000110240247_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV6,https://live.v1.mk/aishang/cctv6hd
+CCTV6,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cctv6HD/__op/default/__f//index.m3u8?blog.ntnas.top
 CCTV6,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv6HD/__op/default/__f/index.m3u8
 CCTV6,http://117.169.124.149:8080/live/HD-8000k-1080P-cctv6/index.m3u8
 CCTV6,http://iptv.cooltv.top/tv/aishang.php?id=cctv6hd
@@ -1420,6 +1507,7 @@ CCTV6,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011
 
 峨眉电影,http://112.19.214.90:8883/tsfile/live/1004_1.m3u8
 
+CHC家庭影院,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/default/__f//index.m3u8?blog.ntnas.top
 CHC家庭影院,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/chcjtyyHD/__op/default/__f/index.m3u8
 CHC家庭影院,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240323_1/encoder/0/playlist.m3u8?CONTENTID=00000110240323_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CHC家庭影院,https://live.v1.mk/aishang/chcjtyy
@@ -1429,6 +1517,7 @@ CHC家庭影院,http://39.134.18.82/dbiptv.sn.chinamobile.com/TVOD/88888890/224/
 CHC家庭影院,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CHC家庭影院,http://111.20.41.242/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8?from=everydaytv4.2
 CHC家庭影院,http://222.132.191.125:9901/tsfile/live/1008_1.m3u8
+CHC高清电影,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/chcgqdyHD/__op/default/__f//index.m3u8?blog.ntnas.top
 CHC高清电影,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/chcgqdyHD/__op/default/__f/index.m3u8
 CHC高清电影,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CHC高清电影,https://live.v1.mk/aishang/chcgqdy
@@ -1436,6 +1525,7 @@ CHC高清电影,http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8
 CHC高清电影,http://39.134.18.82/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226463/index.m3u8
 CHC高清电影,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 CHC高清电影,http://222.132.191.125:9901/tsfile/live/1010_1.m3u8
+CHC动作电影,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/chcdzdyHD/__op/default/__f//index.m3u8?blog.ntnas.top
 CHC动作电影,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/chcdzdyHD/__op/default/__f/index.m3u8
 CHC动作电影,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CHC动作电影,https://live.v1.mk/aishang/chcdzdy
@@ -1454,6 +1544,7 @@ NewTV超级电影,http://117.169.121.162:6610/PLTV/88888910/224/3221225623/index
 西部电影,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226364/index.m3u8
 陕西影视,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226360/index.m3u8
 重庆影视,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cqyingshiHD/__op/default/__f/index.m3u8
+重庆影视,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cqyingshiHD/__op/default/__f//index.m3u8?blog.ntnas.top
 西安影视,http://stream2.xiancity.cn/xatv4/sd/live.m3u8
 黑龙江影视,https://idclive.hljtv.com:4430/live/hljys_hd.m3u8?zheild
 河北影视剧,https://event.pull.hebtv.com/jishi/yingshijupindao.m3u8
