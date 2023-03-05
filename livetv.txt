@@ -1500,10 +1500,6 @@ NewTV超级电影,http://117.169.121.162:6610/PLTV/88888910/224/3221225623/index
 虎牙音乐石榴,https://al.flv.huya.com/src/1199512344405-1199512344405-5224693802798678016-2399024812266-10057-A-0-1.flv?wsSecret=3b57bcc5a728bd0b667382ed6a629ec6&wsTime=6404bd0c&u=0&seqid=16779457397299526&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&fs=bgct&t=103
 虎牙音乐石榴,https://hw.hls.huya.com/src/1199512344405-1199512344405-5224693802798678016-2399024812266-10057-A-0-1.flv?wsSecret=3b57bcc5a728bd0b667382ed6a629ec6&wsTime=6404bd0c&u=0&seqid=16779457397299526&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&fs=bgct&t=103
 虎牙音乐石榴,http://epg.112114.xyz/huya/17091681
-虎牙音悦台,https://al.flv.huya.com/src/71862053-2624801668-11273437322546249728-3590850040-10057-A-0-1.flv?wsSecret=00f5eee603ada9f4c17a014a4a951e6a&wsTime=64058698&u=0&seqid=16779973399884584&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&fs=bgct&t=103
-虎牙音悦台,https://hw.flv.huya.com/src/71862053-2624801668-11273437322546249728-3590850040-10057-A-0-1.flv?wsSecret=00f5eee603ada9f4c17a014a4a951e6a&wsTime=64058698&u=0&seqid=16779973399884584&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&fs=bgct&t=103
-虎牙音悦台,https://hw.hls.huya.com/src/71862053-2624801668-11273437322546249728-3590850040-10057-A-0-1.flv?wsSecret=00f5eee603ada9f4c17a014a4a951e6a&wsTime=64058698&u=0&seqid=16779973399884584&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&fs=bgct&t=103
-虎牙音悦台,http://epg.112114.xyz/douyu/880201
 斗鱼李子柒,http://tvmvip110.club/douyu.php?id=2901080
 斗鱼李子柒,http://hw-tct.douyucdn.cn/live/2901080rqCm1mY3y.flv
 斗鱼李子柒,http://hdltc1.douyucdn.cn/live/2901080rqCm1mY3y.flv
@@ -1685,6 +1681,14 @@ besTV全球大片,https://live.v1.mk/api/bestv.php?id=qqdp8m/8000000
 虎牙kRYST4L,https://hw.flv.huya.com/src/1575250000-1575250000-6765647233024000000-3150623456-10057-A-0-1-imgplus.flv?wsSecret=08220962d4b8bc8a16aff8bc0af85171&wsTime=64059a27&u=0&seqid=16780023486792818&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&fs=bgct&t=103
 虎牙kRYST4L,http://epg.112114.xyz/huya/222523
 虎牙godv,http://epg.112114.xyz/huya/7911
+虎牙音悦台,https://al.flv.huya.com/src/71862053-2624801668-11273437322546249728-3590850040-10057-A-0-1.flv?wsSecret=00f5eee603ada9f4c17a014a4a951e6a&wsTime=64058698&u=0&seqid=16779973399884584&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&fs=bgct&t=103
+虎牙音悦台,https://hw.flv.huya.com/src/71862053-2624801668-11273437322546249728-3590850040-10057-A-0-1.flv?wsSecret=00f5eee603ada9f4c17a014a4a951e6a&wsTime=64058698&u=0&seqid=16779973399884584&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&fs=bgct&t=103
+虎牙音悦台,https://hw.hls.huya.com/src/71862053-2624801668-11273437322546249728-3590850040-10057-A-0-1.flv?wsSecret=00f5eee603ada9f4c17a014a4a951e6a&wsTime=64058698&u=0&seqid=16779973399884584&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&fs=bgct&t=103
+虎牙音悦台,http://epg.112114.xyz/douyu/880201
+虎牙快乐老家,https://hw.flv.huya.com/src/71862053-2645534014-11362482070585606144-3684952466-10057-A-0-1-imgplus.flv?wsSecret=2cad7ef604e27f7faaa5bbf298992aab&wsTime=6405c406&u=0&seqid=16780130835315442&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&fs=bgct&t=103
+虎牙快乐老家,https://hw.hls.huya.com/src/71862053-2645534014-11362482070585606144-3684952466-10057-A-0-1-imgplus.flv?wsSecret=2cad7ef604e27f7faaa5bbf298992aab&wsTime=6405c406&u=0&seqid=16780130835315442&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&fs=bgct&t=103
+虎牙快乐老家,https://al.flv.huya.com/src/71862053-2645534014-11362482070585606144-3684952466-10057-A-0-1-imgplus.flv?wsSecret=2cad7ef604e27f7faaa5bbf298992aab&wsTime=6405c406&u=0&seqid=16780130835315442&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&fs=bgct&t=103
+虎牙快乐老家,http://epg.112114.xyz/huya/880351
 bili_UZI,http://tvmvip110.club/bili.php?id=555
 bili_UZI,https://xy118x182x253x229xy.mcdn.bilivideo.cn:486/live-bvc/770311/live_42619059_35703933_bluray/index.m3u8
 bili_UZI,https://cn-hbyc-ct-02-29.bilivideo.com/live-bvc/881615/live_42619059_35703933_bluray/index.m3u8
