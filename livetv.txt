@@ -1218,13 +1218,9 @@ CCTV14,http://125.210.152.19:9120/live/hzgq-cctvsegq-h264.m3u8
 嘉佳卡通,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226193/index.m3u8
 动画小天地,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c55_lb_139_600_t10/c55_lb_139_600_t10.m3u8?key=0f2a06793124310bc475d77d809f3ab51
 新动漫,https://live.v1.mk/aishang/xdm
-bili_奥特曼,https://cn-hbyc-ct-02-15.bilivideo.com/live-bvc/732390/live_23803304_6445235_1500.flv
 bili_奥特曼,https://cn-zjjh-ct-04-13.bilivideo.com/live-bvc/626897/live_23803304_6445235/index.m3u8
-
 bili_奥特曼,http://epg.112114.xyz/bili/7076493
-bili_昭和奥特曼,https://cn-hbyc-ct-02-11.bilivideo.com/live-bvc/640588/live_344799766_35541378_1500.flv
 bili_昭和奥特曼,https://cn-jsyz-ct-03-37.bilivideo.com/live-bvc/654884/live_344799766_35541378/index.m3u8
-
 bili_昭和奥特曼,http://epg.112114.xyz/bili/26814789
 iqiyi_奥特曼,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_210_600_t10/c57_lb_210_600_t10.m3u8?key=0b292c335e5837e94abe4b846218bbc95
 喜羊羊与灰太狼,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c55_lb_91_1080P_t10/c55_lb_91_1080P_t10.m3u8?key=0b292c335e5837e943e554ef181bdcec1
@@ -1425,7 +1421,7 @@ besTV热门剧场,https://live.v1.mk/api/bestv.php?id=rmjc8m/8000000
 besTV,https://bp-caster.bestv.com.cn/941/3/video.m3u8
 
 
-🎬｜影视频道,#genre#
+🎬｜电影频道,#genre#
 
 CCTV6,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240247_1/playlist.m3u8?CONTENTID=00000110240247_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV6,https://live.v1.mk/aishang/cctv6hd
@@ -1498,7 +1494,7 @@ NewTV超级电影,http://117.169.121.162:6610/PLTV/88888910/224/3221225623/index
 
 
 
-🎥｜直播&影轮,#genre#
+🎥｜影&视轮播,#genre#
 
 虎牙音乐石榴,https://hw.flv.huya.com/src/1199512344405-1199512344405-5224693802798678016-2399024812266-10057-A-0-1.flv?wsSecret=3b57bcc5a728bd0b667382ed6a629ec6&wsTime=6404bd0c&u=0&seqid=16779457397299526&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&fs=bgct&t=103
 虎牙音乐石榴,http://epg.112114.xyz/huya/17091681
@@ -1625,6 +1621,9 @@ besTV全球大片,https://live.v1.mk/api/bestv.php?id=qqdp8m/8000000
 斗鱼绵羊料理,http://hw-tct.douyucdn.cn/live/2090684rVhkI1C7M.flv
 斗鱼绵羊料理,http://hdltc1.douyucdn.cn/live/2090684rVhkI1C7M.flv
 斗鱼绵羊料理,http://epg.112114.xyz/douyu/2090684
+
+🚀｜游戏直播,#genre#
+
 斗鱼LOL直播1,http://tvmvip110.club/douyu.php?id=288016
 斗鱼LOL直播1,http://hw-tct.douyucdn.cn/live/288016rlols5.flv
 斗鱼LOL直播1,http://hdltc1.douyucdn.cn/live/288016rlols5.flv
@@ -1749,196 +1748,6 @@ IHOT爱探索,http://39.135.126.231:6610/000000001001/6000000006000300630/1.m3u8
 爱影院,http://39.184.224.99:9080/newlive/live/hls/57/live.m3u8
 爱科幻,http://39.184.224.99:9080/newlive/live/hls/56/live.m3u8
 爱喜剧,http://39.184.224.99:9080/newlive/live/hls/55/live.m3u8
-
-
-🏜｜️怀旧港剧,#genre#
-埋堆堆1,http://43.128.40.42:198/虎牙直播/huya.php?id=23749096
-
-埋堆堆2,http://43.128.40.42:198/虎牙直播/huya.php?id=23735126
-
-埋堆堆3,http://43.128.40.42:198/虎牙直播/huya.php?id=23865152
-
-埋堆堆4,http://43.128.40.42:198/虎牙直播/huya.php?id=23903196
-
-埋堆堆5,http://43.128.40.42:198/虎牙直播/huya.php?id=23740156
-
-埋堆堆6,http://43.128.40.42:198/虎牙直播/huya.php?id=23728660
-
-埋堆堆7,http://43.128.40.42:198/虎牙直播/huya.php?id=23735153
-
-埋堆堆8,http://43.128.40.42:198/虎牙直播/huya.php?id=23865058
-
-埋堆堆9,http://43.128.40.42:198/虎牙直播/huya.php?id=23734183
-
-埋堆堆10,http://43.128.40.42:198/虎牙直播/huya.php?id=23749068
-
-埋堆堆11,http://43.128.40.42:198/虎牙直播/huya.php?id=23865036
-
-埋堆堆12,http://43.128.40.42:198/虎牙直播/huya.php?id=23740162
-
-埋堆堆13,http://43.128.40.42:198/虎牙直播/huya.php?id=23829474
-
-埋堆堆14,http://43.128.40.42:198/虎牙直播/huya.php?id=23863833
-
-埋堆堆15,http://43.128.40.42:198/虎牙直播/huya.php?id=23903106
-
-埋堆堆16,http://43.128.40.42:198/虎牙直播/huya.php?id=23865025
-
-埋堆堆17,http://43.128.40.42:198/虎牙直播/huya.php?id=23728689
-
-埋堆堆18,http://43.128.40.42:198/虎牙直播/huya.php?id=23824171
-
-埋堆堆19,http://43.128.40.42:198/虎牙直播/huya.php?id=23860057
-
-埋堆堆20,http://43.128.40.42:198/虎牙直播/huya.php?id=23865072
-
-埋堆堆21,http://43.128.40.42:198/虎牙直播/huya.php?id=23734176
-
-埋堆堆22,http://43.128.40.42:198/虎牙直播/huya.php?id=23728651
-
-埋堆堆23,http://43.128.40.42:198/虎牙直播/huya.php?id=23734246
-
-埋堆堆24,http://43.128.40.42:198/虎牙直播/huya.php?id=23865179
-
-埋堆堆25,http://43.128.40.42:198/虎牙直播/huya.php?id=23734196
-
-埋堆堆26,http://43.128.40.42:198/虎牙直播/huya.php?id=23734211
-
-埋堆堆27,http://43.128.40.42:198/虎牙直播/huya.php?id=23865086
-
-埋堆堆28,http://43.128.40.42:198/虎牙直播/huya.php?id=23863796
-
-埋堆堆29,http://43.128.40.42:198/虎牙直播/huya.php?id=23863822
-
-埋堆堆30,http://43.128.40.42:198/虎牙直播/huya.php?id=23749083
-
-埋堆堆31,http://43.128.40.42:198/虎牙直播/huya.php?id=23734243
-
-埋堆堆32,http://43.128.40.42:198/虎牙直播/huya.php?id=23864480
-
-埋堆堆33,http://43.128.40.42:198/虎牙直播/huya.php?id=23746486
-
-埋堆堆34,http://43.128.40.42:198/虎牙直播/huya.php?id=23860049
-
-埋堆堆35,http://43.128.40.42:198/虎牙直播/huya.php?id=23749074
-
-埋堆堆36,http://43.128.40.42:198/虎牙直播/huya.php?id=23863882
-
-埋堆堆37,http://43.128.40.42:198/虎牙直播/huya.php?id=23863778
-
-埋堆堆38,http://43.128.40.42:198/虎牙直播/huya.php?id=23824164
-
-埋堆堆39,http://43.128.40.42:198/虎牙直播/huya.php?id=23829537
-
-埋堆堆40,http://43.128.40.42:198/虎牙直播/huya.php?id=23863809
-
-埋堆堆41,http://43.128.40.42:198/虎牙直播/huya.php?id=23865096
-
-埋堆堆42,http://43.128.40.42:198/虎牙直播/huya.php?id=23863804
-
-埋堆堆43,http://43.128.40.42:198/虎牙直播/huya.php?id=23728630
-
-埋堆堆44,http://43.128.40.42:198/虎牙直播/huya.php?id=23863895
-
-埋堆堆45,http://43.128.40.42:198/虎牙直播/huya.php?id=23863787
-
-埋堆堆46,http://43.128.40.42:198/虎牙直播/huya.php?id=23728637
-
-埋堆堆47,http://43.128.40.42:198/虎牙直播/huya.php?id=23865142
-
-埋堆堆48,http://43.128.40.42:198/虎牙直播/huya.php?id=23903085
-
-埋堆堆49,http://43.128.40.42:198/虎牙直播/huya.php?id=23903183
-
-埋堆堆50,http://43.128.40.42:198/虎牙直播/huya.php?id=23728647
-
-埋堆堆51,http://43.128.40.42:198/虎牙直播/huya.php?id=23746691
-
-埋堆堆52,http://43.128.40.42:198/虎牙直播/huya.php?id=23829447
-
-埋堆堆53,http://43.128.40.42:198/虎牙直播/huya.php?id=23728693
-
-埋堆堆54,http://43.128.40.42:198/虎牙直播/huya.php?id=23903130
-
-埋堆堆55,http://43.128.40.42:198/虎牙直播/huya.php?id=23734223
-
-埋堆堆56,http://43.128.40.42:198/虎牙直播/huya.php?id=23734169
-
-埋堆堆57,http://43.128.40.42:198/虎牙直播/huya.php?id=23865124
-
-埋堆堆58,http://43.128.40.42:198/虎牙直播/huya.php?id=23865186
-
-埋堆堆59,http://43.128.40.42:198/虎牙直播/huya.php?id=23902225
-
-埋堆堆60,http://43.128.40.42:198/虎牙直播/huya.php?id=23903164
-
-埋堆堆61,http://43.128.40.42:198/虎牙直播/huya.php?id=23728674
-
-埋堆堆62,http://43.128.40.42:198/虎牙直播/huya.php?id=23863818
-
-埋堆堆63,http://aldirect.corp-hls.huya.com/src/1199561277675-1199561277675-5434860597135015936-2399122678806-10057-A-0-1.m3u8?wsiphost=ipdbme
-
-埋堆堆64,http://aldirect.corp-hls.huya.com/src/1199563477578-1199563477578-5444309108574388224-2399127078612-10057-A-0-1.m3u8?wsiphost=ipdbme
-
-埋堆堆65,http://aldirect.corp-hls.huya.com/src/1199561226091-1199561226091-5434639045542019072-2399122575638-10057-A-0-1.m3u8?wsiphost=ipdbme
-
-埋堆堆66,http://aldirect.corp-hls.huya.com/src/1199563478941-1199563478941-5444314962614812672-2399127081338-10057-A-0-1.m3u8?wsiphost=ipdbme
-
-埋堆堆67,http://aldirect.corp-hls.huya.com/src/1199563479466-1199563479466-5444317217472643072-2399127082388-10057-A-0-1.m3u8?wsiphost=ipdbme
-
-埋堆堆68,http://aldirect.corp-hls.huya.com/src/1199561179151-1199561179151-5434437439777144832-2399122481758-10057-A-0-1.m3u8?wsiphost=ipdbme
-
-埋堆堆69,http://aldirect.corp-hls.huya.com/src/1199561223711-1199561223711-5434628823519854592-2399122570878-10057-A-0-1.m3u8?wsiphost=ipdbme
-
-埋堆堆7,http://aldirect.corp-hls.huya.com/src/1199564003640-1199564003640-5446568527660056576-2399128130736-10057-A-0-1.m3u8?wsiphost=ipdbme
-
-埋堆堆71,http://aldirect.corp-hls.huya.com/src/1199564062365-1199564062365-5446820749614514176-2399128248186-10057-A-0-1.m3u8?wsiphost=ipdbme
-
-埋堆堆72,http://aldirect.corp-hls.huya.com/src/1199563493375-1199563493375-5444376956172763136-2399127110206-10057-A-0-1.m3u8?wsiphost=ipdbme
-
-埋堆堆73,http://aldirect.corp-hls.huya.com/src/1199561181026-1199561181026-5434445492840824832-2399122485508-10057-A-0-1.m3u8?wsiphost=ipdbme
-
-埋堆堆74,http://aldirect.corp-hls.huya.com/src/1199561158071-1199561158071-5434346901866545152-2399122439598-10057-A-0-1.m3u8?wsiphost=ipdbme
-
-埋堆堆75,http://aldirect.corp-hls.huya.com/src/1199561182641-1199561182641-5434452429213007872-2399122488738-10057-A-0-1.m3u8?wsiphost=ipdbme
-
-埋堆堆76,http://aldirect.corp-hls.huya.com/src/1199561177177-1199561177177-5434428961511702528-2399122477810-10057-A-0-1.m3u8?wsiphost=ipdbme
-
-埋堆堆77,http://aldirect.corp-hls.huya.com/src/1199561462555-1199561462555-5435654650688700416-2399123048566-10057-A-0-1.m3u8?wsiphost=ipdbme
-
-埋堆堆78,http://aldirect.corp-hls.huya.com/src/1199563479615-1199563479615-5444317857422770176-2399127082686-10057-A-0-1.m3u8?wsiphost=ipdbme
-
-埋堆堆79,http://aldirect.corp-hls.huya.com/src/1199561277686-1199561277686-5434860644379656192-2399122678828-10057-A-0-1.m3u8?wsiphost=ipdbme
-
-埋堆堆80,http://aldirect.corp-hls.huya.com/src/1199561391895-1199561391895-5435351168299565056-2399122907246-10057-A-0-1.m3u8?wsiphost=ipdbme
-
-埋堆堆81,http://aldirect.corp-hls.huya.com/src/1199563491137-1199563491137-5444367344035954688-2399127105730-10057-A-0-1.m3u8?wsiphost=ipdbme
-
-埋堆堆82,http://aldirect.corp-hls.huya.com/src/1199561240999-1199561240999-5434703074914467840-2399122605454-10057-A-0-1.m3u8?wsiphost=ipdbme
-
-埋堆堆83,http://aldirect.corp-hls.huya.com/src/1199561276760-1199561276760-5434856667239940096-2399122676976-10057-A-0-1.m3u8?wsiphost=ipdbme
-
-埋堆堆84,http://aldirect.corp-hls.huya.com/src/1199561241049-1199561241049-5434703289662832640-2399122605554-10057-A-0-1.m3u8?wsiphost=ipdbme
-
-埋堆堆85,http://aldirect.corp-hls.huya.com/src/1199561244004-1199561244004-5434715981291192320-2399122611464-10057-A-0-1.m3u8?wsiphost=ipdbme
-
-埋堆堆86,http://aldirect.corp-hls.huya.com/src/1199563481280-1199563481280-5444325008543318016-2399127086016-10057-A-0-1.m3u8?wsiphost=ipdbme
-
-埋堆堆87,http://aldirect.corp-hls.huya.com/src/1199561463578-1199561463578-5435659044440244224-2399123050612-10057-A-0-1.m3u8?wsiphost=ipdbme
-
-埋堆堆88,http://aldirect.corp-hls.huya.com/src/1199563478867-1199563478867-5444314644787232768-2399127081190-10057-A-0-1.m3u8?wsiphost=ipdbme
-
-埋堆堆89,http://aldirect.corp-hls.huya.com/src/1199563486009-1199563486009-5444345319443660800-2399127095474-10057-A-0-1.m3u8?wsiphost=ipdbme
-
-埋堆堆90,http://aldirect.corp-hls.huya.com/src/1199561276763-1199561276763-5434856680124841984-2399122676982-10057-A-0-1.m3u8?wsiphost=ipdbme
-
-埋堆堆91,http://aldirect.corp-hls.huya.com/src/1199561153167-1199561153167-5434325839346925568-2399122429790-10057-A-0-1.m3u8?wsiphost=ipdbme
-
-埋堆堆92,http://aldirect.corp-hls.huya.com/src/1199563488528-1199563488528-5444356138466279424-2399127100512-10057-A-0-1.m3u8?wsiphost=ipdbme
-
-埋堆堆93,http://aldirect.corp-hls.huya.com/src/1199561176260-1199561176260-5434425023026692096-2399122475976-10057-A-0-1.m3u8?wsiphost=ipdbme
-
-埋堆堆94,http://aldirect.corp-hls.huya.com/src/1199563564801-1199563564801-5444683728506847232-2399127253058-10057-A-0-1.m3u8?wsiphost=ipdbme
 
 
 🇨🇳｜港澳台,#genre#
