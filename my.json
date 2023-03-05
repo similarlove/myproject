@@ -5,7 +5,6 @@
 	   "url": "https://ghproxy.com/https://raw.githubusercontent.com/similarlove/myproject/main/livetv.txt",
 	   "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 	   "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }]
 }],
   "wallpaper": "http://maoyingshi.cc/api.php",
   "spider": "https://ghproxy.com/https://raw.githubusercontent.com/similarlove/myproject/main/live.jar",
