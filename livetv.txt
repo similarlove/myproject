@@ -1634,20 +1634,6 @@ besTV全球大片,https://live.v1.mk/api/bestv.php?id=qqdp8m/8000000
 斗鱼成果,http://hw-tct.douyucdn.cn/live/8090190rhQRQPaes.flv
 斗鱼成果,http://hdltc1.douyucdn.cn/live/8090190rhQRQPaes.flv
 斗鱼成果,http://epg.112114.xyz/douyu/8090190
-bili_UZI,http://tvmvip110.club/bili.php?id=555
-bili_UZI,http://epg.112114.xyz/bili/555
-bili_UZI,https://cn-hbyc-ct-02-29.bilivideo.com/live-bvc/881615/live_42619059_35703933_bluray/index.m3u8
-bili_UZI,https://cn-hbyc-ct-02-29.bilivideo.com/live-bvc/162846/live_42619059_35703933_bluray/index.m3u8
-bili_笑笑,http://tvmvip110.club/bili.php?id=7777
-bili_笑笑,http://epg.112114.xyz/bili/7777
-bili_笑笑,https://cn-hbyc-ct-02-14.bilivideo.com/live-bvc/120295/live_8739477_3713195_bluray/index.m3u8
-bili_笑笑,https://cn-hbyc-ct-02-29.bilivideo.com/live-bvc/304657/live_8739477_3713195_bluray/index.m3u8
-bili_mage,http://tvmvip110.club/bili.php?id=22508985
-bili_mage,http://epg.112114.xyz/bili/22508985
-bili_赵俊日,http://tvmvip110.club/bili.php?id=22174141
-bili_赵俊日,http://epg.112114.xyz/bili/22174141
-bili_Langx,http://tvmvip110.club/bili.php?id=24022841
-bili_Langx,http://epg.112114.xyz/bili/24022841
 斗鱼pdd,http://tvmvip110.club/douyu.php?id=101
 斗鱼pdd,https://hw-tct.douyucdn.cn/live/101rFib6ZMgDFwxd.flv
 斗鱼pdd,https://hdltc1.douyucdn.cn/live/101rFib6ZMgDFwxd.flv
@@ -1682,6 +1668,20 @@ bili_Langx,http://epg.112114.xyz/bili/24022841
 虎牙霸哥,http://epg.112114.xyz/huya/189201
 虎牙kRYST4L,http://epg.112114.xyz/huya/222523
 虎牙godv,http://epg.112114.xyz/huya/7911
+bili_UZI,http://tvmvip110.club/bili.php?id=555
+bili_UZI,http://epg.112114.xyz/bili/555
+bili_UZI,https://cn-hbyc-ct-02-29.bilivideo.com/live-bvc/881615/live_42619059_35703933_bluray/index.m3u8
+bili_UZI,https://cn-hbyc-ct-02-29.bilivideo.com/live-bvc/162846/live_42619059_35703933_bluray/index.m3u8
+bili_笑笑,http://tvmvip110.club/bili.php?id=7777
+bili_笑笑,http://epg.112114.xyz/bili/7777
+bili_笑笑,https://cn-hbyc-ct-02-14.bilivideo.com/live-bvc/120295/live_8739477_3713195_bluray/index.m3u8
+bili_笑笑,https://cn-hbyc-ct-02-29.bilivideo.com/live-bvc/304657/live_8739477_3713195_bluray/index.m3u8
+bili_mage,http://tvmvip110.club/bili.php?id=22508985
+bili_mage,http://epg.112114.xyz/bili/22508985
+bili_赵俊日,http://tvmvip110.club/bili.php?id=22174141
+bili_赵俊日,http://epg.112114.xyz/bili/22174141
+bili_Langx,http://tvmvip110.club/bili.php?id=24022841
+bili_Langx,http://epg.112114.xyz/bili/24022841
 
 
 💘｜iHOT频道,#genre#
