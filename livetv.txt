@@ -1671,8 +1671,8 @@ bili_Langx,http://epg.112114.xyz/bili/24022841
 斗鱼茄子,http://hdltc1.douyucdn.cn/live/9418rvaQB7pYE4zn.flv
 斗鱼茄子,http://epg.112114.xyz/douyu/9418
 斗鱼xiaoxin,http://tvmvip110.club/douyu.php?id=709710
-斗鱼xiaoxin,http://hw-tct.douyucdn.cn/live/709710rwMgHgxKVE.flv
-斗鱼xiaoxin,http://hdltc1.douyucdn.cn/live/709710rwMgHgxKVE.flv
+斗鱼xiaoxin,http://hw-tct.douyucdn.cn/live/709710rEc7VrFoSp.flv
+斗鱼xiaoxin,http://hdltc1.douyucdn.cn/live/709710rEc7VrFoSp.flv
 斗鱼xiaoxin,http://epg.112114.xyz/douyu/709710
 斗鱼pigff,http://tvmvip110.club/douyu.php?id=24422
 斗鱼pigff,http://epg.112114.xyz/douyu/24422
