@@ -1646,7 +1646,6 @@ bili_Langx,http://epg.112114.xyz/bili/24022841
 斗鱼pdd,http://tvmvip110.club/douyu.php?id=101
 斗鱼pdd,https://hw-tct.douyucdn.cn/live/101rFib6ZMgDFwxd.m3u8
 斗鱼pdd,https://hdltc1.douyucdn.cn/live/101rFib6ZMgDFwxd.m3u8
-斗鱼pdd,http://hw-tct.douyucdn.cn/live/101rFib6ZMgDFwxd.m3u8?原画
 斗鱼pdd,http://epg.112114.xyz/douyu/101
 斗鱼大司马,http://tvmvip110.club/douyu.php?id=606118
 斗鱼大司马,http://hw-tct.douyucdn.cn/live/606118r6n9kQ9krJ.m3u8
