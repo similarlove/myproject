@@ -1498,8 +1498,12 @@ NewTV超级电影,http://117.169.121.162:6610/PLTV/88888910/224/3221225623/index
 
 虎牙音乐石榴,https://hw.flv.huya.com/src/1199512344405-1199512344405-5224693802798678016-2399024812266-10057-A-0-1.flv?wsSecret=3b57bcc5a728bd0b667382ed6a629ec6&wsTime=6404bd0c&u=0&seqid=16779457397299526&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&fs=bgct&t=103
 虎牙音乐石榴,https://al.flv.huya.com/src/1199512344405-1199512344405-5224693802798678016-2399024812266-10057-A-0-1.flv?wsSecret=3b57bcc5a728bd0b667382ed6a629ec6&wsTime=6404bd0c&u=0&seqid=16779457397299526&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&fs=bgct&t=103
-虎牙音乐石榴,https://hw.hls.huya.com//src/1199512344405-1199512344405-5224693802798678016-2399024812266-10057-A-0-1.flv?wsSecret=3b57bcc5a728bd0b667382ed6a629ec6&wsTime=6404bd0c&u=0&seqid=16779457397299526&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&fs=bgct&t=103
+虎牙音乐石榴,https://hw.hls.huya.com/src/1199512344405-1199512344405-5224693802798678016-2399024812266-10057-A-0-1.flv?wsSecret=3b57bcc5a728bd0b667382ed6a629ec6&wsTime=6404bd0c&u=0&seqid=16779457397299526&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&fs=bgct&t=103
 虎牙音乐石榴,http://epg.112114.xyz/huya/17091681
+虎牙音悦台,https://al.flv.huya.com/src/71862053-2624801668-11273437322546249728-3590850040-10057-A-0-1.flv?wsSecret=00f5eee603ada9f4c17a014a4a951e6a&wsTime=64058698&u=0&seqid=16779973399884584&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&fs=bgct&t=103
+虎牙音悦台,https://hw.flv.huya.com/src/71862053-2624801668-11273437322546249728-3590850040-10057-A-0-1.flv?wsSecret=00f5eee603ada9f4c17a014a4a951e6a&wsTime=64058698&u=0&seqid=16779973399884584&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&fs=bgct&t=103
+虎牙音悦台,https://hw.hls.huya.com/src/71862053-2624801668-11273437322546249728-3590850040-10057-A-0-1.flv?wsSecret=00f5eee603ada9f4c17a014a4a951e6a&wsTime=64058698&u=0&seqid=16779973399884584&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&fs=bgct&t=103
+虎牙音悦台,http://epg.112114.xyz/douyu/880201
 斗鱼李子柒,http://tvmvip110.club/douyu.php?id=2901080
 斗鱼李子柒,http://hw-tct.douyucdn.cn/live/2901080rqCm1mY3y.flv
 斗鱼李子柒,http://hdltc1.douyucdn.cn/live/2901080rqCm1mY3y.flv
@@ -1660,6 +1664,8 @@ besTV全球大片,https://live.v1.mk/api/bestv.php?id=qqdp8m/8000000
 斗鱼余小C,http://hdltc1.douyucdn.cn/live/1126960rPXROLJ7f.flv
 斗鱼余小C,http://epg.112114.xyz/douyu/1126960
 斗鱼鬼史东,http://tvmvip110.club/douyu.php?id=890074
+斗鱼鬼史东,http://hw-tct.douyucdn.cn/live/890074r1vL1mmyzq.flv
+斗鱼鬼史东,http://hdltc1.douyucdn.cn/live/890074r1vL1mmyzq.flv
 斗鱼鬼史东,http://epg.112114.xyz/douyu/890074
 斗鱼茄子,http://tvmvip110.club/douyu.php?id=9418
 斗鱼茄子,http://hw-tct.douyucdn.cn/live/9418rvaQB7pYE4zn.flv
