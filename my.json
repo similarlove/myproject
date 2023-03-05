@@ -1,9 +1,12 @@
 {
  "lives": [{
-	    "name": "live",
-	    "urls": [
-        "proxy://do=live&type=txt&ext=https://ghproxy.com/https://raw.githubusercontent.com/similarlove/myproject/main/livetv.txt"
+	   "group": "redirect",
+    	   "channels": [{
+           "name": "live",
+           "urls": [
+           "proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9yYXkvdHZsaXZlLnR4dA=="
       ]
+    }]
 }],
   "wallpaper": "http://maoyingshi.cc/api.php",
   "spider": "https://ghproxy.com/https://raw.githubusercontent.com/similarlove/myproject/main/live.jar",
