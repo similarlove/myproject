@@ -15,7 +15,7 @@
     "request": {
       "method": "GET",
       "url": {
-        "raw": "https://imdb-api.com/en/API/MostPopularMovies/k_1kz039kt"
+        "raw": ""
       }
     },
     "response": {
@@ -40,7 +40,7 @@
     "request": {
       "method": "GET",
       "url": {
-        "raw": "https://api.wmdb.tv/api/v1/movie/search?q={name}&limit=1"
+        "raw": ""
       }
     },
     "response": {
@@ -56,7 +56,7 @@
     "request": {
       "method": "GET",
       "url": {
-        "raw": "http://api.pullword.com/get.php?source={source}&param1=0&param2=0&json=1"
+        "raw": ""
       }
     },
     "response": {
