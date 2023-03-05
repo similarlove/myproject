@@ -2,7 +2,7 @@
  "lives": [{
 	    "name": "live",
 	    "urls": [
-        "proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9yYXkvdHZsaXZlLnR4dA=="
+        "proxy://do=live&type=txt&ext=https://ghproxy.com/https://raw.githubusercontent.com/similarlove/myproject/main/livetv"
       ]
 }],
   "wallpaper": "http://maoyingshi.cc/api.php",
