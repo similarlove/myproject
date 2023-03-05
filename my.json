@@ -10,14 +10,14 @@
       ]
     }]
   }],
-  "wallpaper": "",
+  "wallpaper": "http://maoyingshi.cc/api.php",
   "spider": "https://ghproxy.com/https://raw.githubusercontent.com/similarlove/myproject/main/live.jar",
   "recommend": [{
     "name": "imdb",
     "request": {
       "method": "GET",
       "url": {
-        "raw": ""
+        "raw": "https://imdb-api.com/en/API/MostPopularMovies/k_1kz039kt"
       }
     },
     "response": {
@@ -42,7 +42,7 @@
     "request": {
       "method": "GET",
       "url": {
-        "raw": ""
+        "raw": "https://api.wmdb.tv/api/v1/movie/search?q={name}&limit=1"
       }
     },
     "response": {
@@ -58,7 +58,7 @@
     "request": {
       "method": "GET",
       "url": {
-        "raw": ""
+        "raw": "http://api.pullword.com/get.php?source={source}&param1=0&param2=0&json=1"
       }
     },
     "response": {
