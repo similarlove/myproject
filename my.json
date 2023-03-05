@@ -4,6 +4,7 @@
     "channels": [{
       "name": "live",
       "urls": [
+	 "proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9yYXkvdHZsaXZlLnR4dA=="
          "url": "https://ghproxy.com/https://raw.githubusercontent.com/similarlove/myproject/main/livetv.txt",
 	 "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 	 "logo": "https://epg.112114.xyz/logo/{name}.png"
