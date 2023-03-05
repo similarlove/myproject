@@ -1697,17 +1697,14 @@ bili_笑笑,http://epg.112114.xyz/bili/7777
 bili_mage,http://tvmvip110.club/bili.php?id=22508985
 bili_mage,https://xy49x86x255x39xy.mcdn.bilivideo.cn:486/live-bvc/972182/live_472497932_61249918_bluray/index.m3u8
 bili_mage,https://cn-hbyc-ct-02-13.bilivideo.com/live-bvc/972182/live_472497932_61249918_bluray/index.m3u8
-bili_mage,https://d1--cn-gotcha208.bilivideo.com/live-bvc/972182/live_472497932_61249918_bluray/index.m3u8
 bili_mage,http://epg.112114.xyz/bili/22508985
 bili_赵俊日,http://tvmvip110.club/bili.php?id=22174141
 bili_赵俊日,https://xy115x223x28x164xy.mcdn.bilivideo.cn:486/live-bvc/491600/live_66556492_85780045_bluray/index.m3u8
 bili_赵俊日,https://cn-zjjh-ct-04-05.bilivideo.com/live-bvc/491600/live_66556492_85780045_bluray/index.m3u8
-bili_赵俊日,https://d1--cn-gotcha208.bilivideo.com/live-bvc/491600/live_66556492_85780045_bluray/index.m3u8
 bili_赵俊日,http://epg.112114.xyz/bili/22174141
 bili_Langx,http://tvmvip110.club/bili.php?id=24022841
 bili_Langx,https://xy118x182x253x228xy.mcdn.bilivideo.cn:486/live-bvc/854299/live_1467384952_88439206_bluray/index.m3u8
 bili_Langx,https://cn-zjjh-ct-04-13.bilivideo.com/live-bvc/854299/live_1467384952_88439206_bluray/index.m3u8
-bili_Langx,https://c1--cn-gotcha208.bilivideo.com/live-bvc/854299/live_1467384952_88439206_bluray/index.m3u8
 bili_Langx,http://epg.112114.xyz/bili/24022841
 
 
