@@ -1555,14 +1555,6 @@ YY成龙,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354888751
 虎牙甄子丹,https://al.flv.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1-imgplus.flv?wsSecret=ca52e46825f574f1cb89cfec564915a8&wsTime=6405439a&u=0&seqid=16779801841406222&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&fs=bgct&t=103
 虎牙甄子丹,http://aldirect.corp-hls.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1.m3u8?wsiphost=ipdbme
 虎牙甄子丹,http://epg.112114.xyz/huya/11352935
-斗鱼风云,http://tvmvip110.club/douyu.php?id=9290755
-斗鱼风云,http://hw-tct.douyucdn.cn/live/9290755r1ypAW1Za.flv
-斗鱼风云,http://hdltc1.douyucdn.cn/live/9290755r1ypAW1Za.flv
-斗鱼风云,http://epg.112114.xyz/douyu/9290755
-虎牙爱情公寓,https://al.flv.huya.com/src/1388474069-1388474069-5963450717699047424-2777071594-10057-A-0-1.flv?wsSecret=16ad94224405cb7af4d722c4e5facc50&wsTime=6405448b&u=0&seqid=16779804517317522&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&fs=bgct&t=103
-虎牙爱情公寓,http://epg.112114.xyz/huya/11336726
-虎牙陈翔六点半,https://al.flv.huya.com/src/1352054947-1352054947-5807031779760013312-2704233350-10057-A-0-1.flv?wsSecret=0a264ba449c865c1490badcd951acd28&wsTime=64057b4d&u=0&seqid=16779944431954908&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&fs=bgct&t=103
-虎牙陈翔六点半,http://epg.112114.xyz/huya/11274154
 斗鱼电影轮播1,http://tvmvip110.club/douyu.php?id=85894
 斗鱼电影轮播1,http://hw-tct.douyucdn.cn/live/85894rmovieChow.flv
 斗鱼电影轮播1,http://hdltc1.douyucdn.cn/live/85894rmovieChow.flv
@@ -1587,10 +1579,6 @@ YY成龙,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354888751
 虎牙鬼片,http://epg.112114.xyz/huya/11342421
 YY林正英,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351505899
 YY林正英,http://106.53.212.251/daili/yy.php?id=1351505899
-YY欧美科幻,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=37988782
-YY欧美科幻,http://106.53.212.251/daili/yy.php?id=37988782
-YY欧美电影,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=24923327
-YY欧美电影,http://106.53.212.251/daili/yy.php?id=24923327
 YY电影轮播,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353059120
 YY电影轮播,http://106.53.212.251/daili/yy.php?id=1353059120
 豆瓣电影,http://tvmvip110.club/douyu.php?id=8770422
@@ -1626,7 +1614,18 @@ YY电影轮播,http://106.53.212.251/daili/yy.php?id=1353059120
 besTV华语影院,https://live.v1.mk/api/bestv.php?id=hyyy8m/8000000
 besTV星光影院,https://live.v1.mk/api/bestv.php?id=xgyy8m/8000000
 besTV全球大片,https://live.v1.mk/api/bestv.php?id=qqdp8m/8000000
-
+斗鱼风云,http://tvmvip110.club/douyu.php?id=9290755
+斗鱼风云,http://hw-tct.douyucdn.cn/live/9290755r1ypAW1Za.flv
+斗鱼风云,http://hdltc1.douyucdn.cn/live/9290755r1ypAW1Za.flv
+斗鱼风云,http://epg.112114.xyz/douyu/9290755
+虎牙爱情公寓,https://al.flv.huya.com/src/1388474069-1388474069-5963450717699047424-2777071594-10057-A-0-1.flv?wsSecret=16ad94224405cb7af4d722c4e5facc50&wsTime=6405448b&u=0&seqid=16779804517317522&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&fs=bgct&t=103
+虎牙爱情公寓,http://epg.112114.xyz/huya/11336726
+虎牙陈翔六点半,https://al.flv.huya.com/src/1352054947-1352054947-5807031779760013312-2704233350-10057-A-0-1.flv?wsSecret=0a264ba449c865c1490badcd951acd28&wsTime=64057b4d&u=0&seqid=16779944431954908&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&fs=bgct&t=103
+虎牙陈翔六点半,http://epg.112114.xyz/huya/11274154
+YY欧美科幻,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=37988782
+YY欧美科幻,http://106.53.212.251/daili/yy.php?id=37988782
+YY欧美电影,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=24923327
+YY欧美电影,http://106.53.212.251/daili/yy.php?id=24923327
 
 
 🚀｜游戏直播,#genre#
