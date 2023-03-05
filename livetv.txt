@@ -1668,6 +1668,8 @@ besTV全球大片,https://live.v1.mk/api/bestv.php?id=qqdp8m/8000000
 斗鱼茄子,http://hdltc1.douyucdn.cn/live/9418rvaQB7pYE4zn.flv
 斗鱼茄子,http://epg.112114.xyz/douyu/9418
 斗鱼xiaoxin,http://tvmvip110.club/douyu.php?id=709710
+斗鱼xiaoxin,http://hw-tct.douyucdn.cn/live/709710rpkiFdhboj.flv
+斗鱼xiaoxin,http://hdltc1.douyucdn.cn/live/709710rpkiFdhboj.flv
 斗鱼xiaoxin,http://hw-tct.douyucdn.cn/live/709710rEc7VrFoSp.flv
 斗鱼xiaoxin,http://hdltc1.douyucdn.cn/live/709710rEc7VrFoSp.flv
 斗鱼xiaoxin,http://epg.112114.xyz/douyu/709710
