@@ -1638,6 +1638,8 @@ besTV全球大片,https://live.v1.mk/api/bestv.php?id=qqdp8m/8000000
 斗鱼LOL直播1,http://hdltc1.douyucdn.cn/live/288016rlols5.flv
 斗鱼LOL直播1,http://epg.112114.xyz/douyu/288016
 斗鱼LOL直播2,http://tvmvip110.club/douyu.php?id=424559
+斗鱼LOL直播2,http://hw-tct.douyucdn.cn/live/424559rlols5.flv
+斗鱼LOL直播2,http://hdltc1.douyucdn.cn/live/424559rlols5.flv
 斗鱼LOL直播2,http://epg.112114.xyz/douyu/424559
 斗鱼成果,http://tvmvip110.club/douyu.php?id=8090190
 斗鱼成果,http://hw-tct.douyucdn.cn/live/8090190rhQRQPaes.flv
