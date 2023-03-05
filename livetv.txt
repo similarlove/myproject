@@ -1635,7 +1635,7 @@ besTV全球大片,https://live.v1.mk/api/bestv.php?id=qqdp8m/8000000
 
 
 
-🎤｜游戏直播,#genre#
+📢｜游戏直播,#genre#
 
 斗鱼LOL直播1,http://tvmvip110.club/douyu.php?id=288016
 斗鱼LOL直播1,http://hw-tct.douyucdn.cn/live/288016rlols5.flv
