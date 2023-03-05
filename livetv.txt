@@ -1494,7 +1494,7 @@ NewTV超级电影,http://117.169.121.162:6610/PLTV/88888910/224/3221225623/index
 
 🎥｜直播&影轮,#genre#
 
-虎牙音乐石榴,https://hw.flv.huya.com/src/1199512344405-1199512344405-5224693802798678016-2399024812266-10057-A-0-1.flv?wsSecret=3b57bcc5a728bd0b667382ed6a629ec6&wsTime=6404bd0c&u=0&seqid=16779457397299526&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&txyp=o%3Ad3%3B&fs=bgct&t=103
+虎牙音乐石榴,https://hw.flv.huya.com/src/1199512344405-1199512344405-5224693802798678016-2399024812266-10057-A-0-1.flv?wsSecret=3b57bcc5a728bd0b667382ed6a629ec6&wsTime=6404bd0c&u=0&seqid=16779457397299526&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&fs=bgct&t=103
 虎牙音乐石榴,http://epg.112114.xyz/huya/17091681
 斗鱼新三国,http://tvmvip110.club/douyu.php?id=276200
 斗鱼新三国,http://hw-tct.douyucdn.cn/live/276200r8BuXLoShZ.m3u8
@@ -1509,9 +1509,9 @@ NewTV超级电影,http://117.169.121.162:6610/PLTV/88888910/224/3221225623/index
 虎牙83版射雕,http://epg.112114.xyz/huya/23728674
 虎牙97版天龙,https://al.flv.huya.com/src/1199564062365-1199564062365-5446820749614514176-2399128248186-10057-A-0-1.flv?wsSecret=1ef989b3fcf12301fc79139c48680900&wsTime=64054b79&u=0&seqid=16779821991264078&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&fs=bgct&t=103
 虎牙97版天龙,http://epg.112114.xyz/huya/23903123
-虎牙纪晓岚,https://al.flv.huya.com/src/1394565204-1394565204-5989611943319568384-2789253864-10057-A-0-1.flv?wsSecret=d60f7f05525895127c705fc53b8870c5&wsTime=64054325&u=0&seqid=16779800759193994&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&txyp=o%3Ad2%3B&fs=bgct&t=103
+虎牙纪晓岚,https://al.flv.huya.com/src/1394565204-1394565204-5989611943319568384-2789253864-10057-A-0-1.flv?wsSecret=d60f7f05525895127c705fc53b8870c5&wsTime=64054325&u=0&seqid=16779800759193994&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&fs=bgct&t=103
 虎牙纪晓岚,http://epg.112114.xyz/huya/11342396
-虎牙周星驰,https://al.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.flv?wsSecret=23a70f128cd25ec185096e32f6a3b7a9&wsTime=6405434f&u=0&seqid=16779801178228400&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&txyp=o%3Aqzeic1%3B&fs=bgct&t=103
+虎牙周星驰,https://al.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.flv?wsSecret=c81a1ccbc7f45aae750ee20ce89f17e9&wsTime=64054edb&u=0&seqid=16779830735606986&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&fs=bgct&t=103
 虎牙周星驰,http://epg.112114.xyz/huya/11342412
 YY周星驰,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353881242
 YY周星驰,http://106.53.212.251/daili/yy.php?id=1353881242
@@ -1520,13 +1520,13 @@ YY成龙,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354888751
 虎牙刘德华,https://al.flv.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.flv?wsSecret=e5f2f4e7bba42980f4f1b7255d5e9730&wsTime=6405436b&u=0&seqid=16779801571410746&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&fs=bgct&t=103
 虎牙刘德华,http://aldirect.corp-hls.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.m3u8?wsiphost=ipdbme
 虎牙刘德华,http://epg.112114.xyz/huya/11342424
-虎牙甄子丹,https://al.flv.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1-imgplus.flv?wsSecret=ca52e46825f574f1cb89cfec564915a8&wsTime=6405439a&u=0&seqid=16779801841406222&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&txyp=o%3Awzeic3%3B&fs=bgct&t=103
+虎牙甄子丹,https://al.flv.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1-imgplus.flv?wsSecret=ca52e46825f574f1cb89cfec564915a8&wsTime=6405439a&u=0&seqid=16779801841406222&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&fs=bgct&t=103
 虎牙甄子丹,http://aldirect.corp-hls.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1.m3u8?wsiphost=ipdbme
 虎牙甄子丹,http://epg.112114.xyz/huya/11352935
 斗鱼风云,http://tvmvip110.club/douyu.php?id=9290755
 斗鱼风云,http://hw-tct.douyucdn.cn/live/9290755r1ypAW1Za.m3u8
 斗鱼风云,http://epg.112114.xyz/douyu/9290755
-虎牙爱情公寓,https://al.flv.huya.com/src/1388474069-1388474069-5963450717699047424-2777071594-10057-A-0-1.flv?wsSecret=16ad94224405cb7af4d722c4e5facc50&wsTime=6405448b&u=0&seqid=16779804517317522&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&txyp=o%3Acp1%3B&fs=bgct&t=103
+虎牙爱情公寓,https://al.flv.huya.com/src/1388474069-1388474069-5963450717699047424-2777071594-10057-A-0-1.flv?wsSecret=16ad94224405cb7af4d722c4e5facc50&wsTime=6405448b&u=0&seqid=16779804517317522&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&fs=bgct&t=103
 虎牙爱情公寓,http://epg.112114.xyz/huya/11336726
 斗鱼电影轮播1,http://tvmvip110.club/douyu.php?id=85894
 斗鱼电影轮播1,http://hw-tct.douyucdn.cn/live/85894rmovieChow.m3u8
@@ -1543,7 +1543,7 @@ YY成龙,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354888751
 斗鱼鬼片3,http://tvmvip110.club/douyu.php?id=6906628
 斗鱼鬼片3,http://hw-tct.douyucdn.cn/live/6906628rHJ8AXtOC.m3u8
 斗鱼鬼片3,http://epg.112114.xyz/douyu/6906628
-虎牙鬼片,https://al.flv.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.flv?wsSecret=fe1623740a435833e0a07e6ceb5b5fbd&wsTime=64054419&u=0&seqid=16779803112761530&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&txyp=o%3Awx91%3B&fs=bgct&t=103
+虎牙鬼片,https://al.flv.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.flv?wsSecret=fe1623740a435833e0a07e6ceb5b5fbd&wsTime=64054419&u=0&seqid=16779803112761530&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&fs=bgct&t=103
 虎牙鬼片,http://epg.112114.xyz/huya/11342421
 YY林正英,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351505899
 YY林正英,http://106.53.212.251/daili/yy.php?id=1351505899
