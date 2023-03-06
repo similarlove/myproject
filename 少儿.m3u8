@@ -1,0 +1,151 @@
+#EXTM3U
+#EXTINF:-1 ,CCTV14
+http://113.62.253.22/live.aishang.ctlcdn.com/00000110240253_1/playlist.m3u8?CONTENTID=00000110240253_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+#EXTINF:-1 ,CCTV14
+https://live.v1.mk/aishang/cctv14hd
+#EXTINF:-1 ,CCTV14
+http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cctvseHD/__op/default/__f//index.m3u8?blog.ntnas.top
+#EXTINF:-1 ,CCTV14
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctvseHD/__op/default/__f/index.m3u8
+#EXTINF:-1 ,CCTV14
+http://iptv.cooltv.top/tv/aishang.php?id=cctv14hd
+#EXTINF:-1 ,CCTV14
+https://live.v1.mk/api/bestv.php?id=cctvsehd8m/8000000
+#EXTINF:-1 ,CCTV14
+http://117.169.124.149:8080/live/HD-8000k-1080P-cctv14/index.m3u8
+#EXTINF:-1 ,CCTV14
+http://tvmvip110.club/as.php?id=cctv14hd
+#EXTINF:-1 ,CCTV14
+http://125.210.152.19:9120/live/hzgq-cctvsegq-h264.m3u8
+#EXTINF:-1 ,黑莓动画
+http://39.135.138.58:18890/PLTV/88888888/224/3221225672/index.m3u8
+#EXTINF:-1 ,黑莓动画
+http://117.169.121.162:6610/PLTV/88888910/224/3221225672/index.m3u8
+#EXTINF:-1 ,黑莓动画
+http://39.135.138.59:18890/PLTV/88888910/224/3221225672/index.m3u8
+#EXTINF:-1 ,黑莓动画
+http://39.134.115.163:8080/PLTV/88888910/224/3221225672/index.m3u8
+#EXTINF:-1 ,黑莓动画
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225672/index.m3u8
+#EXTINF:-1 ,金鹰卡通
+http://223.151.51.27:85/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,金鹰卡通
+http://124.232.233.17:6610/000000001001/201600020009/1400.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+#EXTINF:-1 ,金鹰卡通
+http://117.169.124.149:8080/live/jinyingkaton/index.m3u8
+#EXTINF:-1 ,金鹰卡通
+http://39.134.115.163:8080/PLTV/88888910/224/3221225721/index.m3u8
+#EXTINF:-1 ,金鹰卡通
+https://live.v1.mk/aishang/jykt
+#EXTINF:-1 ,金鹰卡通
+http://183.207.255.188/live/program/live/jykt/1300000/mnf.m3u8
+#EXTINF:-1 ,动画电影
+http://118.26.120.36:55336/tslive/c51_lb_118_600_t10/c51_lb_118_600_t10.m3u8?key=0b292c335e5837e94f25985f7c35b1efe
+#EXTINF:-1 ,炫动卡通
+https://live.v1.mk/api/bestv.php?id=hhxd8m/8000000
+#EXTINF:-1 ,炫动卡通
+http://tvmvip110.club/bs1.php?id=19
+#EXTINF:-1 ,炫动卡通
+http://183.207.255.188/live/program/live/xdkt/1300000/mnf.m3u8
+#EXTINF:-1 ,炫动卡通
+http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226212/index.m3u8
+#EXTINF:-1 ,炫动卡通
+http://117.169.124.149:8080/live/xuandongkaton/index.m3u8
+#EXTINF:-1 ,炫动卡通
+http://39.135.138.59:18890/PLTV/88888910/224/3221225720/index.m3u8
+#EXTINF:-1 ,浙江少儿
+http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
+#EXTINF:-1 ,卡酷动画
+https://live.v1.mk/api/bestv.php?id=kkse8m/8000000
+#EXTINF:-1 ,卡酷动画
+https://live.v1.mk/aishang/kkse
+#EXTINF:-1 ,卡酷动画
+http://117.169.124.149:8080/live/kakukaton/index.m3u8
+#EXTINF:-1 ,卡酷动画
+http://221.2.36.34:8888/newlive/live/hls/54/live.m3u8
+#EXTINF:-1 ,卡酷动画
+http://39.135.138.60:18890/PLTV/88888888/224/3221225677/index.m3u8
+#EXTINF:-1 ,动漫秀场
+http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/dmxcHD/__op/default/__f//index.m3u8?blog.ntnas.top
+#EXTINF:-1 ,动漫秀场
+https://live.v1.mk/api/bestv.php?id=dmxc8m/8000000
+#EXTINF:-1 ,动漫秀场
+http://183.207.255.188/live/program/live/dmxchd/4000000/mnf.m3u8
+#EXTINF:-1 ,重庆少儿
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cqseHD/__op/default/__f/index.m3u8
+#EXTINF:-1 ,重庆少儿
+http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cqseHD/__op/default/__f//index.m3u8?blog.ntnas.top
+#EXTINF:-1 ,南京少儿
+http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
+#EXTINF:-1 ,南京少儿
+http://live.nbs.cn/channels/njtv/sepd/500k.m3u8
+#EXTINF:-1 ,南京少儿
+http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
+#EXTINF:-1 ,江西少儿
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226194/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,儿童乐园
+http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_215_600_t10/c57_lb_215_600_t10.m3u8?key=0b292c335e5837e943410c2bfa7a7387e
+#EXTINF:-1 ,优漫卡通
+http://117.169.124.149:8080/live/youmankaton/index.m3u8
+#EXTINF:-1 ,优漫卡通
+http://39.135.138.58:18890/PLTV/88888888/224/3221225665/index.m3u8
+#EXTINF:-1 ,筠连综合
+http://118.122.78.172:89/live1/live1.m3u8?zsicd
+#EXTINF:-1 ,嘉佳卡通
+https://live.v1.mk/aishang/jjkt
+#EXTINF:-1 ,嘉佳卡通
+http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8
+#EXTINF:-1 ,嘉佳卡通
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226193/index.m3u8
+#EXTINF:-1 ,动画小天地
+http://lvbaiducdncmn.inter.iqiyi.com/tslive/c55_lb_139_600_t10/c55_lb_139_600_t10.m3u8?key=0f2a06793124310bc475d77d809f3ab51
+#EXTINF:-1 ,新动漫
+https://live.v1.mk/aishang/xdm
+#EXTINF:-1 ,bili_奥特曼
+https://cn-zjjh-ct-04-13.bilivideo.com/live-bvc/626897/live_23803304_6445235/index.m3u8
+#EXTINF:-1 ,bili_奥特曼
+https://cn-hbyc-ct-02-15.bilivideo.com/live-bvc/185707/live_23803304_6445235_1500.m3u8
+#EXTINF:-1 ,bili_奥特曼
+http://epg.112114.xyz/bili/7076493
+#EXTINF:-1 ,bili_昭和奥特曼
+https://cn-jsyz-ct-03-37.bilivideo.com/live-bvc/654884/live_344799766_35541378/index.m3u8
+#EXTINF:-1 ,bili_昭和奥特曼
+https://cn-hbyc-ct-02-11.bilivideo.com/live-bvc/760406/live_344799766_35541378_1500.m3u8
+#EXTINF:-1 ,bili_昭和奥特曼
+http://epg.112114.xyz/bili/26814789
+#EXTINF:-1 ,iqiyi_奥特曼
+http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_210_600_t10/c57_lb_210_600_t10.m3u8?key=0b292c335e5837e94abe4b846218bbc95
+#EXTINF:-1 ,喜羊羊与灰太狼
+http://lvbaiducdncmn.inter.iqiyi.com/tslive/c55_lb_91_1080P_t10/c55_lb_91_1080P_t10.m3u8?key=0b292c335e5837e943e554ef181bdcec1
+#EXTINF:-1 ,名侦探柯南1
+http://lvbaiducdncmn.inter.iqiyi.com/tslive/c54_lb_157_600_t10/c54_lb_157_600_t10.m3u8?key=0b292c335e5837e948e91dd5d11efa525
+#EXTINF:-1 ,名侦探柯南2
+http://118.26.120.23:55336/tslive/c54_lb_157_600_t10/c54_lb_157_600_t10.m3u8?key=0b292c335e5837e948e91dd5d11efa525
+#EXTINF:-1 ,besTV青春动漫
+https://live.v1.mk/api/bestv.php?id=qcdm8m/8000000
+#EXTINF:-1 ,besTV宝宝动画
+https://live.v1.mk/api/bestv.php?id=bbdh8m/8000000
+#EXTINF:-1 ,倒霉熊
+http://lvbaiducdncmn.inter.iqiyi.com/tslive/c54_lb_140_600_t10/c54_lb_140_600_t10.m3u8?key=0f2a06793124310bccc587b5da61b57da
+#EXTINF:-1 ,狮子王
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
+#EXTINF:-1 ,猫和老鼠
+http://lvbaiducdncmn.inter.iqiyi.com/tslive/c52_lb_83_600_t10/c52_lb_83_600_t10.m3u8?key=0b292c335e5837e94e2f0ba45f46717fa
+#EXTINF:-1 ,童年经典
+http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_211_600_t10/c57_lb_211_600_t10.m3u8?key=0f2a06793124310bce6ba95fc0ac76131
+#EXTINF:-1 ,小猪佩奇
+http://baiducdncmn2.inter.iqiyi.com/tslive/c53_lb_78_1080P_t10/c53_lb_78_1080P_t10.m3u8
+#EXTINF:-1 ,怀旧动画
+http://lvbaiducdncmn.inter.iqiyi.com/tslive/c53_lb_86_600_t10/c53_lb_86_600_t10.m3u8?key=0b292c335e5837e943a226d3c381f872a
+#EXTINF:-1 ,玩具乐园
+http://lvbaiducdncmn.inter.iqiyi.com/tslive/c54_lb_175_600_t10/c54_lb_175_600_t10.m3u8?key=051d9240247766709d65dde3fcd5cd7bb
+#EXTINF:-1 ,宝宝课堂
+http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_225_600_t10/c57_lb_225_600_t10.m3u8?key=0b292c335e5837e94abaa8d3135e83ce3
+#EXTINF:-1 ,兔小贝尔歌
+http://lvbaiducdncmn.inter.iqiyi.com/tslive/c54_lb_136_600_t10/c54_lb_136_600_t10.m3u8?key=0b292c335e5837e94ae056154862a578b
+#EXTINF:-1 ,儿歌大全
+http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_242_600_t10/c57_lb_242_600_t10.m3u8?key=0f2a06793124310bc8499ebf63370c51a
+#EXTINF:-1 ,亲子小游戏
+http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_178_600_t10/c56_lb_178_600_t10.m3u8?key=0b292c335e5837e94ffc1113a2140b54
+#EXTINF:-1 ,亲子启蒙
+http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_213_600_t10/c57_lb_213_600_t10.m3u8?key=0f2a06793124310bc21adebc9f02a9735
