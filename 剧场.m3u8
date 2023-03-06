@@ -1,0 +1,213 @@
+#EXTM3U
+#EXTINF:-1 ,CCTV8
+http://113.62.253.22/live.aishang.ctlcdn.com/00000110240249_1/playlist.m3u8?CONTENTID=00000110240249_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+#EXTINF:-1 ,CCTV8
+https://live.v1.mk/aishang/cctv8hd
+#EXTINF:-1 ,CCTV8
+https://live.v1.mk/api/bestv.php?id=cctv8hd8m/8000000
+#EXTINF:-1 ,CCTV8
+http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cctv8HD/__op/default/__f//index.m3u8?blog.ntnas.top
+#EXTINF:-1 ,CCTV8
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv8HD/__op/default/__f/index.m3u8
+#EXTINF:-1 ,CCTV8
+http://iptv.cooltv.top/tv/aishang.php?id=cctv8hd
+#EXTINF:-1 ,CCTV8
+http://117.169.124.149:8080/live/HD-8000k-1080P-cctv8/index.m3u8
+#EXTINF:-1 ,CCTV8
+http://tvmvip110.club/as.php?id=cctv8hd
+#EXTINF:-1 ,CCTV8
+http://125.210.152.19:9120/live/hzgq-cctv8gq-h264.m3u8
+#EXTINF:-1 ,CCTV8
+http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
+#EXTINF:-1 ,CCTV风云剧场
+http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/shandongHD/__op/default/__f//index.m3u8blog.ntnas.top
+#EXTINF:-1 ,CCTV风云剧场
+http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/fyjcHD/__op/default/__f//index.m3u8?blog.ntnas.top
+#EXTINF:-1 ,CCTV怀旧剧场
+http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/hjjcHD/__op/default/__f//index.m3u8?blog.ntnas.top
+#EXTINF:-1 ,CCTV第一剧场
+http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/diyijuchangHD/__op/default/__f//index.m3u8?blog.ntnas.top
+#EXTINF:-1 ,CCTV兵器科技
+http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/bqkjHD/__op/default/__f//index.m3u8?blog.ntnas.top
+#EXTINF:-1 ,CCTV风云剧场
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/shandongHD/__op/default/__f/index.m3u8
+#EXTINF:-1 ,CCTV风云剧场
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/fyjcHD/__op/default/__f/index.m3u8
+#EXTINF:-1 ,CCTV怀旧剧场
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/hjjcHD/__op/default/__f/index.m3u8
+#EXTINF:-1 ,CCTV第一剧场
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/diyijuchangHD/__op/default/__f/index.m3u8
+#EXTINF:-1 ,CCTV兵器科技
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/bqkjHD/__op/default/__f/index.m3u8
+#EXTINF:-1 ,CCTV电视指南
+http://111.20.40.170/PLTV/88888893/224/3221226987/index.m3u8
+#EXTINF:-1 ,CCTV世界地理
+http://111.20.40.170/PLTV/88888893/224/3221226947/index.m3u8
+#EXTINF:-1 ,CCTV风云剧场
+http://111.20.40.170/PLTV/88888893/224/3221226950/index.m3u8
+#EXTINF:-1 ,CCTV第一剧场
+http://111.20.40.170/PLTV/88888893/224/3221226959/index.m3u8
+#EXTINF:-1 ,CCTV女性时尚
+http://111.20.40.170/PLTV/88888893/224/3221226969/index.m3u8
+#EXTINF:-1 ,CCTV怀旧剧场
+http://111.20.40.170/PLTV/88888893/224/3221226972/index.m3u8
+#EXTINF:-1 ,CCTV兵器科技http://111.20.40.170/PLTV/88888893/224/3221226975/index.m3u8
+#EXTINF:-1 ,SiTV都市剧场
+http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/dsjcHD/__op/default/__f//index.m3u8?blog.ntnas.top
+#EXTINF:-1 ,SiTV都市剧场
+https://live.v1.mk/api/bestv.php?id=dsjc8m/8000000
+#EXTINF:-1 ,SiTV都市剧场
+http://111.20.40.170/PLTV/88888893/224/3221226581/index.m3u8
+#EXTINF:-1 ,SiTV都市剧场
+http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV都市剧场
+http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226581/index.m3u8
+#EXTINF:-1 ,收视冠军
+http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c56_lb_230_720P_t10/c56_lb_230_720P_t10.m3u8?key
+#EXTINF:-1 ,央视大剧
+http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c54_lb_90_600_t10/c54_lb_90_600_t10.m3u8?key
+#EXTINF:-1 ,谍战剧场
+http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c57_lb_216_600_t10/c57_lb_216_600_t10.m3u8?key
+#EXTINF:-1 ,宫庭正剧
+http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c54_lb_152_600_t10/c54_lb_152_600_t10.m3u8?key
+#EXTINF:-1 ,古装剧场
+http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c54_lb_174_600_t10/c54_lb_174_600_t10.m3u8?key
+#EXTINF:-1 ,权谋剧场
+http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c55_lb_167_600_t10/c55_lb_167_600_t10.m3u8?key
+#EXTINF:-1 ,军旅剧场
+http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c55_lb_144_600_t10/c55_lb_144_600_t10.m3u8?key
+#EXTINF:-1 ,仙侠玄幻
+http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c55_lb_148_600_t10/c55_lb_148_600_t10.m3u8?key
+#EXTINF:-1 ,经典重温
+http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c55_lb_137_600_t10/c55_lb_137_600_t10.m3u8?key
+#EXTINF:-1 ,经典纪实
+http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c56_lb_220_600_t10/c56_lb_220_600_t10.m3u8?key
+#EXTINF:-1 ,自然地理
+http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c52_lb_81_600_t10/c52_lb_81_600_t10.m3u8?key
+#EXTINF:-1 ,华数TV连续剧
+http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
+#EXTINF:-1 ,欢笑剧场4K，http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f//index.m3u8?blog.ntnas.top
+#EXTINF:-1 ,欢笑剧场4k
+http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
+#EXTINF:-1 ,欢笑剧场4k
+http://111.20.40.170/PLTV/88888893/224/3221226582/index.m3u8
+#EXTINF:-1 ,欢笑剧场4k
+https://live.v1.mk/api/bestv.php?id=hxjc4k/15000000
+#EXTINF:-1 ,欢笑剧场4k
+http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
+#EXTINF:-1 ,欢笑剧场4k
+https://live.v1.mk/api/bestv.php?id=hxjc8m/8000000
+#EXTINF:-1 ,NewTV军事评论
+http://117.169.124.149:8080/live/junshipl/index.m3u8
+#EXTINF:-1 ,NewTV军事评论
+http://39.134.115.163:8080/PLTV/88888910/224/3221225757/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,NewTV军事评论
+http://39.135.138.58:18890/PLTV/88888888/224/3221225757/index.m3u8
+#EXTINF:-1 ,NewTV军事评论
+http://117.169.121.162:6610/PLTV/88888910/224/3221225757/index.m3u8
+#EXTINF:-1 ,NewTV军事评论
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225757/index.m3u8
+#EXTINF:-1 ,NewTV精品记录
+http://117.169.124.149:8080/live/jingpinjl/index.m3u8
+#EXTINF:-1 ,NewTV精品萌宠
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226245/index.m3u8
+#EXTINF:-1 ,NewTV惊悚悬疑
+http://117.169.124.149:8080/live/jingsongxy/index.m3u8
+#EXTINF:-1 ,NewTV古装剧场
+http://39.134.115.163:8080/PLTV/88888910/224/3221225678/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,NewTV古装剧场
+http://117.169.124.149:8080/live/guzhuangjc/index.m3u8
+#EXTINF:-1 ,NewTV古装剧场
+http://39.135.138.58:18890/PLTV/88888888/224/3221225678/index.m3u8
+#EXTINF:-1 ,NewTV古装剧场
+http://117.169.121.162:6610/PLTV/88888910/224/3221225678/index.m3u8
+#EXTINF:-1 ,NewTV家庭剧场
+http://117.169.124.149:8080/live/jiatingjc/index.m3u8
+#EXTINF:-1 ,NewTV家庭剧场
+http://39.135.138.58:18890/PLTV/88888888/224/3221225713/index.m3u8
+#EXTINF:-1 ,NewTV家庭剧场
+http://117.169.121.162:6610/PLTV/88888910/224/3221225713/index.m3u8
+#EXTINF:-1 ,NewTV家庭剧场
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225713/index.m3u8
+#EXTINF:-1 ,NewTV军旅剧场
+http://117.169.124.149:8080/live/junlvjc/index.m3u8
+#EXTINF:-1 ,NewTV军旅剧场
+http://39.135.138.60:18890/PLTV/88888910/224/3221225669/index.m3u8
+#EXTINF:-1 ,NewTV军旅剧场
+http://117.169.121.162:6610/PLTV/88888910/224/3221225669/index.m3u8
+#EXTINF:-1 ,NewTV欢乐剧场
+http://39.135.138.58:18890/PLTV/88888888/224/3221226210/index.m3u8
+#EXTINF:-1 ,NewTV欢乐剧场
+http://117.169.121.162:6610/PLTV/88888910/224/3221226210/index.m3u8
+#EXTINF:-1 ,NewTV欢乐剧场
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226210/index.m3u8
+#EXTINF:-1 ,NewTV超级电视剧
+http://117.169.121.162:6610/PLTV/88888910/224/3221225625/index.m3u8
+#EXTINF:-1 ,NewTV超级电视剧
+http://117.169.121.162:6610/PLTV/88888910/224/3221225765/index.m3u8
+#EXTINF:-1 ,NewTV超级电视剧
+http://39.135.138.58:18890/PLTV/88888888/224/3221225765/index.m3u8
+#EXTINF:-1 ,NewTV超级电视剧
+http://39.135.138.58:18890/PLTV/88888888/224/3221225625/index.m3u8
+#EXTINF:-1 ,NewTV超级综艺
+http://39.135.138.58:18890/PLTV/88888888/224/3221225620/index.m3u8
+#EXTINF:-1 ,NewTV超级综艺
+http://39.135.138.58:18890/PLTV/88888888/224/3221225768/index.m3u8
+#EXTINF:-1 ,NewTV超级综艺
+http://117.169.121.162:6610/PLTV/88888910/224/3221225620/index.m3u8
+#EXTINF:-1 ,NewTV超级综艺
+http://117.169.121.162:6610/PLTV/88888910/224/3221225768/index.m3u8
+#EXTINF:-1 ,NewTV超级综艺
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225768/index.m3u8
+#EXTINF:-1 ,NewTV中国功夫
+http://39.135.138.60:18890/PLTV/88888910/224/3221225660/index.m3u8
+#EXTINF:-1 ,NewTV中国功夫
+http://117.169.121.162:6610/PLTV/88888910/224/3221225660/index.m3u8
+#EXTINF:-1 ,NewTV明星大片
+http://117.169.124.149:8080/live/mingxingdp/index.m3u8
+#EXTINF:-1 ,NewTV明星大片
+http://39.135.138.58:18890/PLTV/88888888/224/3221225716/index.m3u8
+#EXTINF:-1 ,NewTV明星大片
+http://39.134.115.163:8080/PLTV/88888910/224/3221225716/index.m3u8
+#EXTINF:-1 ,NewTV明星大片
+http://117.169.121.162:6610/PLTV/88888910/224/3221225716/index.m3u8
+#EXTINF:-1 ,NewTV明星大片
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225716/index.m3u8
+#EXTINF:-1 ,NewTV精品大剧
+http://117.169.124.149:8080/live/jdaju/index.m3u8
+#EXTINF:-1 ,NewTV精品大剧
+http://39.135.138.58:18890/PLTV/88888888/224/3221225714/index.m3u8
+#EXTINF:-1 ,NewTV精品大剧
+http://117.169.121.162:6610/PLTV/88888910/224/3221225714/index.m3u8
+#EXTINF:-1 ,NewTV喜剧爱情
+http://117.169.124.149:8080/live/aiqingxj/index.m3u8
+#EXTINF:-1 ,NewTV潮妈辣婆
+http://39.135.138.60:18890/PLTV/88888910/224/3221225708/index.m3u8
+#EXTINF:-1 ,NewTV潮妈辣婆
+http://117.169.121.162:6610/PLTV/88888910/224/3221225708/index.m3u8
+#EXTINF:-1 ,NewTV潮妈辣婆
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225708/index.m3u8
+#EXTINF:-1 ,NewTV金牌综艺
+http://117.169.124.149:8080/live/saishijx/index.m3u8
+#EXTINF:-1 ,NewTV金牌综艺
+http://39.135.138.60:18890/PLTV/88888910/224/3221225711/index.m3u8
+#EXTINF:-1 ,NewTV金牌综艺
+http://117.169.121.162:6610/PLTV/88888910/224/3221225711/index.m3u8
+#EXTINF:-1 ,NewTV金牌综艺
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225711/index.m3u8
+#EXTINF:-1 ,NewTV农业致富
+http://117.169.124.149:8080/live/nongyezf/index.m3u8
+#EXTINF:-1 ,NewTV农业致富
+http://39.135.138.60:18890/PLTV/88888910/224/3221225670/index.m3u8
+#EXTINF:-1 ,NewTV农业致富
+http://117.169.121.162:6610/PLTV/88888910/224/3221225670/index.m3u8
+#EXTINF:-1 ,NewTV海外剧场
+http://117.169.124.149:8080/live/xiqumd/index.m3u8
+#EXTINF:-1 ,NewTV健康有约
+http://117.169.124.149:8080/live/ljiankangyouyue/index.m3u8
+#EXTINF:-1 ,besTV谍战剧场
+https://live.v1.mk/api/bestv.php?id=dzjc8m/8000000
+#EXTINF:-1 ,besTV热门剧场
+https://live.v1.mk/api/bestv.php?id=rmjc8m/8000000
+#EXTINF:-1 ,besTV
+https://bp-caster.bestv.com.cn/941/3/video.m3u8
