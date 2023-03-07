@@ -1830,8 +1830,6 @@ YY欧美电影,http://106.53.212.251/daili/yy.php?id=24923327
 斗鱼成果,http://diyp.112114.xyz/douyu/8090190
 斗鱼成果,http://epg.112114.xyz/douyu/8090190
 斗鱼pdd,http://tvmvip110.club/douyu.php?id=101
-斗鱼pdd,https://hw-tct.douyucdn.cn/live/101rFib6ZMgDFwxd.flv
-斗鱼pdd,https://hdltc1.douyucdn.cn/live/101rFib6ZMgDFwxd.flv
 斗鱼pdd,http://live.aptvapp.com/live/douyu/101
 斗鱼pdd,http://diyp.112114.xyz/douyu/101
 斗鱼pdd,http://epg.112114.xyz/douyu/101
