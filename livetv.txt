@@ -1365,6 +1365,7 @@ besTV宝宝动画,https://live.v1.mk/api/bestv.php?id=bbdh8m/8000000
 亲子启蒙,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_213_600_t10/c57_lb_213_600_t10.m3u8?key=0f2a06793124310bc21adebc9f02a9735
 
 🎀｜湖南频道,#genre#
+湖南卫视,http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd-hunan-2500/index.m3u8?ProgramID=&encrypt=
 湖南卫视,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/hunanHD/__op/default/__f//index.m3u8?blog.ntnas.top
 湖南卫视,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/hunanHD/__op/default/__f/index.m3u8
 湖南卫视,http://iptv.cooltv.top/tv/aishang.php?id=hunwshd
