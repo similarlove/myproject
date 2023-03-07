@@ -1534,6 +1534,7 @@ NewTV超级电影,http://117.169.121.162:6610/PLTV/88888910/224/3221225623/index
 斗鱼新三国,http://tvmvip110.club/douyu.php?id=276200
 斗鱼新三国,http://hw-tct.douyucdn.cn/live/276200r8BuXLoShZ.flv
 斗鱼新三国,http://hdltc1.douyucdn.cn/live/276200r8BuXLoShZ.flv
+斗鱼新三国,http://live.aptvapp.com/live/douyu/276200
 斗鱼新三国,http://diyp.112114.xyz/douyu/276200
 斗鱼新三国,http://epg.112114.xyz/douyu/276200
 斗鱼老三国,http://tvmvip110.club/douyu.php?id=7459925
@@ -1572,7 +1573,7 @@ NewTV超级电影,http://117.169.121.162:6610/PLTV/88888910/224/3221225623/index
 
 虎牙陈翔六点半,http://diyp.112114.xyz/huya/11274154
 虎牙陈翔六点半,http://epg.112114.xyz/huya/11274154
-虎牙周星驰,http://192.168.100.1:35455/huya/11342412
+
 虎牙周星驰,http://live.aptvapp.com/live/huya/11342412
 虎牙周星驰,http://diyp.112114.xyz/huya/11342412
 虎牙周星驰,http://epg.112114.xyz/huya/11342412
