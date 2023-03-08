@@ -1,5 +1,5 @@
 📡｜中央电视台,#genre#
-CCTV-1 8M,http://cfss.cc/ds/bst.php?id=Cf-1
+
 CCTV1,http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/cctv/cctv1/2500/index.m3u8?ProgramID=&encrypt=
 CCTV2,http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/cctv/cctv2/3000/index.m3u8?ProgramID=&encrypt=
 CCTV3,http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/2018/ocn/cctv3/2000/index.m3u8?&ProgramID=&encrypt=
@@ -317,7 +317,8 @@ CCTV1,http://a.xttv.top/xttv/27f43e697655f4d44c62d7f4d32fcctv.m3u8
 CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8?
 CCTV1,http://218.29.55.44:808/hls/1/index.m3u8
 CCTV1,http://223.95.111.98:5555/newlive/live/hls/1/live.m3u8
-
+CCTV1,http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+CCTV1,http://39.134.115.163:8080/PLTV/88888910/224/3221225642/index.m3u8
 
 CCTV2,http://cm.wshls.homecdn.com/live/11ecc.m3u8
 CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8?
@@ -325,15 +326,17 @@ CCTV2,http://39.184.224.99:9080/newlive/live/hls/2/live.m3u8
 CCTV2,http://218.29.55.44:808/hls/2/index.m3u8
 CCTV2,http://39.135.138.59:18890/PLTV/88888910/224/3221225619/index.m3u8
 CCTV2,http://1.195.111.251:11190/tsfile/live/0002_1.m3u8
-
+CCTV2,http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
 
 CCTV3,http://218.29.55.44:808/hls/3/index.m3u8
 CCTV3,http://lu1.cc/itv/sjtv/p/migu.php?id=cctv3
+CCTV3,http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
 CCTV3,http://39.184.224.99:9080/newlive/live/hls/3/live.m3u8
 
 
 CCTV4,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
 CCTV4,http://218.29.55.44:808/hls/4/index.m3u8
+CCTV4,http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
 CCTV4,http://39.184.224.99:9080/newlive/live/hls/4/live.m3u8
 CCTV4,http://39.135.138.59:18890/PLTV/88888910/224/3221225621/index.m3u8
 
@@ -346,12 +349,14 @@ CCTV5,https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv5_2/index.m3u8
 CCTV5,http://lu1.cc/itv/sjtv/p/migu.php?id=cctv5
 CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 CCTV5,http://111.20.40.170/PLTV/88888893/224/3221226395/index.m3u8
+CCTV5,http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
 CCTV5,http://223.95.111.98:5555/newlive/live/hls/5/live.m3u8
 
 
 CCTV5+,http://39.135.138.58:18890/PLTV/88888888/224/3221225649/index.m3u8
 CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8?
 CCTV5+,http://39.135.138.58:18890/PLTV/88888888/224/3221225706/index.m3u8
+CCTV5+,http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
 CCTV5+,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225649/index.m3u8
 
 
@@ -364,18 +369,19 @@ CCTV6,http://39.184.224.99:9080/newlive/live/hls/6/live.m3u8
 
 CCTV7,http://39.184.224.99:9080/newlive/live/hls/7/live.m3u8
 CCTV7,http://218.29.55.44:808/hls/7/index.m3u8
-
+CCTV7,http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
 
 CCTV8,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8?
 CCTV8,http://218.29.55.44:808/hls/8/index.m3u8
 CCTV8,http://39.184.224.99:9080/newlive/live/hls/8/live.m3u8
-
+CCTV8,http://39.134.115.163:8080/PLTV/88888910/224/3221225631/index.m3u8
+CCTV8,http://39.134.115.163:8080/PLTV/88888910/224/3221225635/index.m3u8
 
 
 CCTV9,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8?
 CCTV9,http://218.29.55.44:808/hls/9/index.m3u8
 CCTV9,http://39.184.224.99:9080/newlive/live/hls/9/live.m3u8
-
+CCTV9,http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
 
 
 CCTV10,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8?
@@ -385,12 +391,15 @@ CCTV10,http://218.29.55.44:808/hls/10/index.m3u8
 CCTV10,http://39.184.224.99:9080/newlive/live/hls/10/live.m3u8
 CCTV10,http://39.135.138.59:18890/PLTV/88888910/224/3221225627/index.m3u8
 CCTV10,http://39.135.138.58:18890/PLTV/88888888/224/3221225636/index.m3u8
+CCTV10,http://39.134.115.163:8080/PLTV/88888910/224/3221225627/index.m3u8
 
 
 CCTV11,http://218.29.55.44:808/hls/11/index.m3u8
+CCTV11,http://39.134.115.163:8080/PLTV/88888910/224/3221225628/index.m3u8
 CCTV11,http://39.184.224.99:9080/newlive/live/hls/11/live.m3u8
 
-
+CCTV12,http://39.134.115.163:8080/PLTV/88888910/224/3221225629/index.m3u8
+CCTV12,http://39.134.115.163:8080/PLTV/88888910/224/3221225637/index.m3u8
 CCTV12,http://39.184.224.99:9080/newlive/live/hls/12/live.m3u8
 CCTV12,http://218.29.55.44:808/hls/12/index.m3u8
 
@@ -398,6 +407,7 @@ CCTV12,http://218.29.55.44:808/hls/12/index.m3u8
 CCTV13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8?
 CCTV13,http://yfsl.vsd.gehua.net.cn/live/CCTV13_2000.m3u8
 CCTV13,http://cctvwbndali.v.myalicdn.com/cctvwbnd/cctv13_2/index.m3u8
+CCTV13,http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
 CCTV13,http://223.95.111.98:5555/newlive/live/hls/13/live.m3u8
 CCTV13,http://218.29.55.44:808/hls/13/index.m3u8
 
@@ -405,14 +415,14 @@ CCTV13,http://218.29.55.44:808/hls/13/index.m3u8
 
 
 
-
+CCTV14,http://39.134.115.163:8080/PLTV/88888910/224/3221225639/index.m3u8
 CCTV14,http://39.184.224.99:9080/newlive/live/hls/14/live.m3u8
 CCTV14,http://218.29.55.44:808/hls/14/index.m3u8
 
 
 
 
-
+CCTV15,http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8
 CCTV15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8?
 CCTV15,http://218.29.55.44:808/hls/24/index.m3u8
 
@@ -427,6 +437,7 @@ CCTV16,http://117.169.124.149:8080/live/HD-8000k-1080P-cctv16/1.m3u8
 
 
 CCTV17,http://223.151.51.27:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV17,http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 CCTV17,http://39.184.224.99:9080/newlive/live/hls/17/live.m3u8
 
 
@@ -1573,7 +1584,6 @@ CCTV6,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011
 黑莓电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8
 黑莓电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8
 
-峨眉电影,http://r.jdshipin.com/XIjta
 峨眉电影,http://112.19.214.90:8883/tsfile/live/1004_1.m3u8
 
 CHC家庭影院,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/default/__f//index.m3u8?blog.ntnas.top
@@ -1626,7 +1636,7 @@ NewTV超级电影,http://117.169.121.162:6610/PLTV/88888910/224/3221225623/index
 
 
 💽｜影视轮播,#genre#
-
+虎牙音乐石榴,https://aldirect.corp-hls.huya.com/src/1199512344405-1199512344405-5224693802798678016-2399024812266-10057-A-0-1.m3u8?wsiphost=ipdbme
 虎牙音乐石榴,http://live.aptvapp.com/live/huya/17091681
 虎牙音乐石榴,http://diyp.112114.xyz/huya/17091681
 虎牙音乐石榴,http://epg.112114.xyz/huya/17091681
@@ -1685,6 +1695,7 @@ NewTV超级电影,http://117.169.121.162:6610/PLTV/88888910/224/3221225623/index
 虎牙雍正王朝,http://live.aptvapp.com/live/huya/11342439
 虎牙雍正王朝,http://diyp.112114.xyz/huya/11342439
 虎牙雍正王朝,http://epg.112114.xyz/huya/11342439
+虎牙金庸剧,https://aldirect.corp-hls.huya.com/src/1524439846-1524439846-6547419283289276416-3049003148-10057-A-0-1.m3u8?wsiphost=ipdbme
 虎牙金庸剧,http://live.aptvapp.com/live/huya/11602082
 虎牙金庸剧,http://diyp.112114.xyz/huya/11602082
 虎牙金庸剧,http://epg.112114.xyz/huya/11602082
@@ -1871,12 +1882,15 @@ YY欧美电影,http://106.53.212.251/daili/yy.php?id=24923327
 虎牙AmazingJ,http://live.aptvapp.com/live/huya/991108
 虎牙AmazingJ,http://diyp.112114.xyz/huya/991108
 虎牙AmazingJ,http://epg.112114.xyz/huya/991108
+虎牙霸哥,https://aldirect.corp-hls.huya.com/src/1724691-1724691-7407491440705536-3572838-10057-A-0-1-imgplus.m3u8?wsiphost=ipdbme
 虎牙霸哥,http://live.aptvapp.com/live/huya/189201
 虎牙霸哥,http://diyp.112114.xyz/huya/189201
 虎牙霸哥,http://epg.112114.xyz/huya/189201
+虎牙kRYST4L,https://aldirect.corp-hls.huya.com/src/1575250000-1575250000-6765647233024000000-3150623456-10057-A-0-1-imgplus.m3u8?wsiphost=ipdbme
 虎牙kRYST4L,http://live.aptvapp.com/live/huya/222523
 虎牙kRYST4L,http://diyp.112114.xyz/huya/222523
 虎牙kRYST4L,http://epg.112114.xyz/huya/222523
+虎牙godv,https://aldirect.corp-hls.huya.com/src/518969542-518969542-2228957210510098432-1038062540-10057-A-0-1-imgplus.m3u8?wsiphost=ipdbme
 虎牙godv,http://live.aptvapp.com/live/huya/7911
 虎牙godv,http://diyp.112114.xyz/huya/7911
 虎牙godv,http://epg.112114.xyz/huya/7911
