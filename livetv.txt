@@ -1,5 +1,5 @@
 📡｜中央电视台,#genre#
-
+CCTV-1 8M,http://cfss.cc/ds/bst.php?id=Cf-1
 CCTV1,http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/cctv/cctv1/2500/index.m3u8?ProgramID=&encrypt=
 CCTV2,http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/cctv/cctv2/3000/index.m3u8?ProgramID=&encrypt=
 CCTV3,http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/2018/ocn/cctv3/2000/index.m3u8?&ProgramID=&encrypt=
@@ -1573,6 +1573,7 @@ CCTV6,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011
 黑莓电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8
 黑莓电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8
 
+峨眉电影,http://r.jdshipin.com/XIjta
 峨眉电影,http://112.19.214.90:8883/tsfile/live/1004_1.m3u8
 
 CHC家庭影院,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/default/__f//index.m3u8?blog.ntnas.top
