@@ -1684,6 +1684,7 @@ NewTV超级电影,http://117.169.121.162:6610/PLTV/88888910/224/3221225623/index
 斗鱼老三国,http://live.aptvapp.com/live/douyu/7459925
 斗鱼老三国,http://diyp.112114.xyz/douyu/7459925
 斗鱼老三国,http://epg.112114.xyz/douyu/7459925
+虎牙新水浒,https://aldirect.corp-hls.huya.com/src/1394565188-1394565188-5989611874600091648-2789253832-10057-A-0-1.m3u8?wsiphost=ipdbme
 虎牙新水浒,http://live.aptvapp.com/live/huya/11342384
 虎牙新水浒,http://diyp.112114.xyz/huya/11342384
 虎牙新水浒,http://epg.112114.xyz/huya/11342384
