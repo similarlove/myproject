@@ -7,7 +7,6 @@ CCTV4,http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/cctv/cctv4/3000/ind
 CCTV5,http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/cctv/cctv5new/2500/index.m3u8?ProgramID=&encrypt=
 CCTV5+,http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/cctv/cctv5plusnew/2500/index.m3u8?ProgramID=&encrypt=
 CCTV6,http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/2018/ocn/cctv6/2000/index.m3u8?ProgramID=&encrypt=
-
 CCTV7,http://39.136.172.2/hlsztemgsplive.miguvideo.com/migu/kailu/20200324/cctv7/51/index.m3u8?ProgramID=&encrypt=
 CCTV8,http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/2018/ocn/cctv8/2000/index.m3u8?ProgramID=&encrypt=
 
