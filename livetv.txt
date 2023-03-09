@@ -1790,9 +1790,9 @@ YY欧美电影,http://106.53.212.251/daili/yy.php?id=24923327
 斗鱼洞主,http://diyp.112114.xyz/douyu/138243
 斗鱼洞主,http://epg.112114.xyz/douyu/138243
 咻咻满,http://hlstct.douyucdn2.cn/dyliveflv3/4238637rf5Uwvrla.m3u8?txSecret=01b0ba3abf22c89603d4b25cad06ef15&txTime=6409f245&token=h5-douyu-0-4238637-f9656673f1346534119a50d31e43cfea&did=10000000000000000000000000001501&origin=tct&vhost=play3
-咻咻满,http://live.aptvapp.com/live/douyu/8777
-咻咻满,http://diyp.112114.xyz/douyu/8777
-咻咻满,http://epg.112114.xyz/douyu/8777
+斗鱼咻咻满,http://live.aptvapp.com/live/douyu/8777
+斗鱼咻咻满,http://diyp.112114.xyz/douyu/8777
+斗鱼咻咻满,http://epg.112114.xyz/douyu/8777
 斗鱼鬼史东,http://tvmvip110.club/douyu.php?id=890074
 斗鱼鬼史东,http://live.aptvapp.com/live/douyu/890074
 斗鱼鬼史东,http://diyp.112114.xyz/douyu/890074
