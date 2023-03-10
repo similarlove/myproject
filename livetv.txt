@@ -1589,8 +1589,8 @@ NewTV超级电影,http://117.169.121.162:6610/PLTV/88888910/224/3221225623/index
 斗鱼老三国,http://live.aptvapp.com/live/douyu/7459925
 斗鱼老三国,http://diyp.112114.xyz/douyu/7459925
 斗鱼老三国,http://epg.112114.xyz/douyu/7459925
-bili_新水浒,https://cn-hbyc-ct-02-11.bilivideo.com/live-bvc/106047/live_491238578_38415174.flv
-bili_新水浒,https://cn-hbyc-ct-02-11.bilivideo.com/live-bvc/476229/live_491238578_38415174.m3u8
+bili_新水浒,https://cn-hbyc-ct-02-11.bilivideo.com/live-bvc/231948/live_491238578_38415174/index.m3u8
+bili_新水浒,https://c1--cn-gotcha208.bilivideo.com/live-bvc/231948/live_491238578_38415174/index.m3u8
 bili_新水浒,http://diyp.112114.xyz/bili/21747822
 bili_新水浒,http://epg.112114.xyz/bili/21747822
 虎牙新水浒,https://aldirect.corp-hls.huya.com/src/1394565188-1394565188-5989611874600091648-2789253832-10057-A-0-1.m3u8?wsiphost=ipdbme
@@ -1603,8 +1603,8 @@ bili_新水浒,http://epg.112114.xyz/bili/21747822
 斗鱼西游记,http://live.aptvapp.com/live/douyu/5472438
 斗鱼西游记,http://diyp.112114.xyz/douyu/5472438
 斗鱼西游记,http://epg.112114.xyz/douyu/5472438
-bili_红楼梦,https://cn-zjjh-ct-04-12.bilivideo.com/live-bvc/149842/live_211993858_7364279_1500.flv
-bili_红楼梦,https://cn-zjjh-ct-04-12.bilivideo.com/live-bvc/925023/live_211993858_7364279_1500.m3u8
+bili_红楼梦,https://cn-jsyz-ct-03-51.bilivideo.com/live-bvc/493314/live_211993858_7364279/index.m3u8
+bili_红楼梦,https://c1--cn-gotcha208.bilivideo.com/live-bvc/493314/live_211993858_7364279/index.m3u8
 bili_红楼梦,http://diyp.112114.xyz/bili/5568482
 bili_红楼梦,http://epg.112114.xyz/bili/5568482
 虎牙雍正王朝,https://aldirect.corp-hls.huya.com/src/1448738195-1448738195-6222283167991070720-2789274594-10057-A-0-1.m3u8?wsiphost=ipdbme
