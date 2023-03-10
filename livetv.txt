@@ -25,6 +25,7 @@ CGTN西班牙语,http://39.136.172.2/hlsztemgsplive.miguvideo.com/envivo_v/2018/
 CGTN俄语,http://39.136.172.2/hlsztemgsplive.miguvideo.com/envivo_v/2018/SD/cctv/eyu/1000/index.m3u8?ProgramID=&encrypt=
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 CCTV1,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cctv1HD/__op/default/__f//index.m3u8?blog.ntnas.top
 CCTV2,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cctv2HD/__op/default/__f//index.m3u8?blog.ntnas.top
 CCTV3,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cctv3HD/__op/default/__f//index.m3u8?blog.ntnas.top
