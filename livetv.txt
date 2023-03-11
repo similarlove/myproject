@@ -1563,7 +1563,6 @@ besTV,https://bp-caster.bestv.com.cn/941/3/video.m3u8
 斗鱼_老三国,http://live.aptvapp.com/live/douyu/7459925
 斗鱼_老三国,http://diyp.112114.xyz/douyu/7459925
 斗鱼_老三国,http://epg.112114.xyz/douyu/7459925
-bilibili_新水浒,https://cn-hbyc-ct-02-11.bilivideo.com/live-bvc/278940/live_491238578_38415174/index.m3u8?expires=1678549447&len=0&oi=1995382797&pt=web&qn=10000&trid=10079e3086065a6f4d49bbecb4901365010d&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=74936758553929dc32afcec286c363d6&sk=6fa03d2bd80ae7bd5005ec17574aade4&flvsk=19f80327b01de979ec7c4d98e8aa1e7f&p2p_type=1&src=57345&sl=1&free_type=0&mid=0&sid=cn-hbyc-ct-02-11&chash=1&bmt=1&sche=ban&bvchls=1&score=11&pp=rtmp&machinezone=ylf&source=onetier&trace=1&site=5cd59a0f4613a5d3b86330cb5f9983e2&order=1
 bilibili_新水浒,https://cn-hbyc-ct-02-11.bilivideo.com/live-bvc/278940/live_491238578_38415174/index.m3u8
 bilibili_新水浒,https://c1--cn-gotcha208.bilivideo.com/live-bvc/985448/live_491238578_38415174/index.m3u8?expires=1678545425&len=0&oi=1995382797&pt=web&qn=10000&trid=1007526aae0c15294a148eaa9c9cd6fef054&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha208&sign=85efece39935d3812ed620baf7d797b3&sk=6fa03d2bd80ae7bd5005ec17574aade4&p2p_type=1&src=57345&sl=1&free_type=0&mid=0&pp=rtmp&machinezone=jd&source=onetier&trace=0&site=e2f9f30580c55a3f8205d83e52f06501&order=2
 bilibili_新水浒,http://diyp.112114.xyz/bili/21747822
