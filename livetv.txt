@@ -1546,7 +1546,7 @@ NewTV超级电影,http://117.169.121.162:6610/PLTV/88888910/224/3221225623/index
 
 
 
-👁｜电视轮播,#genre#
+🛸｜电视轮播,#genre#
 虎牙_音乐石榴,https://aldirect.corp-hls.huya.com/src/1199512344405-1199512344405-5224693802798678016-2399024812266-10057-A-0-1.m3u8?wsiphost=ipdbme
 虎牙_音乐石榴,http://live.aptvapp.com/live/huya/17091681
 虎牙_音乐石榴,http://diyp.112114.xyz/huya/17091681
@@ -1643,7 +1643,7 @@ besTV谍战剧场,https://live.v1.mk/api/bestv.php?id=dzjc8m/8000000
 besTV热门剧场,https://live.v1.mk/api/bestv.php?id=rmjc8m/8000000
 besTV,https://bp-caster.bestv.com.cn/941/3/video.m3u8
 
-🎥｜电影轮播,#genre#
+📽｜电影轮播,#genre#
 虎牙_周星驰,https://aldirect.corp-hls.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8?wsiphost=ipdbme
 虎牙_周星驰,http://live.aptvapp.com/live/huya/11342412
 虎牙_周星驰,http://diyp.112114.xyz/huya/11342412
