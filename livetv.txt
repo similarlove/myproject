@@ -1,4 +1,4 @@
-📡｜中央电视台,#genre#
+🛰｜中央电视台,#genre#
 
 CCTV1,http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/cctv/cctv1/2500/index.m3u8?ProgramID=&encrypt=
 CCTV2,http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/cctv/cctv2/3000/index.m3u8?ProgramID=&encrypt=
@@ -448,7 +448,7 @@ CCTV14,http://218.29.55.44:808/hls/14/index.m3u8
 CCTV16,http://117.169.124.149:8080/live/HD-8000k-1080P-cctv16/1.m3u8
 CCTV17,http://39.184.224.99:9080/newlive/live/hls/17/live.m3u8
 
-📺｜卫视频道,#genre#
+📡｜卫视频道,#genre#
 湖南卫视,http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd-hunan-2500/index.m3u8?ProgramID=&encrypt=
 北京卫视,http://39.136.172.2/hlsztemgsplive.miguvideo.com/ws_w/2018/bjws/bjws711/1000/index.m3u8?ProgramID=&encrypt=
 东方卫视,http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r4/dfl/dongfangws/3000/index.m3u8?ProgramID=&encrypt=
@@ -1346,7 +1346,7 @@ besTV宝宝动画,https://live.v1.mk/api/bestv.php?id=bbdh8m/8000000
 永州公共,http://stream.21ytv.com/gg/8twnQW67/live.m3u8
 
 
-🛸｜剧场频道,#genre#
+📺｜剧场频道,#genre#
 CCTV8,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240249_1/playlist.m3u8?CONTENTID=00000110240249_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV8,https://live.v1.mk/aishang/cctv8hd
 CCTV8,https://live.v1.mk/api/bestv.php?id=cctv8hd8m/8000000
@@ -1378,25 +1378,11 @@ CCTV第一剧场,http://111.20.40.170/PLTV/88888893/224/3221226959/index.m3u8
 CCTV女性时尚,http://111.20.40.170/PLTV/88888893/224/3221226969/index.m3u8
 CCTV怀旧剧场,http://111.20.40.170/PLTV/88888893/224/3221226972/index.m3u8
 CCTV兵器科技http://111.20.40.170/PLTV/88888893/224/3221226975/index.m3u8
-
 SiTV都市剧场,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/dsjcHD/__op/default/__f//index.m3u8?blog.ntnas.top
 SiTV都市剧场,https://live.v1.mk/api/bestv.php?id=dsjc8m/8000000
 SiTV都市剧场,http://111.20.40.170/PLTV/88888893/224/3221226581/index.m3u8
 SiTV都市剧场,http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8
 SiTV都市剧场,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226581/index.m3u8
-
-收视冠军,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c56_lb_230_720P_t10/c56_lb_230_720P_t10.m3u8?key
-央视大剧,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c54_lb_90_600_t10/c54_lb_90_600_t10.m3u8?key
-谍战剧场,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c57_lb_216_600_t10/c57_lb_216_600_t10.m3u8?key
-宫庭正剧,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c54_lb_152_600_t10/c54_lb_152_600_t10.m3u8?key
-古装剧场,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c54_lb_174_600_t10/c54_lb_174_600_t10.m3u8?key
-权谋剧场,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c55_lb_167_600_t10/c55_lb_167_600_t10.m3u8?key
-军旅剧场,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c55_lb_144_600_t10/c55_lb_144_600_t10.m3u8?key
-仙侠玄幻,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c55_lb_148_600_t10/c55_lb_148_600_t10.m3u8?key
-经典重温,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c55_lb_137_600_t10/c55_lb_137_600_t10.m3u8?key
-经典纪实,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c56_lb_220_600_t10/c56_lb_220_600_t10.m3u8?key
-自然地理,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c52_lb_81_600_t10/c52_lb_81_600_t10.m3u8?key
-华数TV连续剧,http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
 欢笑剧场4K，http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f//index.m3u8?blog.ntnas.top
 欢笑剧场4k,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
 欢笑剧场4k,http://111.20.40.170/PLTV/88888893/224/3221226582/index.m3u8
@@ -1457,9 +1443,7 @@ NewTV农业致富,http://39.135.138.60:18890/PLTV/88888910/224/3221225670/index.
 NewTV农业致富,http://117.169.121.162:6610/PLTV/88888910/224/3221225670/index.m3u8
 NewTV海外剧场,http://117.169.124.149:8080/live/xiqumd/index.m3u8
 NewTV健康有约,http://117.169.124.149:8080/live/ljiankangyouyue/index.m3u8
-besTV谍战剧场,https://live.v1.mk/api/bestv.php?id=dzjc8m/8000000
-besTV热门剧场,https://live.v1.mk/api/bestv.php?id=rmjc8m/8000000
-besTV,https://bp-caster.bestv.com.cn/941/3/video.m3u8
+
 
 
 🎬｜电影频道,#genre#
@@ -1518,6 +1502,28 @@ CHC动作电影,http://223.151.51.27:85/tsfile/live/1021_1.m3u8?key=txiptv&playl
 CHC动作电影,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC动作电影,http://111.20.41.248/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8?from=everydaytv4.2
 NewTV动作电影,http://117.169.124.149:8080/live/dongzuody/index.m3u8
+1905电影,http://111.177.34.81/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
+1905电影,http://111.177.34.80/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
+1905电影,http://111.177.34.74/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
+1905电影,http://111.177.34.73/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
+1905电影,http://111.177.34.68/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
+1905电影,http://111.177.34.67/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
+1905电影,http://111.177.34.69/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
+1905电影,http://111.177.34.66/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
+1905电影,http://115.231.128.16/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
+1905电影,http://115.231.128.80/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
+1905电影,http://115.231.128.81/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
+1905电影,http://115.231.128.73/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
+1905电影,http://120.220.38.30/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
+1905电影,http://120.220.38.26/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
+1905电影,http://120.220.38.28/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
+1905电影,http://120.220.38.16/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
+1905电影,http://120.220.38.29/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
+1905电影,http://120.220.38.27/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
+1905电影,http://124.132.156.25/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
+1905电影,http://120.226.188.224:80/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
+1905电影,http://120.226.188.135:80/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
+1905电影,http://120.226.188.136:80/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
 NewTV超级电影,http://39.135.138.59:18890/PLTV/88888910/224/3221225623/index.m3u8
 NewTV超级电影,http://39.134.115.163:8080/PLTV/88888910/224/3221225623/index.m3u8
 NewTV超级电影,http://117.169.121.162:6610/PLTV/88888910/224/3221225623/index.m3u8
@@ -1540,42 +1546,11 @@ NewTV超级电影,http://117.169.121.162:6610/PLTV/88888910/224/3221225623/index
 
 
 
-💽｜影视轮播,#genre#
+👁｜电视轮播,#genre#
 虎牙_音乐石榴,https://aldirect.corp-hls.huya.com/src/1199512344405-1199512344405-5224693802798678016-2399024812266-10057-A-0-1.m3u8?wsiphost=ipdbme
 虎牙_音乐石榴,http://live.aptvapp.com/live/huya/17091681
 虎牙_音乐石榴,http://diyp.112114.xyz/huya/17091681
 虎牙_音乐石榴,http://epg.112114.xyz/huya/17091681
-斗鱼_李子柒,http://tvmvip110.club/douyu.php?id=2901080
-斗鱼_李子柒,http://hw-tct.douyucdn.cn/live/2901080rqCm1mY3y.flv
-斗鱼_李子柒,http://hdltc1.douyucdn.cn/live/2901080rqCm1mY3y.flv
-斗鱼_李子柒,http://live.aptvapp.com/live/douyu/2901080
-斗鱼_李子柒,http://diyp.112114.xyz/douyu/2901080
-斗鱼_李子柒,http://epg.112114.xyz/douyu/2901080
-李子柒4K,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
-斗鱼_苗大冬,http://tvmvip110.club/douyu.php?id=8067328
-斗鱼_苗大冬,http://hw-tct.douyucdn.cn/live/8067328rPXmCRee6.flv
-斗鱼_苗大冬,http://hdltc1.douyucdn.cn/live/8067328rPXmCRee6.flv
-斗鱼_苗大冬,http://live.aptvapp.com/live/douyu/8067328
-斗鱼_苗大冬,http://diyp.112114.xyz/douyu/8067328
-斗鱼_苗大冬,http://epg.112114.xyz/douyu/8067328
-斗鱼_郭杰瑞,http://tvmvip110.club/douyu.php?id=7357786
-斗鱼_郭杰瑞,http://hw-tct.douyucdn.cn/live/7357786rayf23vkU.flv
-斗鱼_郭杰瑞,http://hdltc1.douyucdn.cn/live/7357786rayf23vkU.flv
-斗鱼_郭杰瑞,http://live.aptvapp.com/live/douyu/7357786
-斗鱼_郭杰瑞,http://diyp.112114.xyz/douyu/7357786
-斗鱼_郭杰瑞,http://epg.112114.xyz/douyu/7357786
-斗鱼_滇西小哥,http://tvmvip110.club/douyu.php?id=3243427
-斗鱼_滇西小哥,http://hw-tct.douyucdn.cn/live/3243427rwRfRvEtJ.flv
-斗鱼_滇西小哥,http://hdltc1.douyucdn.cn/live/3243427rwRfRvEtJ.flv
-斗鱼_滇西小哥,http://live.aptvapp.com/live/douyu/3243427
-斗鱼_滇西小哥,http://diyp.112114.xyz/douyu/3243427
-斗鱼_滇西小哥,http://epg.112114.xyz/douyu/3243427
-斗鱼_绵羊料理,http://tvmvip110.club/douyu.php?id=2090684
-斗鱼_绵羊料理,http://hw-tct.douyucdn.cn/live/2090684rVhkI1C7M.flv
-斗鱼_绵羊料理,http://hdltc1.douyucdn.cn/live/2090684rVhkI1C7M.flv
-斗鱼_绵羊料理,http://live.aptvapp.com/live/douyu/2090684
-斗鱼_绵羊料理,http://diyp.112114.xyz/douyu/2090684
-斗鱼_绵羊料理,http://epg.112114.xyz/douyu/2090684
 斗鱼_新三国,http://tvmvip110.club/douyu.php?id=276200
 斗鱼_新三国,http://hw-tct.douyucdn.cn/live/276200r8BuXLoShZ.flv
 斗鱼_新三国,http://hdltc1.douyucdn.cn/live/276200r8BuXLoShZ.flv
@@ -1638,6 +1613,37 @@ bili_红楼梦,http://epg.112114.xyz/bili/5568482
 虎牙_纪晓岚,http://live.aptvapp.com/live/huya/11342396
 虎牙_纪晓岚,http://diyp.112114.xyz/huya/11342396
 虎牙_纪晓岚,http://epg.112114.xyz/huya/11342396
+斗鱼_风云,http://tvmvip110.club/douyu.php?id=9290755
+斗鱼_风云,http://hw-tct.douyucdn.cn/live/9290755r1ypAW1Za.flv
+斗鱼_风云,http://hdltc1.douyucdn.cn/live/9290755r1ypAW1Za.flv
+斗鱼_风云,http://live.aptvapp.com/live/douyu/9290755
+斗鱼_风云,http://diyp.112114.xyz/douyu/9290755
+斗鱼_风云,http://epg.112114.xyz/douyu/9290755
+虎牙_爱情公寓,https://aldirect.corp-hls.huya.com/src/1388474069-1388474069-5963450717699047424-2777071594-10057-A-0-1.m3u8?wsiphost=ipdbme
+虎牙_爱情公寓,http://live.aptvapp.com/live/huya/11336726
+虎牙_爱情公寓,http://diyp.112114.xyz/huya/11336726
+虎牙_爱情公寓,http://epg.112114.xyz/huya/11336726
+虎牙_陈翔六点半,https://aldirect.corp-hls.huya.com/src/1352054947-1352054947-5807031779760013312-2704233350-10057-A-0-1.m3u8?wsiphost=ipdbme
+虎牙_陈翔六点半,http://live.aptvapp.com/live/huya/11274154
+虎牙_陈翔六点半,http://diyp.112114.xyz/huya/11274154
+虎牙_陈翔六点半,http://epg.112114.xyz/huya/11274154
+收视冠军,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c56_lb_230_720P_t10/c56_lb_230_720P_t10.m3u8?key
+央视大剧,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c54_lb_90_600_t10/c54_lb_90_600_t10.m3u8?key
+谍战剧场,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c57_lb_216_600_t10/c57_lb_216_600_t10.m3u8?key
+宫庭正剧,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c54_lb_152_600_t10/c54_lb_152_600_t10.m3u8?key
+古装剧场,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c54_lb_174_600_t10/c54_lb_174_600_t10.m3u8?key
+权谋剧场,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c55_lb_167_600_t10/c55_lb_167_600_t10.m3u8?key
+军旅剧场,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c55_lb_144_600_t10/c55_lb_144_600_t10.m3u8?key
+仙侠玄幻,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c55_lb_148_600_t10/c55_lb_148_600_t10.m3u8?key
+经典重温,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c55_lb_137_600_t10/c55_lb_137_600_t10.m3u8?key
+经典纪实,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c56_lb_220_600_t10/c56_lb_220_600_t10.m3u8?key
+自然地理,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c52_lb_81_600_t10/c52_lb_81_600_t10.m3u8?key
+华数TV连续剧,http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
+besTV谍战剧场,https://live.v1.mk/api/bestv.php?id=dzjc8m/8000000
+besTV热门剧场,https://live.v1.mk/api/bestv.php?id=rmjc8m/8000000
+besTV,https://bp-caster.bestv.com.cn/941/3/video.m3u8
+
+🎥｜电影轮播,#genre#
 虎牙_周星驰,https://aldirect.corp-hls.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8?wsiphost=ipdbme
 虎牙_周星驰,http://live.aptvapp.com/live/huya/11342412
 虎牙_周星驰,http://diyp.112114.xyz/huya/11342412
@@ -1678,20 +1684,6 @@ YY_成龙,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1354888751
 虎牙_鬼片,http://epg.112114.xyz/huya/11342421
 YY_林正英,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1351505899
 YY_林正英,http://106.53.212.251/daili/YY_.php?id=1351505899
-斗鱼_风云,http://tvmvip110.club/douyu.php?id=9290755
-斗鱼_风云,http://hw-tct.douyucdn.cn/live/9290755r1ypAW1Za.flv
-斗鱼_风云,http://hdltc1.douyucdn.cn/live/9290755r1ypAW1Za.flv
-斗鱼_风云,http://live.aptvapp.com/live/douyu/9290755
-斗鱼_风云,http://diyp.112114.xyz/douyu/9290755
-斗鱼_风云,http://epg.112114.xyz/douyu/9290755
-虎牙_爱情公寓,https://aldirect.corp-hls.huya.com/src/1388474069-1388474069-5963450717699047424-2777071594-10057-A-0-1.m3u8?wsiphost=ipdbme
-虎牙_爱情公寓,http://live.aptvapp.com/live/huya/11336726
-虎牙_爱情公寓,http://diyp.112114.xyz/huya/11336726
-虎牙_爱情公寓,http://epg.112114.xyz/huya/11336726
-虎牙_陈翔六点半,https://aldirect.corp-hls.huya.com/src/1352054947-1352054947-5807031779760013312-2704233350-10057-A-0-1.m3u8?wsiphost=ipdbme
-虎牙_陈翔六点半,http://live.aptvapp.com/live/huya/11274154
-虎牙_陈翔六点半,http://diyp.112114.xyz/huya/11274154
-虎牙_陈翔六点半,http://epg.112114.xyz/huya/11274154
 虎牙_八点档,https://aldirect.corp-hls.huya.com/src/1524439855-1524439855-6547419321943982080-3049003166-10057-A-0-1.m3u8?wsiphost=ipdbme
 虎牙_八点档,http://live.aptvapp.com/live/huya/880261
 虎牙_八点档,http://diyp.112114.xyz/huya/880261
@@ -1720,28 +1712,6 @@ YY_欧美科幻,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=37988782
 YY_欧美科幻,http://106.53.212.251/daili/YY_.php?id=37988782
 YY_欧美电影,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=24923327
 YY_欧美电影,http://106.53.212.251/daili/YY_.php?id=24923327
-1905电影,http://111.177.34.81/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
-1905电影,http://111.177.34.80/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
-1905电影,http://111.177.34.74/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
-1905电影,http://111.177.34.73/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
-1905电影,http://111.177.34.68/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
-1905电影,http://111.177.34.67/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
-1905电影,http://111.177.34.69/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
-1905电影,http://111.177.34.66/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
-1905电影,http://115.231.128.16/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
-1905电影,http://115.231.128.80/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
-1905电影,http://115.231.128.81/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
-1905电影,http://115.231.128.73/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
-1905电影,http://120.220.38.30/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
-1905电影,http://120.220.38.26/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
-1905电影,http://120.220.38.28/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
-1905电影,http://120.220.38.16/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
-1905电影,http://120.220.38.29/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
-1905电影,http://120.220.38.27/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
-1905电影,http://124.132.156.25/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
-1905电影,http://120.226.188.224:80/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
-1905电影,http://120.226.188.135:80/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
-1905电影,http://120.226.188.136:80/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
 华语院线,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c51_lb_114_600_t10/c51_lb_114_600_t10.m3u8?key
 院线电影,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c52_lb_64_720P_t10/c52_lb_64_720P_t10.m3u8?key
 高分电影,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c51_lb_112_600_t10/c51_lb_112_600_t10.m3u8?key
@@ -1751,8 +1721,6 @@ YY_欧美电影,http://106.53.212.251/daili/YY_.php?id=24923327
 besTV华语影院,https://live.v1.mk/api/bestv.php?id=hYY_y8m/8000000
 besTV星光影院,https://live.v1.mk/api/bestv.php?id=xgYY_8m/8000000
 besTV全球大片,https://live.v1.mk/api/bestv.php?id=qqdp8m/8000000
-
-
 
 🎮｜游戏直播,#genre#
 
@@ -1822,6 +1790,37 @@ besTV全球大片,https://live.v1.mk/api/bestv.php?id=qqdp8m/8000000
 斗鱼_pigff,http://live.aptvapp.com/live/douyu/24422
 斗鱼_pigff,http://diyp.112114.xyz/douyu/24422
 斗鱼_pigff,http://epg.112114.xyz/douyu/24422
+斗鱼_李子柒,http://tvmvip110.club/douyu.php?id=2901080
+斗鱼_李子柒,http://hw-tct.douyucdn.cn/live/2901080rqCm1mY3y.flv
+斗鱼_李子柒,http://hdltc1.douyucdn.cn/live/2901080rqCm1mY3y.flv
+斗鱼_李子柒,http://live.aptvapp.com/live/douyu/2901080
+斗鱼_李子柒,http://diyp.112114.xyz/douyu/2901080
+斗鱼_李子柒,http://epg.112114.xyz/douyu/2901080
+李子柒4K,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
+斗鱼_苗大冬,http://tvmvip110.club/douyu.php?id=8067328
+斗鱼_苗大冬,http://hw-tct.douyucdn.cn/live/8067328rPXmCRee6.flv
+斗鱼_苗大冬,http://hdltc1.douyucdn.cn/live/8067328rPXmCRee6.flv
+斗鱼_苗大冬,http://live.aptvapp.com/live/douyu/8067328
+斗鱼_苗大冬,http://diyp.112114.xyz/douyu/8067328
+斗鱼_苗大冬,http://epg.112114.xyz/douyu/8067328
+斗鱼_郭杰瑞,http://tvmvip110.club/douyu.php?id=7357786
+斗鱼_郭杰瑞,http://hw-tct.douyucdn.cn/live/7357786rayf23vkU.flv
+斗鱼_郭杰瑞,http://hdltc1.douyucdn.cn/live/7357786rayf23vkU.flv
+斗鱼_郭杰瑞,http://live.aptvapp.com/live/douyu/7357786
+斗鱼_郭杰瑞,http://diyp.112114.xyz/douyu/7357786
+斗鱼_郭杰瑞,http://epg.112114.xyz/douyu/7357786
+斗鱼_滇西小哥,http://tvmvip110.club/douyu.php?id=3243427
+斗鱼_滇西小哥,http://hw-tct.douyucdn.cn/live/3243427rwRfRvEtJ.flv
+斗鱼_滇西小哥,http://hdltc1.douyucdn.cn/live/3243427rwRfRvEtJ.flv
+斗鱼_滇西小哥,http://live.aptvapp.com/live/douyu/3243427
+斗鱼_滇西小哥,http://diyp.112114.xyz/douyu/3243427
+斗鱼_滇西小哥,http://epg.112114.xyz/douyu/3243427
+斗鱼_绵羊料理,http://tvmvip110.club/douyu.php?id=2090684
+斗鱼_绵羊料理,http://hw-tct.douyucdn.cn/live/2090684rVhkI1C7M.flv
+斗鱼_绵羊料理,http://hdltc1.douyucdn.cn/live/2090684rVhkI1C7M.flv
+斗鱼_绵羊料理,http://live.aptvapp.com/live/douyu/2090684
+斗鱼_绵羊料理,http://diyp.112114.xyz/douyu/2090684
+斗鱼_绵羊料理,http://epg.112114.xyz/douyu/2090684
 虎牙_AmazingJ,http://al.flv.huya.com/src/1199517808234-1199517808234-5248160769664614400-2399035739924-10057-A-0-1.flv?wsSecret=eda70ee2bdef5bb7d1586c6949721ed3&wsTime=640ad4f0&seqid=3143064277960&ctype=tars_mobile&ver=1&txyp=&fs=bgct&u=1464636405087&t=103&sv=2107230539
 虎牙_AmazingJ,https://aldirect.corp-hls.huya.com/src/1199517808234-1199517808234-5248160769664614400-2399035739924-10057-A-0-1.m3u8?wsiphost=ipdbme
 虎牙_AmazingJ,http://live.aptvapp.com/live/huya/991108
