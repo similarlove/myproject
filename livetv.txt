@@ -1577,7 +1577,7 @@ bilibili_新水浒,http://epg.112114.xyz/bili/21747822
 斗鱼_西游记,http://live.aptvapp.com/live/douyu/5472438
 斗鱼_西游记,http://diyp.112114.xyz/douyu/5472438
 斗鱼_西游记,http://epg.112114.xyz/douyu/5472438
-虎牙_TVB西游记,https://al.flv.huya.com/src/1199561181026-1199561181026-5434445492840824832-2399122485508-10057-A-0-1.m3u8?wsiphost=ipdbme
+虎牙_TVB西游记,https://aldirect.corp-hls.huya.com/src/1199561181026-1199561181026-5434445492840824832-2399122485508-10057-A-0-1.m3u8?wsiphost=ipdbme
 虎牙_TVB西游记,http://live.aptvapp.com/live/huya/23735126
 虎牙_TVB西游记,http://diyp.112114.xyz/huya/23735126
 虎牙_TVB西游记,http://epg.112114.xyz/huya/23735126
