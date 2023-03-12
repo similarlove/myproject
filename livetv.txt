@@ -1885,6 +1885,10 @@ bilibili_笑笑,https://cn-hbyc-ct-02-12.bilivideo.com/live-bvc/717530/live_8739
 bilibili_笑笑,https://d1--cn-gotcha208.bilivideo.com/live-bvc/717530/live_8739477_3713195_bluray/index.m3u8?expires=1678545774&len=0&oi=1995382797&pt=web&qn=10000&trid=1007e284147b11e749e0b7b26147eb2da53f&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha208&sign=48ab3c79e5f33ed1c7a5d8f5a84510ce&sk=28f89abaa5131f0df6d68cab32896613&p2p_type=1&src=57345&sl=10&free_type=0&mid=0&pp=rtmp&machinezone=jd&source=onetier&trace=0&site=f11ee605bc0ddd1d7b2bd086086af07c&order=3
 bilibili_笑笑,http://diyp.112114.xyz/bili/7777
 bilibili_笑笑,http://epg.112114.xyz/bili/7777
+bilibili_icon,https://cn-hbyc-ct-02-29.bilivideo.com/live-bvc/715968/live_41109777_21959261_bluray/index.m3u8
+bilibili_icon,https://c1--cn-gotcha208.bilivideo.com/live-bvc/715968/live_41109777_21959261_bluray/index.m3u8?expires=1678634000&len=0&oi=1995382797&pt=web&qn=10000&trid=10077d956239e7b5436d89e289bb0b8bce7e&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha208&sign=e087892d8bb8cb9acd74956ce50f6dd6&sk=dcdae7465025905857323e593cd9f9e6&p2p_type=1&src=57345&sl=2&free_type=0&mid=0&pp=rtmp&machinezone=jd&source=onetier&trace=0&site=768ebd462661f8a1bbdd6c4fc71fd12b&order=2
+bilibili_icon,http://diyp.112114.xyz/bili/4219
+bilibili_icon,http://epg.112114.xyz/bili/4219
 bilibili_mage,http://tvmvip110.club/bili.php?id=22508985
 bilibili_mage,https://xy60x188x228x226xy.mcdn.bilivideo.cn:486/live-bvc/219156/live_472497932_61249918_bluray/index.m3u8
 bilibili_mage,https://cn-hbyc-ct-02-13.bilivideo.com/live-bvc/219156/live_472497932_61249918_bluray/index.m3u8
