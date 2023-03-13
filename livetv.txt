@@ -1585,10 +1585,6 @@ bilibili_红楼梦,https://cn-jsyz-ct-03-51.bilivideo.com/live-bvc/936893/live_2
 bilibili_红楼梦,https://c1--cn-gotcha208.bilivideo.com/live-bvc/936893/live_211993858_7364279/index.m3u8?expires=1678544957&len=0&oi=1995382797&pt=web&qn=10000&trid=1007b778fc047e3c4126bd7778588d854dfe&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha208&sign=8370691f75278f45124be69166b1e4a5&sk=ff8aab23a771979f0251dd9371703f52&p2p_type=1&src=57345&sl=1&free_type=0&mid=0&pp=rtmp&machinezone=jd&source=onetier&trace=0&site=10eebfb82b27950b03c76f7f88949b1d&order=2
 bilibili_红楼梦,http://diyp.112114.xyz/bili/5568482
 bilibili_红楼梦,http://epg.112114.xyz/bili/5568482
-YY_红楼梦,http://media-proxy.yy.com/livesystem/15013_xv_1382745084_1382745084_0_0_0-15013_xa_1382745084_1382745084_0_0_0.m3u8?org=yyweb&uuid=147fc445583d41aba7d88627ed4fb80d&t=1678716112&tk=6594c7c6fa6786b2ce592e128fd24cab
-YY_红楼梦,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1382745084
-YY_85版济公,http://media-proxy.yy.com/livesystem/15013_xv_25519088_25519088_0_0_0-15013_xa_25519088_25519088_0_0_0.m3u8?org=yyweb&uuid=32abce4bacf14c449220851debcc51ba&t=1678711277&tk=ecf4ff925065110750d3f9e68b3d82b2
-YY_85版济公,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=25519088
 YY_90版封神榜,http://media-proxy.yy.com/livesystem/15013_xv_1353426319_1353426319_0_0_0-15013_xa_1353426319_1353426319_0_0_0.m3u8?org=yyweb&uuid=a424e934996842c2bbce9df428a89f73&t=1678713866&tk=5f357d22d2f80aa31cbc318a55c89706
 YY_90版封神榜,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1353426319
 YY_新白娘子传奇,http://media-proxy.yy.com/livesystem/15013_xv_1354490667_1354490667_0_0_0-15013_xa_1354490667_1354490667_0_0_0.m3u8?org=yyweb&uuid=83e1d98ce9a84797ac6125a6c4d07bab&t=1678715320&tk=c3ac68b5b7fba888040085c127f077c0
@@ -1620,8 +1616,6 @@ YY_康熙微服私访记,http://media-proxy.yy.com/livesystem/15013_xv_135281169
 YY_康熙微服私访记,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1352811698
 YY_大明王朝,1566,http://media-proxy.yy.com/livesystem/15013_xv_1382736879_1382736879_0_0_0-15013_xa_1382736879_1382736879_0_0_0.m3u8?org=yyweb&uuid=7cde8ac57cdb4b54ab542004753741ca&t=1678716417&tk=fbbb4009665aecf0ee916d545e70cf59
 YY_大明王朝,1566,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1382736879
-YY_朱元璋,http://media-proxy.yy.com/livesystem/15013_xv_1382765235_1382765235_0_0_0-15013_xa_1382765235_1382765235_0_0_0.m3u8?org=yyweb&uuid=752105050671413789ca7aa757bbcc22&t=1678713233&tk=dd303f2d505d93b1c001e83c092ce09a
-YY_朱元璋,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1382765235
 YY_美人心计,http://media-proxy.yy.com/livesystem/15013_xv_21881901_21881901_0_0_0-15013_xa_21881901_21881901_0_0_0.m3u8?org=yyweb&uuid=ddbb1d60b8f44deb9927319a64f42554&t=1678714872&tk=e0e1ef7155722a3752b17b1430ea9bad
 YY_美人心计,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=21881901
 YY_小兵张嘎,http://media-proxy.yy.com/livesystem/15013_xv_1354930225_1354930225_0_0_0-15013_xa_1354930225_1354930225_0_0_0.m3u8?org=yyweb&uuid=f75d1034e3104199a3d42acea4ad2a1e&t=1678714548&tk=d0a0cdddd2b6e450833d5dc3468f66e9
@@ -1630,16 +1624,10 @@ YY_小兵张嘎,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1354930225
 虎牙_83版射雕,http://live.aptvapp.com/live/huya/23728674
 虎牙_83版射雕,http://diyp.112114.xyz/huya/23728674
 虎牙_83版射雕,http://epg.112114.xyz/huya/23728674
-YY_83版射雕,http://media-proxy.yy.com/livesystem/15013_xv_1354210357_1354210357_0_0_0-15013_xa_1354210357_1354210357_0_0_0.m3u8?org=yyweb&uuid=a79e9811ad594245ab3fed518c834703&t=1678713612&tk=6ca4ecee208845fa99627f30cc20a451
-YY_83版射雕,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1354210357
 虎牙_97版天龙,https://aldirect.corp-hls.huya.com/src/1199564062365-1199564062365-5446820749614514176-2399128248186-10057-A-0-1.m3u8?wsiphost=ipdbme
 虎牙_97版天龙,http://live.aptvapp.com/live/huya/23903123
 虎牙_97版天龙,http://diyp.112114.xyz/huya/23903123
 虎牙_97版天龙,http://epg.112114.xyz/huya/23903123
-YY_97版天龙,http://media-proxy.yy.com/livesystem/15013_xv_1351814644_1351814644_0_0_0-15013_xa_1351814644_1351814644_0_0_0.m3u8?org=yyweb&uuid=ac73f54d11c04437a9b8fa7b606ec212&t=1678713751&tk=de6c2a655b06cacf05f8ac631b18ce3b
-YY_97版天龙,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1351814644
-YY_2001版倚天,http://media-proxy.yy.com/livesystem/15013_xv_1355326475_1355326475_0_0_0-15013_xa_1355326475_1355326475_0_0_0.m3u8?org=yyweb&uuid=4ca42bfb9b5048f791bf0ce28c01780c&t=1678715057&tk=ff1183adacf30f5d8d27ecc642e73329
-YY_2001版倚天,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1355326475
 YY_2002版倚天,http://media-proxy.yy.com/livesystem/15013_xv_1449856066_1449856066_0_0_0-15013_xa_1449856066_1449856066_0_0_0.m3u8?org=yyweb&uuid=5df0b24112054106bc69523c490a3a2b&t=1678714041&tk=bc4cd3a10dc2f888314087b10deea102
 YY_2002版倚天,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1449856066
 虎牙_笑傲江湖,https://aldirect.corp-hls.huya.com/src/1199563481280-1199563481280-5444325008543318016-2399127086016-10057-A-0-1.m3u8?wsiphost=ipdbme
@@ -1650,8 +1638,6 @@ YY_2002版倚天,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1449856066
 虎牙_鹿鼎记,http://live.aptvapp.com/live/huya/23865080
 虎牙_鹿鼎记,http://diyp.112114.xyz/huya/23865080
 虎牙_鹿鼎记,http://epg.112114.xyz/huya/23865080
-YY_鹿鼎记,http://media-proxy.yy.com/livesystem/15013_xv_28265277_28265277_0_0_0-15013_xa_28265277_28265277_0_0_0.m3u8?org=yyweb&uuid=0f5f071d0ba947099bf0a578a3c4abf1&t=1678714375&tk=66f1848dc73410ebf37547c52efebd29
-YY_鹿鼎记,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=28265277
 YY_天下第一,http://media-proxy.yy.com/livesystem/15013_xv_1354780649_1354780649_0_0_0-15013_xa_1354780649_1354780649_0_0_0.m3u8?org=yyweb&uuid=5ad0c9fbe5234d77a50ce374cf45154b&t=1678716212&tk=2fe0ad45e5bd9b3076a500752332309c
 YY_天下第一,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1354780649
 YY_少年包青天,http://media-proxy.yy.com/livesystem/15013_xv_1382651363_1382651363_0_0_0-15013_xa_1382651363_1382651363_0_0_0.m3u8?org=yyweb&uuid=cd0efc396e1a49c88674679d1ccb825d&t=1678713072&tk=bfea75a8dc10b385276f9af1372006ac
