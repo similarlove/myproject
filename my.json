@@ -1,10 +1,12 @@
 {
- "lives": [{
-	   "name": "live",
-	   "type": 0,
-	   "url": "https://ghproxy.com/https://raw.githubusercontent.com/similarlove/myproject/main/livetv.txt",
-	   "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-	   "logo": "https://epg.112114.xyz/logo/{name}.png"
+"lives": [{
+		   "group": "redirect",
+		   "channels": [{
+			  "name": "live",
+			  "urls": [
+				"proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vc2ltaWxhcmxvdmUvbXlwcm9qZWN0L21haW4vbGl2ZXR2LnR4dA=="
+			  ]
+		}]
 }],
   "wallpaper": "http://maoyingshi.cc/api.php",
   "spider": "https://ghproxy.com/https://raw.githubusercontent.com/similarlove/myproject/main/live.jar",
